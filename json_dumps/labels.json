@@ -1,0 +1,44 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Vienna",
+    "sprache": [
+      {
+        "id": 6650,
+        "value": "en",
+        "color": "light-green"
+      }
+    ],
+    "frd_id": "frd_label_1",
+    "label_type": [],
+    "places": [
+      {
+        "id": 6,
+        "value": "Wien"
+      }
+    ],
+    "persons": []
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "Artemidoros",
+    "sprache": [],
+    "frd_id": "frd_label_2",
+    "label_type": [
+      {
+        "id": 6651,
+        "value": "Synonym",
+        "color": "light-blue"
+      }
+    ],
+    "places": [],
+    "persons": [
+      {
+        "id": 1,
+        "value": "Artemidoros aus Daldis"
+      }
+    ]
+  }
+}

@@ -1,0 +1,5387 @@
+{
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Administrator/Administratorin",
+    "frd_id": "frd_prof_3",
+    "persons": []
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Admiral/Admiralin",
+    "frd_id": "frd_prof_4",
+    "persons": []
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Aeronaut/Aeronaut",
+    "frd_id": "frd_prof_5",
+    "persons": []
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Agent/Agentin",
+    "frd_id": "frd_prof_6",
+    "persons": []
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "Agitator/Agitatorin",
+    "frd_id": "frd_prof_7",
+    "persons": []
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "name": "Agrarwissenschaftler/Agrarwissenschaftlerin",
+    "frd_id": "frd_prof_8",
+    "persons": []
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "name": "Akrobat/Akrobatin",
+    "frd_id": "frd_prof_9",
+    "persons": []
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "name": "Aktivist/Aktivistin",
+    "frd_id": "frd_prof_10",
+    "persons": []
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "name": "Alpinist/Alpinistin",
+    "frd_id": "frd_prof_11",
+    "persons": []
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "name": "Altphilologe/Altphilologin",
+    "frd_id": "frd_prof_12",
+    "persons": []
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "name": "Amtsleiter/Amtsleiterin",
+    "frd_id": "frd_prof_13",
+    "persons": []
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "name": "Anarchist/Anarchistin",
+    "frd_id": "frd_prof_14",
+    "persons": []
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "name": "Anatom/Anatomin",
+    "frd_id": "frd_prof_15",
+    "persons": [
+      {
+        "id": 51,
+        "value": "Leonardo, da Vinci"
+      },
+      {
+        "id": 53,
+        "value": "Burdach, Karl Friedrich"
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "name": "Angehöriger des Domkapitels/Angehörige des Domkapitels",
+    "frd_id": "frd_prof_16",
+    "persons": []
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "name": "Angestellter/Angestellte",
+    "frd_id": "frd_prof_17",
+    "persons": []
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "name": "Anglist/Anglistin",
+    "frd_id": "frd_prof_18",
+    "persons": []
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "name": "Anthropologe/Anthropologin",
+    "frd_id": "frd_prof_19",
+    "persons": [
+      {
+        "id": 79,
+        "value": "Virchow, Rudolf"
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "name": "Anthroposoph/Anthroposophin",
+    "frd_id": "frd_prof_20",
+    "persons": []
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "name": "Antiquitätenhändler/Antiquitätenhändlerin",
+    "frd_id": "frd_prof_21",
+    "persons": []
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "name": "Anzeigenakquireur/Anzeigenakquireuse",
+    "frd_id": "frd_prof_22",
+    "persons": []
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "name": "Apotheker/Apothekerin",
+    "frd_id": "frd_prof_23",
+    "persons": []
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "name": "Aquarellist/Aquarellistin",
+    "frd_id": "frd_prof_24",
+    "persons": []
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "name": "Archäologe/Archäologin",
+    "frd_id": "frd_prof_25",
+    "persons": []
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "name": "Architekt/Architektin",
+    "frd_id": "frd_prof_26",
+    "persons": [
+      {
+        "id": 51,
+        "value": "Leonardo, da Vinci"
+      }
+    ]
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "name": "Archivar/Archivarin",
+    "frd_id": "frd_prof_27",
+    "persons": []
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "name": "Aristokrat/Aristokratin",
+    "frd_id": "frd_prof_28",
+    "persons": []
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "name": "Arrangeur/Arrangeurin",
+    "frd_id": "frd_prof_29",
+    "persons": []
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "name": "Artist/Artistin",
+    "frd_id": "frd_prof_30",
+    "persons": []
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "name": "Arzt/Ärztin",
+    "frd_id": "frd_prof_31",
+    "persons": [
+      {
+        "id": 2,
+        "value": "Baumgarten, Alfred"
+      },
+      {
+        "id": 3,
+        "value": "Beer, Theodor"
+      },
+      {
+        "id": 40,
+        "value": "Breuer, Josef"
+      },
+      {
+        "id": 49,
+        "value": "Liébeault, Ambroise-Auguste"
+      },
+      {
+        "id": 57,
+        "value": "Kingsford, Anna"
+      },
+      {
+        "id": 67,
+        "value": "Havelock, Ellis"
+      },
+      {
+        "id": 79,
+        "value": "Virchow, Rudolf"
+      }
+    ]
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "name": "Astronom/Astronomin",
+    "frd_id": "frd_prof_32",
+    "persons": []
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "name": "Attentäter/Attentäterin",
+    "frd_id": "frd_prof_33",
+    "persons": []
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "name": "Auditor/Auditorin",
+    "frd_id": "frd_prof_34",
+    "persons": []
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "name": "Augenarzt/Augenärztin",
+    "frd_id": "frd_prof_35",
+    "persons": []
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "name": "Autografensammler/Autografensammlerin",
+    "frd_id": "frd_prof_36",
+    "persons": []
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "name": "Autokrat/Autokratin",
+    "frd_id": "frd_prof_37",
+    "persons": []
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "name": "Autor/Autorin",
+    "frd_id": "frd_prof_38",
+    "persons": [
+      {
+        "id": 57,
+        "value": "Kingsford, Anna"
+      },
+      {
+        "id": 63,
+        "value": "Goldscheider, Adalbert"
+      }
+    ]
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "name": "Autoverleiher/Autoverleiherin",
+    "frd_id": "frd_prof_39",
+    "persons": []
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "name": "Aviatiker/Aviatikerin",
+    "frd_id": "frd_prof_40",
+    "persons": []
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "name": "Bäcker/Bäckerin",
+    "frd_id": "frd_prof_41",
+    "persons": []
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "name": "Bahnbeamter/Bahnbeamte",
+    "frd_id": "frd_prof_42",
+    "persons": []
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "name": "Bahninspektor/Bahninspektorin",
+    "frd_id": "frd_prof_43",
+    "persons": []
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "name": "Bakteriologe/Bakteriologin",
+    "frd_id": "frd_prof_44",
+    "persons": []
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "name": "Ballettchef/Ballettchefin",
+    "frd_id": "frd_prof_45",
+    "persons": []
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "name": "Ballettmeister/Ballettmeisterin",
+    "frd_id": "frd_prof_46",
+    "persons": []
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "name": "Balneologe/Balneologin",
+    "frd_id": "frd_prof_47",
+    "persons": []
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "name": "Bankangestellte/Bankangestellte",
+    "frd_id": "frd_prof_48",
+    "persons": []
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "name": "Bankdirektor/Bankdirektorin",
+    "frd_id": "frd_prof_49",
+    "persons": []
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "name": "Bankier/Bankierin",
+    "frd_id": "frd_prof_50",
+    "persons": []
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "name": "Bauinspektor/Bauinspektorin",
+    "frd_id": "frd_prof_51",
+    "persons": []
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "name": "Baumeister/Baumeisterin",
+    "frd_id": "frd_prof_52",
+    "persons": []
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "name": "Baurat/Baurätin",
+    "frd_id": "frd_prof_53",
+    "persons": []
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "name": "Bauunternehmer/Bauunternehmerin",
+    "frd_id": "frd_prof_54",
+    "persons": []
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "name": "Beamter/Beamte",
+    "frd_id": "frd_prof_55",
+    "persons": []
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "name": "Beamter/in",
+    "frd_id": "frd_prof_56",
+    "persons": []
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "name": "Bergarbeiter/Bergarbeiterin",
+    "frd_id": "frd_prof_57",
+    "persons": []
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "name": "Betrüger/Betrügerin",
+    "frd_id": "frd_prof_58",
+    "persons": []
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "name": "Bezirksarzt/Bezirksärztin",
+    "frd_id": "frd_prof_59",
+    "persons": []
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "name": "Bibliograf/Bibliografin",
+    "frd_id": "frd_prof_60",
+    "persons": []
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "name": "Bibliothekar/Bibliothekarin",
+    "frd_id": "frd_prof_61",
+    "persons": []
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "name": "Bibliothekarin",
+    "frd_id": "frd_prof_62",
+    "persons": []
+  },
+  "63": {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "name": "Bibliotheksleiter/Bibliotheksleiterin",
+    "frd_id": "frd_prof_63",
+    "persons": []
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "name": "Bierbrauer/Bierbrauerin",
+    "frd_id": "frd_prof_64",
+    "persons": []
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "name": "Bildender Künstler/Bildende Künstlerin",
+    "frd_id": "frd_prof_65",
+    "persons": []
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "name": "Bildhauer/Bildhauerin",
+    "frd_id": "frd_prof_66",
+    "persons": [
+      {
+        "id": 51,
+        "value": "Leonardo, da Vinci"
+      }
+    ]
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "name": "Biograf/Biografin",
+    "frd_id": "frd_prof_67",
+    "persons": []
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "name": "Biologe/Biologin",
+    "frd_id": "frd_prof_68",
+    "persons": []
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "name": "Bischof/Bischöfin",
+    "frd_id": "frd_prof_69",
+    "persons": []
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "name": "Bittsteller/Bittstellerin",
+    "frd_id": "frd_prof_70",
+    "persons": []
+  },
+  "71": {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "name": "Bordellbetreiber/Bordellbetreiberin",
+    "frd_id": "frd_prof_71",
+    "persons": []
+  },
+  "72": {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "name": "Börsenmakler/Börsenmaklerin",
+    "frd_id": "frd_prof_72",
+    "persons": []
+  },
+  "73": {
+    "id": 73,
+    "order": "73.00000000000000000000",
+    "name": "Börsensensal/Börsensensalin",
+    "frd_id": "frd_prof_73",
+    "persons": []
+  },
+  "74": {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "name": "Botaniker/Botanikerin",
+    "frd_id": "frd_prof_74",
+    "persons": []
+  },
+  "75": {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "name": "Bote/Botin",
+    "frd_id": "frd_prof_75",
+    "persons": []
+  },
+  "76": {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "name": "Botschaftsangestellter/Botschaftsangestellte",
+    "frd_id": "frd_prof_76",
+    "persons": []
+  },
+  "77": {
+    "id": 77,
+    "order": "77.00000000000000000000",
+    "name": "Botschaftsmitarbeiter/Botschaftsmitarbeiterin",
+    "frd_id": "frd_prof_77",
+    "persons": []
+  },
+  "78": {
+    "id": 78,
+    "order": "78.00000000000000000000",
+    "name": "Bratschist/Bratschistin",
+    "frd_id": "frd_prof_78",
+    "persons": []
+  },
+  "79": {
+    "id": 79,
+    "order": "79.00000000000000000000",
+    "name": "Briefträger/Briefträgerin",
+    "frd_id": "frd_prof_79",
+    "persons": []
+  },
+  "80": {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "name": "Buchdrucker/Buchdruckerin",
+    "frd_id": "frd_prof_80",
+    "persons": []
+  },
+  "81": {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "name": "Buchhalter/Buchhalterin",
+    "frd_id": "frd_prof_81",
+    "persons": []
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "name": "Buchhändler/Buchhändlerin",
+    "frd_id": "frd_prof_82",
+    "persons": []
+  },
+  "83": {
+    "id": 83,
+    "order": "83.00000000000000000000",
+    "name": "Buchmacher/Buchmacherin",
+    "frd_id": "frd_prof_83",
+    "persons": []
+  },
+  "84": {
+    "id": 84,
+    "order": "84.00000000000000000000",
+    "name": "Buddha/Tara",
+    "frd_id": "frd_prof_84",
+    "persons": []
+  },
+  "85": {
+    "id": 85,
+    "order": "85.00000000000000000000",
+    "name": "Bühnenbildner/Bühnenbildnerin",
+    "frd_id": "frd_prof_85",
+    "persons": []
+  },
+  "86": {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "name": "Bühnenleiter/Bühnenleiterin",
+    "frd_id": "frd_prof_86",
+    "persons": []
+  },
+  "87": {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "name": "Bühnenmeister/Bühnenmeisterin",
+    "frd_id": "frd_prof_87",
+    "persons": []
+  },
+  "88": {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "name": "Bühnentechniker/Bühnentechnikerin",
+    "frd_id": "frd_prof_88",
+    "persons": []
+  },
+  "89": {
+    "id": 89,
+    "order": "89.00000000000000000000",
+    "name": "Bühnenverleger/Bühnenverlegerin",
+    "frd_id": "frd_prof_89",
+    "persons": []
+  },
+  "90": {
+    "id": 90,
+    "order": "90.00000000000000000000",
+    "name": "Bundeskanzler/Bundeskanzlerin",
+    "frd_id": "frd_prof_90",
+    "persons": []
+  },
+  "91": {
+    "id": 91,
+    "order": "91.00000000000000000000",
+    "name": "Bürgermeister/Bürgermeisterin",
+    "frd_id": "frd_prof_91",
+    "persons": []
+  },
+  "92": {
+    "id": 92,
+    "order": "92.00000000000000000000",
+    "name": "Büroangestellter/Büroangestellte",
+    "frd_id": "frd_prof_92",
+    "persons": []
+  },
+  "93": {
+    "id": 93,
+    "order": "93.00000000000000000000",
+    "name": "Büropraktikant/Büropraktikantin",
+    "frd_id": "frd_prof_93",
+    "persons": []
+  },
+  "94": {
+    "id": 94,
+    "order": "94.00000000000000000000",
+    "name": "Burschenschaftler/Burschenschaftlerin",
+    "frd_id": "frd_prof_94",
+    "persons": []
+  },
+  "95": {
+    "id": 95,
+    "order": "95.00000000000000000000",
+    "name": "Byzantinist/Byzantinistin",
+    "frd_id": "frd_prof_95",
+    "persons": []
+  },
+  "96": {
+    "id": 96,
+    "order": "96.00000000000000000000",
+    "name": "Cafétier/Cafétière",
+    "frd_id": "frd_prof_96",
+    "persons": []
+  },
+  "97": {
+    "id": 97,
+    "order": "97.00000000000000000000",
+    "name": "Cellist/Cellistin",
+    "frd_id": "frd_prof_97",
+    "persons": []
+  },
+  "98": {
+    "id": 98,
+    "order": "98.00000000000000000000",
+    "name": "Chansonnier",
+    "frd_id": "frd_prof_98",
+    "persons": []
+  },
+  "99": {
+    "id": 99,
+    "order": "99.00000000000000000000",
+    "name": "Chansonnier/Chansonette",
+    "frd_id": "frd_prof_99",
+    "persons": []
+  },
+  "100": {
+    "id": 100,
+    "order": "100.00000000000000000000",
+    "name": "Chauffeur/Chauffeurin",
+    "frd_id": "frd_prof_100",
+    "persons": []
+  },
+  "101": {
+    "id": 101,
+    "order": "101.00000000000000000000",
+    "name": "Chefredakteur/Chefredakteurin",
+    "frd_id": "frd_prof_101",
+    "persons": []
+  },
+  "102": {
+    "id": 102,
+    "order": "102.00000000000000000000",
+    "name": "Chemiker/Chemikerin",
+    "frd_id": "frd_prof_102",
+    "persons": [
+      {
+        "id": 54,
+        "value": "Auer von Welsbach, Carl, Freiherr von"
+      }
+    ]
+  },
+  "103": {
+    "id": 103,
+    "order": "103.00000000000000000000",
+    "name": "Chiromant/Chiromantin",
+    "frd_id": "frd_prof_103",
+    "persons": []
+  },
+  "104": {
+    "id": 104,
+    "order": "104.00000000000000000000",
+    "name": "Chirurg/Chirurgin",
+    "frd_id": "frd_prof_104",
+    "persons": []
+  },
+  "105": {
+    "id": 105,
+    "order": "105.00000000000000000000",
+    "name": "Chordirektor/Chordirektorin",
+    "frd_id": "frd_prof_105",
+    "persons": []
+  },
+  "106": {
+    "id": 106,
+    "order": "106.00000000000000000000",
+    "name": "Choreograf/Choreografin",
+    "frd_id": "frd_prof_106",
+    "persons": []
+  },
+  "107": {
+    "id": 107,
+    "order": "107.00000000000000000000",
+    "name": "Chorleiter/Chorleiterin",
+    "frd_id": "frd_prof_107",
+    "persons": []
+  },
+  "108": {
+    "id": 108,
+    "order": "108.00000000000000000000",
+    "name": "Claqueur/Claqueuse",
+    "frd_id": "frd_prof_108",
+    "persons": []
+  },
+  "109": {
+    "id": 109,
+    "order": "109.00000000000000000000",
+    "name": "Clown/Clownin",
+    "frd_id": "frd_prof_109",
+    "persons": []
+  },
+  "110": {
+    "id": 110,
+    "order": "110.00000000000000000000",
+    "name": "Commandante/Commandantin",
+    "frd_id": "frd_prof_110",
+    "persons": []
+  },
+  "111": {
+    "id": 111,
+    "order": "111.00000000000000000000",
+    "name": "Dalai Lama/Dalai Lama",
+    "frd_id": "frd_prof_111",
+    "persons": []
+  },
+  "112": {
+    "id": 112,
+    "order": "112.00000000000000000000",
+    "name": "Dandy/Dandy",
+    "frd_id": "frd_prof_112",
+    "persons": []
+  },
+  "113": {
+    "id": 113,
+    "order": "113.00000000000000000000",
+    "name": "Dauphin/Dauphine",
+    "frd_id": "frd_prof_113",
+    "persons": []
+  },
+  "114": {
+    "id": 114,
+    "order": "114.00000000000000000000",
+    "name": "Delikatessenhändler/Delikatessenhändlerin",
+    "frd_id": "frd_prof_114",
+    "persons": []
+  },
+  "115": {
+    "id": 115,
+    "order": "115.00000000000000000000",
+    "name": "Dermatologe/Dermatologin",
+    "frd_id": "frd_prof_115",
+    "persons": [
+      {
+        "id": 45,
+        "value": "Reder, Albert Ritter von Schellmann"
+      }
+    ]
+  },
+  "116": {
+    "id": 116,
+    "order": "116.00000000000000000000",
+    "name": "Dichter/Dichterin",
+    "frd_id": "frd_prof_116",
+    "persons": []
+  },
+  "117": {
+    "id": 117,
+    "order": "117.00000000000000000000",
+    "name": "Diener/Dienerin",
+    "frd_id": "frd_prof_117",
+    "persons": []
+  },
+  "118": {
+    "id": 118,
+    "order": "118.00000000000000000000",
+    "name": "Dienstbote/Dienstbotin",
+    "frd_id": "frd_prof_118",
+    "persons": []
+  },
+  "119": {
+    "id": 119,
+    "order": "119.00000000000000000000",
+    "name": "Diplomat/Diplomatin",
+    "frd_id": "frd_prof_119",
+    "persons": []
+  },
+  "120": {
+    "id": 120,
+    "order": "120.00000000000000000000",
+    "name": "Direktionssekretär/Direktionssekretärin",
+    "frd_id": "frd_prof_120",
+    "persons": []
+  },
+  "121": {
+    "id": 121,
+    "order": "121.00000000000000000000",
+    "name": "Direktor/Direktorin",
+    "frd_id": "frd_prof_121",
+    "persons": []
+  },
+  "122": {
+    "id": 122,
+    "order": "122.00000000000000000000",
+    "name": "Dirigent/Dirigentin",
+    "frd_id": "frd_prof_122",
+    "persons": []
+  },
+  "123": {
+    "id": 123,
+    "order": "123.00000000000000000000",
+    "name": "Doktor/Doktorin",
+    "frd_id": "frd_prof_123",
+    "persons": []
+  },
+  "124": {
+    "id": 124,
+    "order": "124.00000000000000000000",
+    "name": "Dokumentarfilmer/Dokumentarfilmerin",
+    "frd_id": "frd_prof_124",
+    "persons": []
+  },
+  "125": {
+    "id": 125,
+    "order": "125.00000000000000000000",
+    "name": "Dolmetscher/Dolmetscherin",
+    "frd_id": "frd_prof_125",
+    "persons": []
+  },
+  "126": {
+    "id": 126,
+    "order": "126.00000000000000000000",
+    "name": "Dramatiker/Dramatikerin",
+    "frd_id": "frd_prof_126",
+    "persons": []
+  },
+  "127": {
+    "id": 127,
+    "order": "127.00000000000000000000",
+    "name": "Dramaturg/Dramaturgin",
+    "frd_id": "frd_prof_127",
+    "persons": []
+  },
+  "128": {
+    "id": 128,
+    "order": "128.00000000000000000000",
+    "name": "Drehbuchautor/Drehbuchautorin",
+    "frd_id": "frd_prof_128",
+    "persons": []
+  },
+  "129": {
+    "id": 129,
+    "order": "129.00000000000000000000",
+    "name": "Drucker/Druckerin",
+    "frd_id": "frd_prof_129",
+    "persons": []
+  },
+  "130": {
+    "id": 130,
+    "order": "130.00000000000000000000",
+    "name": "Druckereibesitzer/Druckereibesitzerin",
+    "frd_id": "frd_prof_130",
+    "persons": []
+  },
+  "131": {
+    "id": 131,
+    "order": "131.00000000000000000000",
+    "name": "Elektriker/Elektrikerin",
+    "frd_id": "frd_prof_131",
+    "persons": []
+  },
+  "132": {
+    "id": 132,
+    "order": "132.00000000000000000000",
+    "name": "Elektroinstallateur/Elektroinstallateur",
+    "frd_id": "frd_prof_132",
+    "persons": []
+  },
+  "133": {
+    "id": 133,
+    "order": "133.00000000000000000000",
+    "name": "Elektrotechniker/Elektrotechnikerin",
+    "frd_id": "frd_prof_133",
+    "persons": []
+  },
+  "134": {
+    "id": 134,
+    "order": "134.00000000000000000000",
+    "name": "Englischlehrer/Englischlehrerin",
+    "frd_id": "frd_prof_134",
+    "persons": []
+  },
+  "135": {
+    "id": 135,
+    "order": "135.00000000000000000000",
+    "name": "Entertainer",
+    "frd_id": "frd_prof_135",
+    "persons": []
+  },
+  "136": {
+    "id": 136,
+    "order": "136.00000000000000000000",
+    "name": "Epigrammatiker/Epigrammatikerin",
+    "frd_id": "frd_prof_136",
+    "persons": []
+  },
+  "137": {
+    "id": 137,
+    "order": "137.00000000000000000000",
+    "name": "Erfinder/Erfinderin",
+    "frd_id": "frd_prof_137",
+    "persons": [
+      {
+        "id": 54,
+        "value": "Auer von Welsbach, Carl, Freiherr von"
+      }
+    ]
+  },
+  "138": {
+    "id": 138,
+    "order": "138.00000000000000000000",
+    "name": "Erzähler/Erzählerin",
+    "frd_id": "frd_prof_138",
+    "persons": []
+  },
+  "139": {
+    "id": 139,
+    "order": "139.00000000000000000000",
+    "name": "Erzbischof/Erzbischöfin",
+    "frd_id": "frd_prof_139",
+    "persons": []
+  },
+  "140": {
+    "id": 140,
+    "order": "140.00000000000000000000",
+    "name": "Erzherzog/Erzherzogin",
+    "frd_id": "frd_prof_140",
+    "persons": []
+  },
+  "141": {
+    "id": 141,
+    "order": "141.00000000000000000000",
+    "name": "Erzieher/Erzieherin",
+    "frd_id": "frd_prof_141",
+    "persons": []
+  },
+  "142": {
+    "id": 142,
+    "order": "142.00000000000000000000",
+    "name": "Essayist/Essayistin",
+    "frd_id": "frd_prof_142",
+    "persons": []
+  },
+  "143": {
+    "id": 143,
+    "order": "143.00000000000000000000",
+    "name": "Ethnologe/Ethnologin",
+    "frd_id": "frd_prof_143",
+    "persons": []
+  },
+  "144": {
+    "id": 144,
+    "order": "144.00000000000000000000",
+    "name": "Fabrikant/Fabrikantin",
+    "frd_id": "frd_prof_144",
+    "persons": []
+  },
+  "145": {
+    "id": 145,
+    "order": "145.00000000000000000000",
+    "name": "Fabriksdirektor/Fabriksdirektorin",
+    "frd_id": "frd_prof_145",
+    "persons": []
+  },
+  "146": {
+    "id": 146,
+    "order": "146.00000000000000000000",
+    "name": "Fagottist/Fagottistin",
+    "frd_id": "frd_prof_146",
+    "persons": []
+  },
+  "147": {
+    "id": 147,
+    "order": "147.00000000000000000000",
+    "name": "Fähnrich/Fähnrichin",
+    "frd_id": "frd_prof_147",
+    "persons": []
+  },
+  "148": {
+    "id": 148,
+    "order": "148.00000000000000000000",
+    "name": "Fechtkämpfer/Fechtkämpferin",
+    "frd_id": "frd_prof_148",
+    "persons": []
+  },
+  "149": {
+    "id": 149,
+    "order": "149.00000000000000000000",
+    "name": "Fechtmeister/Fechtmeisterin",
+    "frd_id": "frd_prof_149",
+    "persons": []
+  },
+  "150": {
+    "id": 150,
+    "order": "150.00000000000000000000",
+    "name": "Feldscher/Feldscherin",
+    "frd_id": "frd_prof_150",
+    "persons": []
+  },
+  "151": {
+    "id": 151,
+    "order": "151.00000000000000000000",
+    "name": "Fiakerfahrer/Fiakerfahrerin",
+    "frd_id": "frd_prof_151",
+    "persons": []
+  },
+  "152": {
+    "id": 152,
+    "order": "152.00000000000000000000",
+    "name": "Filmagent/Filmagentin",
+    "frd_id": "frd_prof_152",
+    "persons": []
+  },
+  "153": {
+    "id": 153,
+    "order": "153.00000000000000000000",
+    "name": "Filmarchitekt/Filmarchitektin",
+    "frd_id": "frd_prof_153",
+    "persons": []
+  },
+  "154": {
+    "id": 154,
+    "order": "154.00000000000000000000",
+    "name": "Filmcutter/Filmcutterin",
+    "frd_id": "frd_prof_154",
+    "persons": []
+  },
+  "155": {
+    "id": 155,
+    "order": "155.00000000000000000000",
+    "name": "Filmkritiker/Filmkritikerin",
+    "frd_id": "frd_prof_155",
+    "persons": []
+  },
+  "156": {
+    "id": 156,
+    "order": "156.00000000000000000000",
+    "name": "Filmpädagoge/Filmpädagogin",
+    "frd_id": "frd_prof_156",
+    "persons": []
+  },
+  "157": {
+    "id": 157,
+    "order": "157.00000000000000000000",
+    "name": "Filmproduzent/Filmproduzentin",
+    "frd_id": "frd_prof_157",
+    "persons": []
+  },
+  "158": {
+    "id": 158,
+    "order": "158.00000000000000000000",
+    "name": "Filmregisseur/Filmregisseurin",
+    "frd_id": "frd_prof_158",
+    "persons": []
+  },
+  "159": {
+    "id": 159,
+    "order": "159.00000000000000000000",
+    "name": "Filmschauspieler/Filmschauspielerin",
+    "frd_id": "frd_prof_159",
+    "persons": []
+  },
+  "160": {
+    "id": 160,
+    "order": "160.00000000000000000000",
+    "name": "Filmtheoretiker/Filmtheoretikerin",
+    "frd_id": "frd_prof_160",
+    "persons": []
+  },
+  "161": {
+    "id": 161,
+    "order": "161.00000000000000000000",
+    "name": "Finanzbeamter/Finanzbeamte",
+    "frd_id": "frd_prof_161",
+    "persons": []
+  },
+  "162": {
+    "id": 162,
+    "order": "162.00000000000000000000",
+    "name": "Finanzier/Finanzierin",
+    "frd_id": "frd_prof_162",
+    "persons": []
+  },
+  "163": {
+    "id": 163,
+    "order": "163.00000000000000000000",
+    "name": "Firmeninhaber/Firmeninhaberin",
+    "frd_id": "frd_prof_163",
+    "persons": []
+  },
+  "164": {
+    "id": 164,
+    "order": "164.00000000000000000000",
+    "name": "Flötist/Flötistin",
+    "frd_id": "frd_prof_164",
+    "persons": []
+  },
+  "165": {
+    "id": 165,
+    "order": "165.00000000000000000000",
+    "name": "Flugtechniker/Flugtechnikerin",
+    "frd_id": "frd_prof_165",
+    "persons": []
+  },
+  "166": {
+    "id": 166,
+    "order": "166.00000000000000000000",
+    "name": "Forscher/Forscherin",
+    "frd_id": "frd_prof_166",
+    "persons": []
+  },
+  "167": {
+    "id": 167,
+    "order": "167.00000000000000000000",
+    "name": "Forschungsreisender/Forschungsreisende",
+    "frd_id": "frd_prof_167",
+    "persons": []
+  },
+  "168": {
+    "id": 168,
+    "order": "168.00000000000000000000",
+    "name": "Forstverwalter/Forstverwalterin",
+    "frd_id": "frd_prof_168",
+    "persons": []
+  },
+  "169": {
+    "id": 169,
+    "order": "169.00000000000000000000",
+    "name": "Fotograf/Fotografin",
+    "frd_id": "frd_prof_169",
+    "persons": []
+  },
+  "170": {
+    "id": 170,
+    "order": "170.00000000000000000000",
+    "name": "Frauenrechtler/Frauenrechtlerin",
+    "frd_id": "frd_prof_170",
+    "persons": [
+      {
+        "id": 57,
+        "value": "Kingsford, Anna"
+      }
+    ]
+  },
+  "171": {
+    "id": 171,
+    "order": "171.00000000000000000000",
+    "name": "Freiheitskämpfer/Freiheitskämpferin",
+    "frd_id": "frd_prof_171",
+    "persons": []
+  },
+  "172": {
+    "id": 172,
+    "order": "172.00000000000000000000",
+    "name": "Freimaurer/Freimaurerin",
+    "frd_id": "frd_prof_172",
+    "persons": []
+  },
+  "173": {
+    "id": 173,
+    "order": "173.00000000000000000000",
+    "name": "Fremdenführer/Fremdenführerin",
+    "frd_id": "frd_prof_173",
+    "persons": []
+  },
+  "174": {
+    "id": 174,
+    "order": "174.00000000000000000000",
+    "name": "Friseur/Friseuse",
+    "frd_id": "frd_prof_174",
+    "persons": []
+  },
+  "175": {
+    "id": 175,
+    "order": "175.00000000000000000000",
+    "name": "Fuhrunternehmer/Fuhrunternehmerin",
+    "frd_id": "frd_prof_175",
+    "persons": []
+  },
+  "176": {
+    "id": 176,
+    "order": "176.00000000000000000000",
+    "name": "Fürst/Fürstin",
+    "frd_id": "frd_prof_176",
+    "persons": []
+  },
+  "177": {
+    "id": 177,
+    "order": "177.00000000000000000000",
+    "name": "Galerist/Galeristin",
+    "frd_id": "frd_prof_177",
+    "persons": []
+  },
+  "178": {
+    "id": 178,
+    "order": "178.00000000000000000000",
+    "name": "Garagenbesitzer/Garagenbesitzerin",
+    "frd_id": "frd_prof_178",
+    "persons": []
+  },
+  "179": {
+    "id": 179,
+    "order": "179.00000000000000000000",
+    "name": "Garderobenleiter/Garderobenleiterin",
+    "frd_id": "frd_prof_179",
+    "persons": []
+  },
+  "180": {
+    "id": 180,
+    "order": "180.00000000000000000000",
+    "name": "Garderobier/Garderobière",
+    "frd_id": "frd_prof_180",
+    "persons": []
+  },
+  "181": {
+    "id": 181,
+    "order": "181.00000000000000000000",
+    "name": "Gärtner/Gärtnerin",
+    "frd_id": "frd_prof_181",
+    "persons": []
+  },
+  "182": {
+    "id": 182,
+    "order": "182.00000000000000000000",
+    "name": "Gastroenterologe/Gastroenterologin",
+    "frd_id": "frd_prof_182",
+    "persons": []
+  },
+  "183": {
+    "id": 183,
+    "order": "183.00000000000000000000",
+    "name": "Gastwirt/Gastwirtin",
+    "frd_id": "frd_prof_183",
+    "persons": []
+  },
+  "184": {
+    "id": 184,
+    "order": "184.00000000000000000000",
+    "name": "Geisteswissenschaftler/Geisteswissenschaftlerin",
+    "frd_id": "frd_prof_184",
+    "persons": []
+  },
+  "185": {
+    "id": 185,
+    "order": "185.00000000000000000000",
+    "name": "Geistheiler/Geistheilerin",
+    "frd_id": "frd_prof_185",
+    "persons": []
+  },
+  "186": {
+    "id": 186,
+    "order": "186.00000000000000000000",
+    "name": "Geistliche/Geistliche",
+    "frd_id": "frd_prof_186",
+    "persons": []
+  },
+  "187": {
+    "id": 187,
+    "order": "187.00000000000000000000",
+    "name": "Gelehrter/Gelehrte",
+    "frd_id": "frd_prof_187",
+    "persons": []
+  },
+  "188": {
+    "id": 188,
+    "order": "188.00000000000000000000",
+    "name": "Gemeindediener/Gemeindedienerin",
+    "frd_id": "frd_prof_188",
+    "persons": []
+  },
+  "189": {
+    "id": 189,
+    "order": "189.00000000000000000000",
+    "name": "Gemeinderat/Gemeinderätin",
+    "frd_id": "frd_prof_189",
+    "persons": []
+  },
+  "190": {
+    "id": 190,
+    "order": "190.00000000000000000000",
+    "name": "Generaldirektor/Generaldirektorin",
+    "frd_id": "frd_prof_190",
+    "persons": []
+  },
+  "191": {
+    "id": 191,
+    "order": "191.00000000000000000000",
+    "name": "Generalintendant/Generalintendantin",
+    "frd_id": "frd_prof_191",
+    "persons": []
+  },
+  "192": {
+    "id": 192,
+    "order": "192.00000000000000000000",
+    "name": "Geograf/Geografin",
+    "frd_id": "frd_prof_192",
+    "persons": []
+  },
+  "193": {
+    "id": 193,
+    "order": "193.00000000000000000000",
+    "name": "Geologe/Geologin",
+    "frd_id": "frd_prof_193",
+    "persons": []
+  },
+  "194": {
+    "id": 194,
+    "order": "194.00000000000000000000",
+    "name": "Geometer/Geometerin",
+    "frd_id": "frd_prof_194",
+    "persons": []
+  },
+  "195": {
+    "id": 195,
+    "order": "195.00000000000000000000",
+    "name": "Gerichtsmediziner/Gerichtsmedizinerin",
+    "frd_id": "frd_prof_195",
+    "persons": []
+  },
+  "196": {
+    "id": 196,
+    "order": "196.00000000000000000000",
+    "name": "Gerichtspräsident/Gerichtspräsidentin",
+    "frd_id": "frd_prof_196",
+    "persons": []
+  },
+  "197": {
+    "id": 197,
+    "order": "197.00000000000000000000",
+    "name": "Germanist/Germanistin",
+    "frd_id": "frd_prof_197",
+    "persons": []
+  },
+  "198": {
+    "id": 198,
+    "order": "198.00000000000000000000",
+    "name": "Gesangskomiker/Gesangskomikerin",
+    "frd_id": "frd_prof_198",
+    "persons": []
+  },
+  "199": {
+    "id": 199,
+    "order": "199.00000000000000000000",
+    "name": "Gesangspädagoge/Gesangspädagogin",
+    "frd_id": "frd_prof_199",
+    "persons": []
+  },
+  "200": {
+    "id": 200,
+    "order": "200.00000000000000000000",
+    "name": "Geschäftsführer/Geschäftsführerin",
+    "frd_id": "frd_prof_200",
+    "persons": []
+  },
+  "201": {
+    "id": 201,
+    "order": "201.00000000000000000000",
+    "name": "Geschäftsmann/Geschäftsfrau",
+    "frd_id": "frd_prof_201",
+    "persons": []
+  },
+  "202": {
+    "id": 202,
+    "order": "202.00000000000000000000",
+    "name": "Geschichtsphilosoph/Geschichtsphilosophin",
+    "frd_id": "frd_prof_202",
+    "persons": []
+  },
+  "203": {
+    "id": 203,
+    "order": "203.00000000000000000000",
+    "name": "Geschichtsschreiber/Geschichtsschreiberin",
+    "frd_id": "frd_prof_203",
+    "persons": []
+  },
+  "204": {
+    "id": 204,
+    "order": "204.00000000000000000000",
+    "name": "Gesellschafter/Gesellschafterin",
+    "frd_id": "frd_prof_204",
+    "persons": []
+  },
+  "205": {
+    "id": 205,
+    "order": "205.00000000000000000000",
+    "name": "Gesellschaftsdirektor/Gesellschaftsdirektorin",
+    "frd_id": "frd_prof_205",
+    "persons": []
+  },
+  "206": {
+    "id": 206,
+    "order": "206.00000000000000000000",
+    "name": "Gewerkschafter/Gewerkschafterin",
+    "frd_id": "frd_prof_206",
+    "persons": []
+  },
+  "207": {
+    "id": 207,
+    "order": "207.00000000000000000000",
+    "name": "Glasfabrikant/Glasfabrikantin",
+    "frd_id": "frd_prof_207",
+    "persons": []
+  },
+  "208": {
+    "id": 208,
+    "order": "208.00000000000000000000",
+    "name": "Goldschmied/Goldschmiedin",
+    "frd_id": "frd_prof_208",
+    "persons": []
+  },
+  "209": {
+    "id": 209,
+    "order": "209.00000000000000000000",
+    "name": "Gouverneur/Gouverneurin",
+    "frd_id": "frd_prof_209",
+    "persons": []
+  },
+  "210": {
+    "id": 210,
+    "order": "210.00000000000000000000",
+    "name": "Grafiker/Grafikerin",
+    "frd_id": "frd_prof_210",
+    "persons": [
+      {
+        "id": 60,
+        "value": "Schwind, Moritz von"
+      }
+    ]
+  },
+  "211": {
+    "id": 211,
+    "order": "211.00000000000000000000",
+    "name": "Grafologe/Grafologin",
+    "frd_id": "frd_prof_211",
+    "persons": []
+  },
+  "212": {
+    "id": 212,
+    "order": "212.00000000000000000000",
+    "name": "Großgrundbesitzer/Großgrundbesitzerin",
+    "frd_id": "frd_prof_212",
+    "persons": []
+  },
+  "213": {
+    "id": 213,
+    "order": "213.00000000000000000000",
+    "name": "Großherzog/Großherzogin",
+    "frd_id": "frd_prof_213",
+    "persons": []
+  },
+  "214": {
+    "id": 214,
+    "order": "214.00000000000000000000",
+    "name": "Großindustrieller/Großindustrielle",
+    "frd_id": "frd_prof_214",
+    "persons": []
+  },
+  "215": {
+    "id": 215,
+    "order": "215.00000000000000000000",
+    "name": "Großkaufmann/Großkauffrau",
+    "frd_id": "frd_prof_215",
+    "persons": []
+  },
+  "216": {
+    "id": 216,
+    "order": "216.00000000000000000000",
+    "name": "Grubenbesitzer/Grubenbesitzerin",
+    "frd_id": "frd_prof_216",
+    "persons": []
+  },
+  "217": {
+    "id": 217,
+    "order": "217.00000000000000000000",
+    "name": "Grundbesitzer/Grundbesitzerin",
+    "frd_id": "frd_prof_217",
+    "persons": []
+  },
+  "218": {
+    "id": 218,
+    "order": "218.00000000000000000000",
+    "name": "Güterverwalter/Güterverwalterin",
+    "frd_id": "frd_prof_218",
+    "persons": []
+  },
+  "219": {
+    "id": 219,
+    "order": "219.00000000000000000000",
+    "name": "Gutsbesitzer/Gutsbesitzerin",
+    "frd_id": "frd_prof_219",
+    "persons": []
+  },
+  "220": {
+    "id": 220,
+    "order": "220.00000000000000000000",
+    "name": "Gymnasialdirektor/Gymnasialdirektorin",
+    "frd_id": "frd_prof_220",
+    "persons": []
+  },
+  "221": {
+    "id": 221,
+    "order": "221.00000000000000000000",
+    "name": "Gymnasiallehrer/Gymnasiallehrerin",
+    "frd_id": "frd_prof_221",
+    "persons": []
+  },
+  "222": {
+    "id": 222,
+    "order": "222.00000000000000000000",
+    "name": "Gymnastiklehrer/Gymnastiklehrerin",
+    "frd_id": "frd_prof_222",
+    "persons": []
+  },
+  "223": {
+    "id": 223,
+    "order": "223.00000000000000000000",
+    "name": "Gynäkologe/Gynäkologin",
+    "frd_id": "frd_prof_223",
+    "persons": []
+  },
+  "224": {
+    "id": 224,
+    "order": "224.00000000000000000000",
+    "name": "Handelsagent/Handelsagentin",
+    "frd_id": "frd_prof_224",
+    "persons": []
+  },
+  "225": {
+    "id": 225,
+    "order": "225.00000000000000000000",
+    "name": "Handelsakademielehrer/Handelsakademielehrerin",
+    "frd_id": "frd_prof_225",
+    "persons": []
+  },
+  "226": {
+    "id": 226,
+    "order": "226.00000000000000000000",
+    "name": "Handelsangestellter/Handelsangestellte",
+    "frd_id": "frd_prof_226",
+    "persons": []
+  },
+  "227": {
+    "id": 227,
+    "order": "227.00000000000000000000",
+    "name": "Handelsberater/Handelsberaterin",
+    "frd_id": "frd_prof_227",
+    "persons": []
+  },
+  "228": {
+    "id": 228,
+    "order": "228.00000000000000000000",
+    "name": "Handelsvertreter/Handelsvertreterin",
+    "frd_id": "frd_prof_228",
+    "persons": []
+  },
+  "229": {
+    "id": 229,
+    "order": "229.00000000000000000000",
+    "name": "Händler/Händlerin",
+    "frd_id": "frd_prof_229",
+    "persons": []
+  },
+  "230": {
+    "id": 230,
+    "order": "230.00000000000000000000",
+    "name": "Handlungsreisender/Handlungsreisende",
+    "frd_id": "frd_prof_230",
+    "persons": []
+  },
+  "231": {
+    "id": 231,
+    "order": "231.00000000000000000000",
+    "name": "Handpfleger/Handpflegerin",
+    "frd_id": "frd_prof_231",
+    "persons": []
+  },
+  "232": {
+    "id": 232,
+    "order": "232.00000000000000000000",
+    "name": "Hausangestellter/Hausangestellte",
+    "frd_id": "frd_prof_232",
+    "persons": []
+  },
+  "233": {
+    "id": 233,
+    "order": "233.00000000000000000000",
+    "name": "Haushälter/Haushälterin",
+    "frd_id": "frd_prof_233",
+    "persons": []
+  },
+  "234": {
+    "id": 234,
+    "order": "234.00000000000000000000",
+    "name": "Haushaltshilfe/Haushaltshilfe",
+    "frd_id": "frd_prof_234",
+    "persons": []
+  },
+  "235": {
+    "id": 235,
+    "order": "235.00000000000000000000",
+    "name": "Hausmeister/Hausmeisterin",
+    "frd_id": "frd_prof_235",
+    "persons": []
+  },
+  "236": {
+    "id": 236,
+    "order": "236.00000000000000000000",
+    "name": "Hausschneider/Hausschneiderin",
+    "frd_id": "frd_prof_236",
+    "persons": []
+  },
+  "237": {
+    "id": 237,
+    "order": "237.00000000000000000000",
+    "name": "Heerführer/Heerführerin",
+    "frd_id": "frd_prof_237",
+    "persons": []
+  },
+  "238": {
+    "id": 238,
+    "order": "238.00000000000000000000",
+    "name": "Heilgymnast/Heilgymnastin",
+    "frd_id": "frd_prof_238",
+    "persons": []
+  },
+  "239": {
+    "id": 239,
+    "order": "239.00000000000000000000",
+    "name": "Heiliger/Heilige",
+    "frd_id": "frd_prof_239",
+    "persons": []
+  },
+  "240": {
+    "id": 240,
+    "order": "240.00000000000000000000",
+    "name": "Herausgeber/Herausgeberin",
+    "frd_id": "frd_prof_240",
+    "persons": []
+  },
+  "241": {
+    "id": 241,
+    "order": "241.00000000000000000000",
+    "name": "Herzog/Herzogin",
+    "frd_id": "frd_prof_241",
+    "persons": []
+  },
+  "242": {
+    "id": 242,
+    "order": "242.00000000000000000000",
+    "name": "Hilfsarbeiter/Hilfsarbeiterin",
+    "frd_id": "frd_prof_242",
+    "persons": []
+  },
+  "243": {
+    "id": 243,
+    "order": "243.00000000000000000000",
+    "name": "Historiker/Historikerin",
+    "frd_id": "frd_prof_243",
+    "persons": []
+  },
+  "244": {
+    "id": 244,
+    "order": "244.00000000000000000000",
+    "name": "Hochschullehrer/Hochschullehrerin",
+    "frd_id": "frd_prof_244",
+    "persons": [
+      {
+        "id": 79,
+        "value": "Virchow, Rudolf"
+      }
+    ]
+  },
+  "245": {
+    "id": 245,
+    "order": "245.00000000000000000000",
+    "name": "Hochstapler/Hochstaplerin",
+    "frd_id": "frd_prof_245",
+    "persons": []
+  },
+  "246": {
+    "id": 246,
+    "order": "246.00000000000000000000",
+    "name": "Hofbeamter/Hofbeamte",
+    "frd_id": "frd_prof_246",
+    "persons": []
+  },
+  "247": {
+    "id": 247,
+    "order": "247.00000000000000000000",
+    "name": "Hofmeister/Hofmeisterin",
+    "frd_id": "frd_prof_247",
+    "persons": []
+  },
+  "248": {
+    "id": 248,
+    "order": "248.00000000000000000000",
+    "name": "Hofmusikdirektor/Hofmusikdirektorin",
+    "frd_id": "frd_prof_248",
+    "persons": []
+  },
+  "249": {
+    "id": 249,
+    "order": "249.00000000000000000000",
+    "name": "Holzschneider/Holzschneiderin",
+    "frd_id": "frd_prof_249",
+    "persons": []
+  },
+  "250": {
+    "id": 250,
+    "order": "250.00000000000000000000",
+    "name": "Hornist/Hornistin",
+    "frd_id": "frd_prof_250",
+    "persons": []
+  },
+  "251": {
+    "id": 251,
+    "order": "251.00000000000000000000",
+    "name": "Hörspielregisseur/Hörspielregisseurin",
+    "frd_id": "frd_prof_251",
+    "persons": []
+  },
+  "252": {
+    "id": 252,
+    "order": "252.00000000000000000000",
+    "name": "Hörspielsprecher/Hörspielsprecherin",
+    "frd_id": "frd_prof_252",
+    "persons": []
+  },
+  "253": {
+    "id": 253,
+    "order": "253.00000000000000000000",
+    "name": "Hotelbesitzer/Hotelbesitzerin",
+    "frd_id": "frd_prof_253",
+    "persons": []
+  },
+  "254": {
+    "id": 254,
+    "order": "254.00000000000000000000",
+    "name": "Hoteldirektor/Hoteldirektorin",
+    "frd_id": "frd_prof_254",
+    "persons": []
+  },
+  "255": {
+    "id": 255,
+    "order": "255.00000000000000000000",
+    "name": "Hotelier/Hotelière",
+    "frd_id": "frd_prof_255",
+    "persons": []
+  },
+  "256": {
+    "id": 256,
+    "order": "256.00000000000000000000",
+    "name": "Hotelierssohn/Hotelierstochter",
+    "frd_id": "frd_prof_256",
+    "persons": []
+  },
+  "257": {
+    "id": 257,
+    "order": "257.00000000000000000000",
+    "name": "Hotelportier/Hotelportierin",
+    "frd_id": "frd_prof_257",
+    "persons": []
+  },
+  "258": {
+    "id": 258,
+    "order": "258.00000000000000000000",
+    "name": "Hotelsekretär/Hotelsekretärin",
+    "frd_id": "frd_prof_258",
+    "persons": []
+  },
+  "259": {
+    "id": 259,
+    "order": "259.00000000000000000000",
+    "name": "Humorist/Humoristin",
+    "frd_id": "frd_prof_259",
+    "persons": []
+  },
+  "260": {
+    "id": 260,
+    "order": "260.00000000000000000000",
+    "name": "Hungerkünstler/Hungerkünstlerin",
+    "frd_id": "frd_prof_260",
+    "persons": []
+  },
+  "261": {
+    "id": 261,
+    "order": "261.00000000000000000000",
+    "name": "Hygieniker/Hygienikerin",
+    "frd_id": "frd_prof_261",
+    "persons": []
+  },
+  "262": {
+    "id": 262,
+    "order": "262.00000000000000000000",
+    "name": "Hypnotiseur/Hypnotiseurin",
+    "frd_id": "frd_prof_262",
+    "persons": [
+      {
+        "id": 49,
+        "value": "Liébeault, Ambroise-Auguste"
+      },
+      {
+        "id": 56,
+        "value": "Delboeuf, Joseph-Remi-Léopold"
+      }
+    ]
+  },
+  "263": {
+    "id": 263,
+    "order": "263.00000000000000000000",
+    "name": "Illusionist/Illusionistin",
+    "frd_id": "frd_prof_263",
+    "persons": []
+  },
+  "264": {
+    "id": 264,
+    "order": "264.00000000000000000000",
+    "name": "Illustrator/Illustratorin",
+    "frd_id": "frd_prof_264",
+    "persons": []
+  },
+  "265": {
+    "id": 265,
+    "order": "265.00000000000000000000",
+    "name": "Immunologe/Immunologin",
+    "frd_id": "frd_prof_265",
+    "persons": []
+  },
+  "266": {
+    "id": 266,
+    "order": "266.00000000000000000000",
+    "name": "Importhändler/Importhändlerin",
+    "frd_id": "frd_prof_266",
+    "persons": []
+  },
+  "267": {
+    "id": 267,
+    "order": "267.00000000000000000000",
+    "name": "Importkaufmann/Importkauffrau",
+    "frd_id": "frd_prof_267",
+    "persons": []
+  },
+  "268": {
+    "id": 268,
+    "order": "268.00000000000000000000",
+    "name": "Indologe/Indologin",
+    "frd_id": "frd_prof_268",
+    "persons": []
+  },
+  "269": {
+    "id": 269,
+    "order": "269.00000000000000000000",
+    "name": "Industrieller/Industrielle",
+    "frd_id": "frd_prof_269",
+    "persons": []
+  },
+  "270": {
+    "id": 270,
+    "order": "270.00000000000000000000",
+    "name": "Infant/Infantin",
+    "frd_id": "frd_prof_270",
+    "persons": []
+  },
+  "271": {
+    "id": 271,
+    "order": "271.00000000000000000000",
+    "name": "Ingenieur/Ingenieurin",
+    "frd_id": "frd_prof_271",
+    "persons": []
+  },
+  "272": {
+    "id": 272,
+    "order": "272.00000000000000000000",
+    "name": "Inhaber einer Konzertagentur/Inhaberin einer Konzertagentur",
+    "frd_id": "frd_prof_272",
+    "persons": []
+  },
+  "273": {
+    "id": 273,
+    "order": "273.00000000000000000000",
+    "name": "Inhaber eines Friseur- und Maniküre-Salons/Inhaberin eines Friseur- und Maniküre-Salons",
+    "frd_id": "frd_prof_273",
+    "persons": []
+  },
+  "274": {
+    "id": 274,
+    "order": "274.00000000000000000000",
+    "name": "Innenarchitekt/Innenarchitektin",
+    "frd_id": "frd_prof_274",
+    "persons": []
+  },
+  "275": {
+    "id": 275,
+    "order": "275.00000000000000000000",
+    "name": "Inseratenagent/Inseratenagentin",
+    "frd_id": "frd_prof_275",
+    "persons": []
+  },
+  "276": {
+    "id": 276,
+    "order": "276.00000000000000000000",
+    "name": "Inspizient/Inspizientin",
+    "frd_id": "frd_prof_276",
+    "persons": []
+  },
+  "277": {
+    "id": 277,
+    "order": "277.00000000000000000000",
+    "name": "Installateur/Installateurin",
+    "frd_id": "frd_prof_277",
+    "persons": []
+  },
+  "278": {
+    "id": 278,
+    "order": "278.00000000000000000000",
+    "name": "Internatsleiter/Internatsleiterin",
+    "frd_id": "frd_prof_278",
+    "persons": []
+  },
+  "279": {
+    "id": 279,
+    "order": "279.00000000000000000000",
+    "name": "Internist/Internistin",
+    "frd_id": "frd_prof_279",
+    "persons": [
+      {
+        "id": 46,
+        "value": "Bernheim, Hippolyte"
+      }
+    ]
+  },
+  "280": {
+    "id": 280,
+    "order": "280.00000000000000000000",
+    "name": "Italiener/Italienerin",
+    "frd_id": "frd_prof_280",
+    "persons": []
+  },
+  "281": {
+    "id": 281,
+    "order": "281.00000000000000000000",
+    "name": "Jesuit/Jesuitin",
+    "frd_id": "frd_prof_281",
+    "persons": []
+  },
+  "282": {
+    "id": 282,
+    "order": "282.00000000000000000000",
+    "name": "Journalist/Journalistin",
+    "frd_id": "frd_prof_282",
+    "persons": [
+      {
+        "id": 63,
+        "value": "Goldscheider, Adalbert"
+      }
+    ]
+  },
+  "283": {
+    "id": 283,
+    "order": "283.00000000000000000000",
+    "name": "Jurist/Juristin",
+    "frd_id": "frd_prof_283",
+    "persons": [
+      {
+        "id": 80,
+        "value": "Holtzendorff, Franz von"
+      }
+    ]
+  },
+  "284": {
+    "id": 284,
+    "order": "284.00000000000000000000",
+    "name": "Justitiar/Justitiarin",
+    "frd_id": "frd_prof_284",
+    "persons": []
+  },
+  "285": {
+    "id": 285,
+    "order": "285.00000000000000000000",
+    "name": "Justizbeamter/Justizbeamte",
+    "frd_id": "frd_prof_285",
+    "persons": []
+  },
+  "286": {
+    "id": 286,
+    "order": "286.00000000000000000000",
+    "name": "Juwelier/Juwelierin",
+    "frd_id": "frd_prof_286",
+    "persons": []
+  },
+  "287": {
+    "id": 287,
+    "order": "287.00000000000000000000",
+    "name": "Kabarettist",
+    "frd_id": "frd_prof_287",
+    "persons": []
+  },
+  "288": {
+    "id": 288,
+    "order": "288.00000000000000000000",
+    "name": "Kabarettist/Kabarettistin",
+    "frd_id": "frd_prof_288",
+    "persons": []
+  },
+  "289": {
+    "id": 289,
+    "order": "289.00000000000000000000",
+    "name": "Kabinenvermieter/Kabinenvermieterin",
+    "frd_id": "frd_prof_289",
+    "persons": []
+  },
+  "290": {
+    "id": 290,
+    "order": "290.00000000000000000000",
+    "name": "Kaiser/Kaiserin",
+    "frd_id": "frd_prof_290",
+    "persons": []
+  },
+  "291": {
+    "id": 291,
+    "order": "291.00000000000000000000",
+    "name": "Kalif/Kalifin",
+    "frd_id": "frd_prof_291",
+    "persons": []
+  },
+  "292": {
+    "id": 292,
+    "order": "292.00000000000000000000",
+    "name": "Kameramann/Kamerafrau",
+    "frd_id": "frd_prof_292",
+    "persons": []
+  },
+  "293": {
+    "id": 293,
+    "order": "293.00000000000000000000",
+    "name": "Kanzleiangestellter/Kanzleiangestellte",
+    "frd_id": "frd_prof_293",
+    "persons": []
+  },
+  "294": {
+    "id": 294,
+    "order": "294.00000000000000000000",
+    "name": "Kanzleidirektor/Kanzleidirektorin",
+    "frd_id": "frd_prof_294",
+    "persons": []
+  },
+  "295": {
+    "id": 295,
+    "order": "295.00000000000000000000",
+    "name": "Kanzler/Kanzlerin",
+    "frd_id": "frd_prof_295",
+    "persons": []
+  },
+  "296": {
+    "id": 296,
+    "order": "296.00000000000000000000",
+    "name": "Kapellmeister/Kapellmeisterin",
+    "frd_id": "frd_prof_296",
+    "persons": []
+  },
+  "297": {
+    "id": 297,
+    "order": "297.00000000000000000000",
+    "name": "Kapitän/Kapitänin",
+    "frd_id": "frd_prof_297",
+    "persons": []
+  },
+  "298": {
+    "id": 298,
+    "order": "298.00000000000000000000",
+    "name": "Kardinal/Kardinälin",
+    "frd_id": "frd_prof_298",
+    "persons": []
+  },
+  "299": {
+    "id": 299,
+    "order": "299.00000000000000000000",
+    "name": "Kardiologe/Kardiologin",
+    "frd_id": "frd_prof_299",
+    "persons": []
+  },
+  "300": {
+    "id": 300,
+    "order": "300.00000000000000000000",
+    "name": "Karikaturist/Karikaturistin",
+    "frd_id": "frd_prof_300",
+    "persons": []
+  },
+  "301": {
+    "id": 301,
+    "order": "301.00000000000000000000",
+    "name": "Kartograf/Kartografin",
+    "frd_id": "frd_prof_301",
+    "persons": []
+  },
+  "302": {
+    "id": 302,
+    "order": "302.00000000000000000000",
+    "name": "Kassier/Kassierin",
+    "frd_id": "frd_prof_302",
+    "persons": []
+  },
+  "303": {
+    "id": 303,
+    "order": "303.00000000000000000000",
+    "name": "Kaufmann/Kauffrau",
+    "frd_id": "frd_prof_303",
+    "persons": []
+  },
+  "304": {
+    "id": 304,
+    "order": "304.00000000000000000000",
+    "name": "Kaufmännischer Theaterleiter/Kaufmännische Theaterleiterin",
+    "frd_id": "frd_prof_304",
+    "persons": []
+  },
+  "305": {
+    "id": 305,
+    "order": "305.00000000000000000000",
+    "name": "Kellner/Kellnerin",
+    "frd_id": "frd_prof_305",
+    "persons": []
+  },
+  "306": {
+    "id": 306,
+    "order": "306.00000000000000000000",
+    "name": "Keramiker/Keramikerin",
+    "frd_id": "frd_prof_306",
+    "persons": []
+  },
+  "307": {
+    "id": 307,
+    "order": "307.00000000000000000000",
+    "name": "KIavierpädagoge/KIavierpädagogin",
+    "frd_id": "frd_prof_307",
+    "persons": []
+  },
+  "308": {
+    "id": 308,
+    "order": "308.00000000000000000000",
+    "name": "Kinderbetreuer/Kinderbetreuerin",
+    "frd_id": "frd_prof_308",
+    "persons": []
+  },
+  "309": {
+    "id": 309,
+    "order": "309.00000000000000000000",
+    "name": "Kinderbuchautor/Kinderbuchautorin",
+    "frd_id": "frd_prof_309",
+    "persons": []
+  },
+  "310": {
+    "id": 310,
+    "order": "310.00000000000000000000",
+    "name": "Kinobetreiber/Kinobetreiberin",
+    "frd_id": "frd_prof_310",
+    "persons": []
+  },
+  "311": {
+    "id": 311,
+    "order": "311.00000000000000000000",
+    "name": "Kinofotograf/Kinofotografin",
+    "frd_id": "frd_prof_311",
+    "persons": []
+  },
+  "312": {
+    "id": 312,
+    "order": "312.00000000000000000000",
+    "name": "Kirchenrechtler/Kirchenrechtlerin",
+    "frd_id": "frd_prof_312",
+    "persons": []
+  },
+  "313": {
+    "id": 313,
+    "order": "313.00000000000000000000",
+    "name": "Klassischer Philologe/Klassische Philologin",
+    "frd_id": "frd_prof_313",
+    "persons": []
+  },
+  "314": {
+    "id": 314,
+    "order": "314.00000000000000000000",
+    "name": "Klavier- und Cembalobauer/Klavier- und Cembalobauerin",
+    "frd_id": "frd_prof_314",
+    "persons": []
+  },
+  "315": {
+    "id": 315,
+    "order": "315.00000000000000000000",
+    "name": "Klavierfabrikant/Klavierfabrikantin",
+    "frd_id": "frd_prof_315",
+    "persons": []
+  },
+  "316": {
+    "id": 316,
+    "order": "316.00000000000000000000",
+    "name": "Klavierlehrer/Klavierlehrerin",
+    "frd_id": "frd_prof_316",
+    "persons": []
+  },
+  "317": {
+    "id": 317,
+    "order": "317.00000000000000000000",
+    "name": "Klavierpädagoge/Klavierpädagogin",
+    "frd_id": "frd_prof_317",
+    "persons": []
+  },
+  "318": {
+    "id": 318,
+    "order": "318.00000000000000000000",
+    "name": "Klavierspieler/Klavierspielerin",
+    "frd_id": "frd_prof_318",
+    "persons": []
+  },
+  "319": {
+    "id": 319,
+    "order": "319.00000000000000000000",
+    "name": "Kleiderverkäufer/Kleiderverkäuferin",
+    "frd_id": "frd_prof_319",
+    "persons": []
+  },
+  "320": {
+    "id": 320,
+    "order": "320.00000000000000000000",
+    "name": "Koch/Köchin",
+    "frd_id": "frd_prof_320",
+    "persons": []
+  },
+  "321": {
+    "id": 321,
+    "order": "321.00000000000000000000",
+    "name": "Kofferhersteller/Kofferherstellerin",
+    "frd_id": "frd_prof_321",
+    "persons": []
+  },
+  "322": {
+    "id": 322,
+    "order": "322.00000000000000000000",
+    "name": "Kolporteur/Kolporteurin",
+    "frd_id": "frd_prof_322",
+    "persons": []
+  },
+  "323": {
+    "id": 323,
+    "order": "323.00000000000000000000",
+    "name": "Kommerzialrat/Kommerzialrätin",
+    "frd_id": "frd_prof_323",
+    "persons": []
+  },
+  "324": {
+    "id": 324,
+    "order": "324.00000000000000000000",
+    "name": "Komödiant/Komödiantin",
+    "frd_id": "frd_prof_324",
+    "persons": []
+  },
+  "325": {
+    "id": 325,
+    "order": "325.00000000000000000000",
+    "name": "Komparse/Komparsin",
+    "frd_id": "frd_prof_325",
+    "persons": []
+  },
+  "326": {
+    "id": 326,
+    "order": "326.00000000000000000000",
+    "name": "Komponist/Komponistin",
+    "frd_id": "frd_prof_326",
+    "persons": []
+  },
+  "327": {
+    "id": 327,
+    "order": "327.00000000000000000000",
+    "name": "Kompositionslehrer/Kompositionslehrerin",
+    "frd_id": "frd_prof_327",
+    "persons": []
+  },
+  "328": {
+    "id": 328,
+    "order": "328.00000000000000000000",
+    "name": "Konditor/Konditorin",
+    "frd_id": "frd_prof_328",
+    "persons": []
+  },
+  "329": {
+    "id": 329,
+    "order": "329.00000000000000000000",
+    "name": "König/Königin",
+    "frd_id": "frd_prof_329",
+    "persons": []
+  },
+  "330": {
+    "id": 330,
+    "order": "330.00000000000000000000",
+    "name": "Konservatoriumsleiter/Konservatoriumsleiterin",
+    "frd_id": "frd_prof_330",
+    "persons": []
+  },
+  "331": {
+    "id": 331,
+    "order": "331.00000000000000000000",
+    "name": "Konsularbeamter/Konsularbeamte",
+    "frd_id": "frd_prof_331",
+    "persons": []
+  },
+  "332": {
+    "id": 332,
+    "order": "332.00000000000000000000",
+    "name": "Kontorist/Kontoristin",
+    "frd_id": "frd_prof_332",
+    "persons": []
+  },
+  "333": {
+    "id": 333,
+    "order": "333.00000000000000000000",
+    "name": "Konzert- und Theateragent/Konzert- und Theateragentin",
+    "frd_id": "frd_prof_333",
+    "persons": []
+  },
+  "334": {
+    "id": 334,
+    "order": "334.00000000000000000000",
+    "name": "Konzertagent/Konzertagentin",
+    "frd_id": "frd_prof_334",
+    "persons": []
+  },
+  "335": {
+    "id": 335,
+    "order": "335.00000000000000000000",
+    "name": "Konzertsänger/Konzertsängerin",
+    "frd_id": "frd_prof_335",
+    "persons": []
+  },
+  "336": {
+    "id": 336,
+    "order": "336.00000000000000000000",
+    "name": "Konzertveranstalter/Konzertveranstalterin",
+    "frd_id": "frd_prof_336",
+    "persons": []
+  },
+  "337": {
+    "id": 337,
+    "order": "337.00000000000000000000",
+    "name": "Koptologe/Koptologin",
+    "frd_id": "frd_prof_337",
+    "persons": []
+  },
+  "338": {
+    "id": 338,
+    "order": "338.00000000000000000000",
+    "name": "Korrepetitor/Korrepetitorin",
+    "frd_id": "frd_prof_338",
+    "persons": []
+  },
+  "339": {
+    "id": 339,
+    "order": "339.00000000000000000000",
+    "name": "Korrespondent/Korrespondentin",
+    "frd_id": "frd_prof_339",
+    "persons": []
+  },
+  "340": {
+    "id": 340,
+    "order": "340.00000000000000000000",
+    "name": "Kostümbildner/Kostümbildnerin",
+    "frd_id": "frd_prof_340",
+    "persons": []
+  },
+  "341": {
+    "id": 341,
+    "order": "341.00000000000000000000",
+    "name": "Kostümschneider/Kostümschneiderin",
+    "frd_id": "frd_prof_341",
+    "persons": []
+  },
+  "342": {
+    "id": 342,
+    "order": "342.00000000000000000000",
+    "name": "Krankenpfleger/Krankenpflegerin",
+    "frd_id": "frd_prof_342",
+    "persons": []
+  },
+  "343": {
+    "id": 343,
+    "order": "343.00000000000000000000",
+    "name": "Kreismarschall/Kreismarschallin",
+    "frd_id": "frd_prof_343",
+    "persons": []
+  },
+  "344": {
+    "id": 344,
+    "order": "344.00000000000000000000",
+    "name": "Kriegsberichterstatter/Kriegsberichterstatterin",
+    "frd_id": "frd_prof_344",
+    "persons": []
+  },
+  "345": {
+    "id": 345,
+    "order": "345.00000000000000000000",
+    "name": "Kriminalist/Kriminalistin",
+    "frd_id": "frd_prof_345",
+    "persons": []
+  },
+  "346": {
+    "id": 346,
+    "order": "346.00000000000000000000",
+    "name": "Kritiker/Kritikerin",
+    "frd_id": "frd_prof_346",
+    "persons": []
+  },
+  "347": {
+    "id": 347,
+    "order": "347.00000000000000000000",
+    "name": "Kronprinz/Kronprinzessin",
+    "frd_id": "frd_prof_347",
+    "persons": []
+  },
+  "348": {
+    "id": 348,
+    "order": "348.00000000000000000000",
+    "name": "Küchenchef/Küchenchefin",
+    "frd_id": "frd_prof_348",
+    "persons": []
+  },
+  "349": {
+    "id": 349,
+    "order": "349.00000000000000000000",
+    "name": "Kulturförderer/Kulturfördererin",
+    "frd_id": "frd_prof_349",
+    "persons": []
+  },
+  "350": {
+    "id": 350,
+    "order": "350.00000000000000000000",
+    "name": "Kulturfunktionär/Kulturfunktionärin",
+    "frd_id": "frd_prof_350",
+    "persons": []
+  },
+  "351": {
+    "id": 351,
+    "order": "351.00000000000000000000",
+    "name": "Kulturkritiker/Kulturkritikerin",
+    "frd_id": "frd_prof_351",
+    "persons": []
+  },
+  "352": {
+    "id": 352,
+    "order": "352.00000000000000000000",
+    "name": "Kulturphilosoph/Kulturphilosophin",
+    "frd_id": "frd_prof_352",
+    "persons": []
+  },
+  "353": {
+    "id": 353,
+    "order": "353.00000000000000000000",
+    "name": "Kultusminister/Kultusministerin",
+    "frd_id": "frd_prof_353",
+    "persons": []
+  },
+  "354": {
+    "id": 354,
+    "order": "354.00000000000000000000",
+    "name": "Kunstagent/Kunstagentin",
+    "frd_id": "frd_prof_354",
+    "persons": []
+  },
+  "355": {
+    "id": 355,
+    "order": "355.00000000000000000000",
+    "name": "Kunsterzieher/Kunsterzieherin",
+    "frd_id": "frd_prof_355",
+    "persons": []
+  },
+  "356": {
+    "id": 356,
+    "order": "356.00000000000000000000",
+    "name": "Kunstgewerbler/Kunstgewerblerin",
+    "frd_id": "frd_prof_356",
+    "persons": []
+  },
+  "357": {
+    "id": 357,
+    "order": "357.00000000000000000000",
+    "name": "Kunsthändler/Kunsthändlerin",
+    "frd_id": "frd_prof_357",
+    "persons": []
+  },
+  "358": {
+    "id": 358,
+    "order": "358.00000000000000000000",
+    "name": "Kunsthistoriker/Kunsthistorikerin",
+    "frd_id": "frd_prof_358",
+    "persons": []
+  },
+  "359": {
+    "id": 359,
+    "order": "359.00000000000000000000",
+    "name": "Kunstkritiker/Kunstkritikerin",
+    "frd_id": "frd_prof_359",
+    "persons": []
+  },
+  "360": {
+    "id": 360,
+    "order": "360.00000000000000000000",
+    "name": "Künstler/Künstlerin",
+    "frd_id": "frd_prof_360",
+    "persons": []
+  },
+  "361": {
+    "id": 361,
+    "order": "361.00000000000000000000",
+    "name": "Kunstpädagoge/Kunstpädagogin",
+    "frd_id": "frd_prof_361",
+    "persons": []
+  },
+  "362": {
+    "id": 362,
+    "order": "362.00000000000000000000",
+    "name": "Kunstsammler/Kunstsammlerin",
+    "frd_id": "frd_prof_362",
+    "persons": []
+  },
+  "363": {
+    "id": 363,
+    "order": "363.00000000000000000000",
+    "name": "Kunstschriftsteller/Kunstschriftstellerin",
+    "frd_id": "frd_prof_363",
+    "persons": []
+  },
+  "364": {
+    "id": 364,
+    "order": "364.00000000000000000000",
+    "name": "Kunsttischler/Kunsttischlerin",
+    "frd_id": "frd_prof_364",
+    "persons": []
+  },
+  "365": {
+    "id": 365,
+    "order": "365.00000000000000000000",
+    "name": "Kupferstecher/Kupferstecherin",
+    "frd_id": "frd_prof_365",
+    "persons": []
+  },
+  "366": {
+    "id": 366,
+    "order": "366.00000000000000000000",
+    "name": "Kuppler/Kupplerin",
+    "frd_id": "frd_prof_366",
+    "persons": []
+  },
+  "367": {
+    "id": 367,
+    "order": "367.00000000000000000000",
+    "name": "Kurator/Kuratorin",
+    "frd_id": "frd_prof_367",
+    "persons": []
+  },
+  "368": {
+    "id": 368,
+    "order": "368.00000000000000000000",
+    "name": "Kurfürst/Kurfürstin",
+    "frd_id": "frd_prof_368",
+    "persons": []
+  },
+  "369": {
+    "id": 369,
+    "order": "369.00000000000000000000",
+    "name": "Ladenbesitzer/Ladenbesitzerin",
+    "frd_id": "frd_prof_369",
+    "persons": []
+  },
+  "370": {
+    "id": 370,
+    "order": "370.00000000000000000000",
+    "name": "Landtagsabgeordneter/Landtagsabgeordnete",
+    "frd_id": "frd_prof_370",
+    "persons": []
+  },
+  "371": {
+    "id": 371,
+    "order": "371.00000000000000000000",
+    "name": "Landwirt/Landwirtin",
+    "frd_id": "frd_prof_371",
+    "persons": []
+  },
+  "372": {
+    "id": 372,
+    "order": "372.00000000000000000000",
+    "name": "Laryngologe/Laryngologin",
+    "frd_id": "frd_prof_372",
+    "persons": []
+  },
+  "373": {
+    "id": 373,
+    "order": "373.00000000000000000000",
+    "name": "Lautenspieler/Lautenspielerin",
+    "frd_id": "frd_prof_373",
+    "persons": []
+  },
+  "374": {
+    "id": 374,
+    "order": "374.00000000000000000000",
+    "name": "Lehrer/Lehrerin",
+    "frd_id": "frd_prof_374",
+    "persons": []
+  },
+  "375": {
+    "id": 375,
+    "order": "375.00000000000000000000",
+    "name": "Lehrling/Lehrling",
+    "frd_id": "frd_prof_375",
+    "persons": []
+  },
+  "376": {
+    "id": 376,
+    "order": "376.00000000000000000000",
+    "name": "Leitender Angestellter/Leitende Angestellte",
+    "frd_id": "frd_prof_376",
+    "persons": []
+  },
+  "377": {
+    "id": 377,
+    "order": "377.00000000000000000000",
+    "name": "Leitender Beamter/Leitende Beamte",
+    "frd_id": "frd_prof_377",
+    "persons": []
+  },
+  "378": {
+    "id": 378,
+    "order": "378.00000000000000000000",
+    "name": "Leiter eines Schreibbüros/Leiterin eines Schreibbüros",
+    "frd_id": "frd_prof_378",
+    "persons": []
+  },
+  "379": {
+    "id": 379,
+    "order": "379.00000000000000000000",
+    "name": "Lektor/Lektorin",
+    "frd_id": "frd_prof_379",
+    "persons": []
+  },
+  "380": {
+    "id": 380,
+    "order": "380.00000000000000000000",
+    "name": "Leuchtturmwärter/Leuchtturmwärterin",
+    "frd_id": "frd_prof_380",
+    "persons": []
+  },
+  "381": {
+    "id": 381,
+    "order": "381.00000000000000000000",
+    "name": "Lexikograf/Lexikografin",
+    "frd_id": "frd_prof_381",
+    "persons": []
+  },
+  "382": {
+    "id": 382,
+    "order": "382.00000000000000000000",
+    "name": "Librettist/Librettistin",
+    "frd_id": "frd_prof_382",
+    "persons": []
+  },
+  "383": {
+    "id": 383,
+    "order": "383.00000000000000000000",
+    "name": "Liebespartner/Liebespartnerin",
+    "frd_id": "frd_prof_383",
+    "persons": []
+  },
+  "384": {
+    "id": 384,
+    "order": "384.00000000000000000000",
+    "name": "Liebhaber/Liebhaberin",
+    "frd_id": "frd_prof_384",
+    "persons": []
+  },
+  "385": {
+    "id": 385,
+    "order": "385.00000000000000000000",
+    "name": "Linguist/Linguistin",
+    "frd_id": "frd_prof_385",
+    "persons": []
+  },
+  "386": {
+    "id": 386,
+    "order": "386.00000000000000000000",
+    "name": "Literarhistoriker/Literarhistorikerin",
+    "frd_id": "frd_prof_386",
+    "persons": []
+  },
+  "387": {
+    "id": 387,
+    "order": "387.00000000000000000000",
+    "name": "Literaturagent/Literaturagentin",
+    "frd_id": "frd_prof_387",
+    "persons": []
+  },
+  "388": {
+    "id": 388,
+    "order": "388.00000000000000000000",
+    "name": "Literaturhistoriker/Literaturhistorikerin",
+    "frd_id": "frd_prof_388",
+    "persons": []
+  },
+  "389": {
+    "id": 389,
+    "order": "389.00000000000000000000",
+    "name": "Literaturkritiker/Literaturkritikerin",
+    "frd_id": "frd_prof_389",
+    "persons": []
+  },
+  "390": {
+    "id": 390,
+    "order": "390.00000000000000000000",
+    "name": "Literaturwissenschaftler/Literaturwissenschaftlerin",
+    "frd_id": "frd_prof_390",
+    "persons": [
+      {
+        "id": 50,
+        "value": "Vischer, Friedrich Theodor"
+      }
+    ]
+  },
+  "391": {
+    "id": 391,
+    "order": "391.00000000000000000000",
+    "name": "Lithograf/Lithografin",
+    "frd_id": "frd_prof_391",
+    "persons": []
+  },
+  "392": {
+    "id": 392,
+    "order": "392.00000000000000000000",
+    "name": "Logiker/Logikerin",
+    "frd_id": "frd_prof_392",
+    "persons": []
+  },
+  "393": {
+    "id": 393,
+    "order": "393.00000000000000000000",
+    "name": "Luftfahrtpionier/Luftfahrtpionierin",
+    "frd_id": "frd_prof_393",
+    "persons": []
+  },
+  "394": {
+    "id": 394,
+    "order": "394.00000000000000000000",
+    "name": "Lyriker/Lyrikerin",
+    "frd_id": "frd_prof_394",
+    "persons": []
+  },
+  "395": {
+    "id": 395,
+    "order": "395.00000000000000000000",
+    "name": "Magier/Magierin",
+    "frd_id": "frd_prof_395",
+    "persons": []
+  },
+  "396": {
+    "id": 396,
+    "order": "396.00000000000000000000",
+    "name": "Magistratsbeamter/Magistratsbeamte",
+    "frd_id": "frd_prof_396",
+    "persons": []
+  },
+  "397": {
+    "id": 397,
+    "order": "397.00000000000000000000",
+    "name": "Magnetiseur/Magnetiseurin",
+    "frd_id": "frd_prof_397",
+    "persons": []
+  },
+  "398": {
+    "id": 398,
+    "order": "398.00000000000000000000",
+    "name": "Maler/Malerin",
+    "frd_id": "frd_prof_398",
+    "persons": [
+      {
+        "id": 51,
+        "value": "Leonardo, da Vinci"
+      },
+      {
+        "id": 60,
+        "value": "Schwind, Moritz von"
+      }
+    ]
+  },
+  "399": {
+    "id": 399,
+    "order": "399.00000000000000000000",
+    "name": "männliche Hausdame/Hausdame",
+    "frd_id": "frd_prof_399",
+    "persons": []
+  },
+  "400": {
+    "id": 400,
+    "order": "400.00000000000000000000",
+    "name": "männliche Hebamme/Hebamme",
+    "frd_id": "frd_prof_400",
+    "persons": []
+  },
+  "401": {
+    "id": 401,
+    "order": "401.00000000000000000000",
+    "name": "männliche Hofdame/Hofdame",
+    "frd_id": "frd_prof_401",
+    "persons": []
+  },
+  "402": {
+    "id": 402,
+    "order": "402.00000000000000000000",
+    "name": "männliche Salonnière/Salonnière",
+    "frd_id": "frd_prof_402",
+    "persons": []
+  },
+  "403": {
+    "id": 403,
+    "order": "403.00000000000000000000",
+    "name": "Marinebeamter/Marinebeamte",
+    "frd_id": "frd_prof_403",
+    "persons": []
+  },
+  "404": {
+    "id": 404,
+    "order": "404.00000000000000000000",
+    "name": "Markgraf/Markgräfin",
+    "frd_id": "frd_prof_404",
+    "persons": []
+  },
+  "405": {
+    "id": 405,
+    "order": "405.00000000000000000000",
+    "name": "Masseur/Masseuse",
+    "frd_id": "frd_prof_405",
+    "persons": []
+  },
+  "406": {
+    "id": 406,
+    "order": "406.00000000000000000000",
+    "name": "Mathematiker/Mathematikerin",
+    "frd_id": "frd_prof_406",
+    "persons": []
+  },
+  "407": {
+    "id": 407,
+    "order": "407.00000000000000000000",
+    "name": "Matrikelführer/Matrikelführerin",
+    "frd_id": "frd_prof_407",
+    "persons": []
+  },
+  "408": {
+    "id": 408,
+    "order": "408.00000000000000000000",
+    "name": "Mäzen/Mäzenin",
+    "frd_id": "frd_prof_408",
+    "persons": []
+  },
+  "409": {
+    "id": 409,
+    "order": "409.00000000000000000000",
+    "name": "Medailleur/Medailleurin",
+    "frd_id": "frd_prof_409",
+    "persons": []
+  },
+  "410": {
+    "id": 410,
+    "order": "410.00000000000000000000",
+    "name": "Mediziner/Medizinerin",
+    "frd_id": "frd_prof_410",
+    "persons": []
+  },
+  "411": {
+    "id": 411,
+    "order": "411.00000000000000000000",
+    "name": "Medizinstudent/Medizinstudentin",
+    "frd_id": "frd_prof_411",
+    "persons": []
+  },
+  "412": {
+    "id": 412,
+    "order": "412.00000000000000000000",
+    "name": "Metzger/Metzgerin",
+    "frd_id": "frd_prof_412",
+    "persons": []
+  },
+  "413": {
+    "id": 413,
+    "order": "413.00000000000000000000",
+    "name": "Militär/Militärin",
+    "frd_id": "frd_prof_413",
+    "persons": []
+  },
+  "414": {
+    "id": 414,
+    "order": "414.00000000000000000000",
+    "name": "Militärarzt/Militärärztin",
+    "frd_id": "frd_prof_414",
+    "persons": []
+  },
+  "415": {
+    "id": 415,
+    "order": "415.00000000000000000000",
+    "name": "Militärrichter/Militärrichterin",
+    "frd_id": "frd_prof_415",
+    "persons": []
+  },
+  "416": {
+    "id": 416,
+    "order": "416.00000000000000000000",
+    "name": "Militärschriftsteller/Militärschriftstellerin",
+    "frd_id": "frd_prof_416",
+    "persons": []
+  },
+  "417": {
+    "id": 417,
+    "order": "417.00000000000000000000",
+    "name": "Mimiker/Mimikerin",
+    "frd_id": "frd_prof_417",
+    "persons": []
+  },
+  "418": {
+    "id": 418,
+    "order": "418.00000000000000000000",
+    "name": "Mineraloge/Mineralogin",
+    "frd_id": "frd_prof_418",
+    "persons": []
+  },
+  "419": {
+    "id": 419,
+    "order": "419.00000000000000000000",
+    "name": "Minister/Ministerin",
+    "frd_id": "frd_prof_419",
+    "persons": []
+  },
+  "420": {
+    "id": 420,
+    "order": "420.00000000000000000000",
+    "name": "Ministerialbeamter/Ministerialbeamte",
+    "frd_id": "frd_prof_420",
+    "persons": []
+  },
+  "421": {
+    "id": 421,
+    "order": "421.00000000000000000000",
+    "name": "Ministerialrat/Ministerialrätin",
+    "frd_id": "frd_prof_421",
+    "persons": []
+  },
+  "422": {
+    "id": 422,
+    "order": "422.00000000000000000000",
+    "name": "Missionar/Missionarin",
+    "frd_id": "frd_prof_422",
+    "persons": []
+  },
+  "423": {
+    "id": 423,
+    "order": "423.00000000000000000000",
+    "name": "Möbelfabrikant/Möbelfabrikantin",
+    "frd_id": "frd_prof_423",
+    "persons": []
+  },
+  "424": {
+    "id": 424,
+    "order": "424.00000000000000000000",
+    "name": "Modeschöpfer/Modeschöpferin",
+    "frd_id": "frd_prof_424",
+    "persons": []
+  },
+  "425": {
+    "id": 425,
+    "order": "425.00000000000000000000",
+    "name": "Modist/Modistin",
+    "frd_id": "frd_prof_425",
+    "persons": []
+  },
+  "426": {
+    "id": 426,
+    "order": "426.00000000000000000000",
+    "name": "Mönch/Nonne",
+    "frd_id": "frd_prof_426",
+    "persons": []
+  },
+  "427": {
+    "id": 427,
+    "order": "427.00000000000000000000",
+    "name": "Mosaizist/Mosaizistin",
+    "frd_id": "frd_prof_427",
+    "persons": []
+  },
+  "428": {
+    "id": 428,
+    "order": "428.00000000000000000000",
+    "name": "Münzmeister/Münzmeisterin",
+    "frd_id": "frd_prof_428",
+    "persons": []
+  },
+  "429": {
+    "id": 429,
+    "order": "429.00000000000000000000",
+    "name": "Museumsdirektor/Museumsdirektorin",
+    "frd_id": "frd_prof_429",
+    "persons": []
+  },
+  "430": {
+    "id": 430,
+    "order": "430.00000000000000000000",
+    "name": "Museumsleiter/Museumsleiterin",
+    "frd_id": "frd_prof_430",
+    "persons": []
+  },
+  "431": {
+    "id": 431,
+    "order": "431.00000000000000000000",
+    "name": "Musikagent/Musikagentin",
+    "frd_id": "frd_prof_431",
+    "persons": []
+  },
+  "432": {
+    "id": 432,
+    "order": "432.00000000000000000000",
+    "name": "Musikarrangeur/Musikarrangeurin",
+    "frd_id": "frd_prof_432",
+    "persons": []
+  },
+  "433": {
+    "id": 433,
+    "order": "433.00000000000000000000",
+    "name": "Musikdirektor/Musikdirektorin",
+    "frd_id": "frd_prof_433",
+    "persons": []
+  },
+  "434": {
+    "id": 434,
+    "order": "434.00000000000000000000",
+    "name": "Musiker",
+    "frd_id": "frd_prof_434",
+    "persons": []
+  },
+  "435": {
+    "id": 435,
+    "order": "435.00000000000000000000",
+    "name": "Musiker/Musikerin",
+    "frd_id": "frd_prof_435",
+    "persons": []
+  },
+  "436": {
+    "id": 436,
+    "order": "436.00000000000000000000",
+    "name": "Musikjournalist/Musikjournalistin",
+    "frd_id": "frd_prof_436",
+    "persons": []
+  },
+  "437": {
+    "id": 437,
+    "order": "437.00000000000000000000",
+    "name": "Musikkritiker/Musikkritikerin",
+    "frd_id": "frd_prof_437",
+    "persons": []
+  },
+  "438": {
+    "id": 438,
+    "order": "438.00000000000000000000",
+    "name": "Musikpädagoge/Musikpädagogin",
+    "frd_id": "frd_prof_438",
+    "persons": []
+  },
+  "439": {
+    "id": 439,
+    "order": "439.00000000000000000000",
+    "name": "Musiktheoretiker/Musiktheoretikerin",
+    "frd_id": "frd_prof_439",
+    "persons": []
+  },
+  "440": {
+    "id": 440,
+    "order": "440.00000000000000000000",
+    "name": "Musikverleger/Musikverlegerin",
+    "frd_id": "frd_prof_440",
+    "persons": []
+  },
+  "441": {
+    "id": 441,
+    "order": "441.00000000000000000000",
+    "name": "Musikwissenschaftler/Musikwissenschaftlerin",
+    "frd_id": "frd_prof_441",
+    "persons": []
+  },
+  "442": {
+    "id": 442,
+    "order": "442.00000000000000000000",
+    "name": "Mystiker/Mystikerin",
+    "frd_id": "frd_prof_442",
+    "persons": []
+  },
+  "443": {
+    "id": 443,
+    "order": "443.00000000000000000000",
+    "name": "Näher/Näherin",
+    "frd_id": "frd_prof_443",
+    "persons": []
+  },
+  "444": {
+    "id": 444,
+    "order": "444.00000000000000000000",
+    "name": "name",
+    "frd_id": "frd_prof_444",
+    "persons": []
+  },
+  "445": {
+    "id": 445,
+    "order": "445.00000000000000000000",
+    "name": "Nationalheiliger/Nationalheilige",
+    "frd_id": "frd_prof_445",
+    "persons": []
+  },
+  "446": {
+    "id": 446,
+    "order": "446.00000000000000000000",
+    "name": "Nationalökonom/Nationalökonomin",
+    "frd_id": "frd_prof_446",
+    "persons": []
+  },
+  "447": {
+    "id": 447,
+    "order": "447.00000000000000000000",
+    "name": "Naturforscher/Naturforscherin",
+    "frd_id": "frd_prof_447",
+    "persons": [
+      {
+        "id": 3,
+        "value": "Beer, Theodor"
+      },
+      {
+        "id": 55,
+        "value": "Galton, Francis"
+      }
+    ]
+  },
+  "448": {
+    "id": 448,
+    "order": "448.00000000000000000000",
+    "name": "Naturphilosoph/Naturphilosophin",
+    "frd_id": "frd_prof_448",
+    "persons": []
+  },
+  "449": {
+    "id": 449,
+    "order": "449.00000000000000000000",
+    "name": "Naturschützer/Naturschützerin",
+    "frd_id": "frd_prof_449",
+    "persons": []
+  },
+  "450": {
+    "id": 450,
+    "order": "450.00000000000000000000",
+    "name": "Naturwissenschaftler/Naturwissenschaftlerin",
+    "frd_id": "frd_prof_450",
+    "persons": []
+  },
+  "451": {
+    "id": 451,
+    "order": "451.00000000000000000000",
+    "name": "Nervenpathologe/Nervenpathologin",
+    "frd_id": "frd_prof_451",
+    "persons": []
+  },
+  "452": {
+    "id": 452,
+    "order": "452.00000000000000000000",
+    "name": "Neurologe/Neurologin",
+    "frd_id": "frd_prof_452",
+    "persons": [
+      {
+        "id": 41,
+        "value": "Löwenfeld, Leopold"
+      },
+      {
+        "id": 43,
+        "value": "Vogt, Oskar"
+      },
+      {
+        "id": 48,
+        "value": "Moebius, Paul Julius"
+      }
+    ]
+  },
+  "453": {
+    "id": 453,
+    "order": "453.00000000000000000000",
+    "name": "Nobelpreisträger/Nobelpreisträgerin",
+    "frd_id": "frd_prof_453",
+    "persons": []
+  },
+  "454": {
+    "id": 454,
+    "order": "454.00000000000000000000",
+    "name": "Notar/Notarin",
+    "frd_id": "frd_prof_454",
+    "persons": []
+  },
+  "455": {
+    "id": 455,
+    "order": "455.00000000000000000000",
+    "name": "Oberingenieur/Oberingenieurin",
+    "frd_id": "frd_prof_455",
+    "persons": []
+  },
+  "456": {
+    "id": 456,
+    "order": "456.00000000000000000000",
+    "name": "Oberkantor/Oberkantorin",
+    "frd_id": "frd_prof_456",
+    "persons": []
+  },
+  "457": {
+    "id": 457,
+    "order": "457.00000000000000000000",
+    "name": "Oberkassier/Oberkassierin",
+    "frd_id": "frd_prof_457",
+    "persons": []
+  },
+  "458": {
+    "id": 458,
+    "order": "458.00000000000000000000",
+    "name": "Oberlehrer/Oberlehrerin",
+    "frd_id": "frd_prof_458",
+    "persons": []
+  },
+  "459": {
+    "id": 459,
+    "order": "459.00000000000000000000",
+    "name": "Oberrabbiner/Oberrabbinerin",
+    "frd_id": "frd_prof_459",
+    "persons": []
+  },
+  "460": {
+    "id": 460,
+    "order": "460.00000000000000000000",
+    "name": "Obersthofmeister/Obersthofmeisterin",
+    "frd_id": "frd_prof_460",
+    "persons": []
+  },
+  "461": {
+    "id": 461,
+    "order": "461.00000000000000000000",
+    "name": "Oboist/Oboistin",
+    "frd_id": "frd_prof_461",
+    "persons": []
+  },
+  "462": {
+    "id": 462,
+    "order": "462.00000000000000000000",
+    "name": "Obstbautechniker/Obstbautechnikerin",
+    "frd_id": "frd_prof_462",
+    "persons": []
+  },
+  "463": {
+    "id": 463,
+    "order": "463.00000000000000000000",
+    "name": "Ohrenarzt/Ohrenärztin",
+    "frd_id": "frd_prof_463",
+    "persons": []
+  },
+  "464": {
+    "id": 464,
+    "order": "464.00000000000000000000",
+    "name": "Okkultist/Okkultistin",
+    "frd_id": "frd_prof_464",
+    "persons": []
+  },
+  "465": {
+    "id": 465,
+    "order": "465.00000000000000000000",
+    "name": "Ökonom/Ökonomin",
+    "frd_id": "frd_prof_465",
+    "persons": []
+  },
+  "466": {
+    "id": 466,
+    "order": "466.00000000000000000000",
+    "name": "Optiker/Optikerin",
+    "frd_id": "frd_prof_466",
+    "persons": []
+  },
+  "467": {
+    "id": 467,
+    "order": "467.00000000000000000000",
+    "name": "Ordensgründer/Ordensgründerin",
+    "frd_id": "frd_prof_467",
+    "persons": []
+  },
+  "468": {
+    "id": 468,
+    "order": "468.00000000000000000000",
+    "name": "Ordenspriester/Ordenspriesterin",
+    "frd_id": "frd_prof_468",
+    "persons": []
+  },
+  "469": {
+    "id": 469,
+    "order": "469.00000000000000000000",
+    "name": "Organist/Organistin",
+    "frd_id": "frd_prof_469",
+    "persons": []
+  },
+  "470": {
+    "id": 470,
+    "order": "470.00000000000000000000",
+    "name": "Orientalist/Orientalistin",
+    "frd_id": "frd_prof_470",
+    "persons": []
+  },
+  "471": {
+    "id": 471,
+    "order": "471.00000000000000000000",
+    "name": "Ornithologe/Ornithologin",
+    "frd_id": "frd_prof_471",
+    "persons": []
+  },
+  "472": {
+    "id": 472,
+    "order": "472.00000000000000000000",
+    "name": "Orthopäde/Orthopädin",
+    "frd_id": "frd_prof_472",
+    "persons": []
+  },
+  "473": {
+    "id": 473,
+    "order": "473.00000000000000000000",
+    "name": "Pädagoge/Pädagogin",
+    "frd_id": "frd_prof_473",
+    "persons": []
+  },
+  "474": {
+    "id": 474,
+    "order": "474.00000000000000000000",
+    "name": "Pädiater/Pädiaterin",
+    "frd_id": "frd_prof_474",
+    "persons": []
+  },
+  "475": {
+    "id": 475,
+    "order": "475.00000000000000000000",
+    "name": "Paläontologe/Paläontologin",
+    "frd_id": "frd_prof_475",
+    "persons": []
+  },
+  "476": {
+    "id": 476,
+    "order": "476.00000000000000000000",
+    "name": "Papierfabrikant/Papierfabrikantin",
+    "frd_id": "frd_prof_476",
+    "persons": []
+  },
+  "477": {
+    "id": 477,
+    "order": "477.00000000000000000000",
+    "name": "Papst/Päpstin",
+    "frd_id": "frd_prof_477",
+    "persons": []
+  },
+  "478": {
+    "id": 478,
+    "order": "478.00000000000000000000",
+    "name": "Parapsychologe/Parapsychologin",
+    "frd_id": "frd_prof_478",
+    "persons": [
+      {
+        "id": 65,
+        "value": "Du Prel, Carl"
+      }
+    ]
+  },
+  "479": {
+    "id": 479,
+    "order": "479.00000000000000000000",
+    "name": "Pastor/Pastorin",
+    "frd_id": "frd_prof_479",
+    "persons": []
+  },
+  "480": {
+    "id": 480,
+    "order": "480.00000000000000000000",
+    "name": "Patentanwalt/Patentanwältin",
+    "frd_id": "frd_prof_480",
+    "persons": []
+  },
+  "481": {
+    "id": 481,
+    "order": "481.00000000000000000000",
+    "name": "Pathologe/Pathologin",
+    "frd_id": "frd_prof_481",
+    "persons": []
+  },
+  "482": {
+    "id": 482,
+    "order": "482.00000000000000000000",
+    "name": "Paukist/Paukistin",
+    "frd_id": "frd_prof_482",
+    "persons": []
+  },
+  "483": {
+    "id": 483,
+    "order": "483.00000000000000000000",
+    "name": "Pazifist/Pazifistin",
+    "frd_id": "frd_prof_483",
+    "persons": []
+  },
+  "484": {
+    "id": 484,
+    "order": "484.00000000000000000000",
+    "name": "Pelzhändler/Pelzhändlerin",
+    "frd_id": "frd_prof_484",
+    "persons": []
+  },
+  "485": {
+    "id": 485,
+    "order": "485.00000000000000000000",
+    "name": "Pensionatsleiter/Pensionatsleiterin",
+    "frd_id": "frd_prof_485",
+    "persons": []
+  },
+  "486": {
+    "id": 486,
+    "order": "486.00000000000000000000",
+    "name": "Pensionsinhaber/Pensionsinhaberin",
+    "frd_id": "frd_prof_486",
+    "persons": []
+  },
+  "487": {
+    "id": 487,
+    "order": "487.00000000000000000000",
+    "name": "Pfarrer/Pfarrerin",
+    "frd_id": "frd_prof_487",
+    "persons": [
+      {
+        "id": 58,
+        "value": "Hildebrandt, Friedrich Wilhelm"
+      },
+      {
+        "id": 82,
+        "value": "Frerichs, Johann Heinrich Friedrich"
+      }
+    ]
+  },
+  "488": {
+    "id": 488,
+    "order": "488.00000000000000000000",
+    "name": "Pfarrersfrau/Pfarrerinsmann",
+    "frd_id": "frd_prof_488",
+    "persons": []
+  },
+  "489": {
+    "id": 489,
+    "order": "489.00000000000000000000",
+    "name": "Pfleger/Pflegerin",
+    "frd_id": "frd_prof_489",
+    "persons": []
+  },
+  "490": {
+    "id": 490,
+    "order": "490.00000000000000000000",
+    "name": "Pharmakologe/Pharmakologin",
+    "frd_id": "frd_prof_490",
+    "persons": []
+  },
+  "491": {
+    "id": 491,
+    "order": "491.00000000000000000000",
+    "name": "Philologe/Philologin",
+    "frd_id": "frd_prof_491",
+    "persons": []
+  },
+  "492": {
+    "id": 492,
+    "order": "492.00000000000000000000",
+    "name": "Philosoph/Philosophin",
+    "frd_id": "frd_prof_492",
+    "persons": [
+      {
+        "id": 47,
+        "value": "Janet, Pierre"
+      },
+      {
+        "id": 50,
+        "value": "Vischer, Friedrich Theodor"
+      },
+      {
+        "id": 56,
+        "value": "Delboeuf, Joseph-Remi-Léopold"
+      },
+      {
+        "id": 65,
+        "value": "Du Prel, Carl"
+      },
+      {
+        "id": 66,
+        "value": "Egger, Victor"
+      },
+      {
+        "id": 69,
+        "value": "Knauer, Vinzenz"
+      },
+      {
+        "id": 73,
+        "value": "Fechner, Gustav Theodor"
+      }
+    ]
+  },
+  "493": {
+    "id": 493,
+    "order": "493.00000000000000000000",
+    "name": "Philosophiehistoriker/Philosophiehistorikerin",
+    "frd_id": "frd_prof_493",
+    "persons": [
+      {
+        "id": 68,
+        "value": "Erdmann, Johann Eduard"
+      }
+    ]
+  },
+  "494": {
+    "id": 494,
+    "order": "494.00000000000000000000",
+    "name": "Physiker/Physikerin",
+    "frd_id": "frd_prof_494",
+    "persons": [
+      {
+        "id": 73,
+        "value": "Fechner, Gustav Theodor"
+      }
+    ]
+  },
+  "495": {
+    "id": 495,
+    "order": "495.00000000000000000000",
+    "name": "Physiologe/Physiologin",
+    "frd_id": "frd_prof_495",
+    "persons": [
+      {
+        "id": 40,
+        "value": "Breuer, Josef"
+      },
+      {
+        "id": 53,
+        "value": "Burdach, Karl Friedrich"
+      }
+    ]
+  },
+  "496": {
+    "id": 496,
+    "order": "496.00000000000000000000",
+    "name": "Physiotherapeut/Physiotherapeutin",
+    "frd_id": "frd_prof_496",
+    "persons": []
+  },
+  "497": {
+    "id": 497,
+    "order": "497.00000000000000000000",
+    "name": "Pianist/Pianistin",
+    "frd_id": "frd_prof_497",
+    "persons": []
+  },
+  "498": {
+    "id": 498,
+    "order": "498.00000000000000000000",
+    "name": "Pilot/Pilotin",
+    "frd_id": "frd_prof_498",
+    "persons": []
+  },
+  "499": {
+    "id": 499,
+    "order": "499.00000000000000000000",
+    "name": "Plakatkünstler/Plakatkünstlerin",
+    "frd_id": "frd_prof_499",
+    "persons": []
+  },
+  "500": {
+    "id": 500,
+    "order": "500.00000000000000000000",
+    "name": "Polarforscher/Polarforscherin",
+    "frd_id": "frd_prof_500",
+    "persons": []
+  },
+  "501": {
+    "id": 501,
+    "order": "501.00000000000000000000",
+    "name": "Politiker/Politikerin",
+    "frd_id": "frd_prof_501",
+    "persons": [
+      {
+        "id": 79,
+        "value": "Virchow, Rudolf"
+      }
+    ]
+  },
+  "502": {
+    "id": 502,
+    "order": "502.00000000000000000000",
+    "name": "Polizeibeamter/Polizeibeamtin",
+    "frd_id": "frd_prof_502",
+    "persons": []
+  },
+  "503": {
+    "id": 503,
+    "order": "503.00000000000000000000",
+    "name": "Polizeiinspektor/Polizeiinspektorin",
+    "frd_id": "frd_prof_503",
+    "persons": []
+  },
+  "504": {
+    "id": 504,
+    "order": "504.00000000000000000000",
+    "name": "Polizeipräsident/Polizeipräsidentin",
+    "frd_id": "frd_prof_504",
+    "persons": []
+  },
+  "505": {
+    "id": 505,
+    "order": "505.00000000000000000000",
+    "name": "Poltiker/Poltikerin",
+    "frd_id": "frd_prof_505",
+    "persons": []
+  },
+  "506": {
+    "id": 506,
+    "order": "506.00000000000000000000",
+    "name": "Polyhistor/Polyhistorin",
+    "frd_id": "frd_prof_506",
+    "persons": []
+  },
+  "507": {
+    "id": 507,
+    "order": "507.00000000000000000000",
+    "name": "Portier/Portierin",
+    "frd_id": "frd_prof_507",
+    "persons": []
+  },
+  "508": {
+    "id": 508,
+    "order": "508.00000000000000000000",
+    "name": "Postbeamter/Postbeamtin",
+    "frd_id": "frd_prof_508",
+    "persons": []
+  },
+  "509": {
+    "id": 509,
+    "order": "509.00000000000000000000",
+    "name": "Prälat/Prälatin",
+    "frd_id": "frd_prof_509",
+    "persons": []
+  },
+  "510": {
+    "id": 510,
+    "order": "510.00000000000000000000",
+    "name": "Präsident/Präsidentin",
+    "frd_id": "frd_prof_510",
+    "persons": []
+  },
+  "511": {
+    "id": 511,
+    "order": "511.00000000000000000000",
+    "name": "Prediger/Predigerin",
+    "frd_id": "frd_prof_511",
+    "persons": []
+  },
+  "512": {
+    "id": 512,
+    "order": "512.00000000000000000000",
+    "name": "Pressebeirat/Pressebeirätin",
+    "frd_id": "frd_prof_512",
+    "persons": []
+  },
+  "513": {
+    "id": 513,
+    "order": "513.00000000000000000000",
+    "name": "Priester/Priesterin",
+    "frd_id": "frd_prof_513",
+    "persons": []
+  },
+  "514": {
+    "id": 514,
+    "order": "514.00000000000000000000",
+    "name": "Prinz/Prinzessin",
+    "frd_id": "frd_prof_514",
+    "persons": []
+  },
+  "515": {
+    "id": 515,
+    "order": "515.00000000000000000000",
+    "name": "Privatbeamter/Privatbeamtin",
+    "frd_id": "frd_prof_515",
+    "persons": []
+  },
+  "516": {
+    "id": 516,
+    "order": "516.00000000000000000000",
+    "name": "Privatdetektiv/Privatdetektivin",
+    "frd_id": "frd_prof_516",
+    "persons": []
+  },
+  "517": {
+    "id": 517,
+    "order": "517.00000000000000000000",
+    "name": "Privatdozent/Privatdozentin",
+    "frd_id": "frd_prof_517",
+    "persons": []
+  },
+  "518": {
+    "id": 518,
+    "order": "518.00000000000000000000",
+    "name": "Privatgelehrte/Privatgelehrte",
+    "frd_id": "frd_prof_518",
+    "persons": []
+  },
+  "519": {
+    "id": 519,
+    "order": "519.00000000000000000000",
+    "name": "Privatier/Privatière",
+    "frd_id": "frd_prof_519",
+    "persons": []
+  },
+  "520": {
+    "id": 520,
+    "order": "520.00000000000000000000",
+    "name": "Privatlehrer/Privatlehrerin",
+    "frd_id": "frd_prof_520",
+    "persons": []
+  },
+  "521": {
+    "id": 521,
+    "order": "521.00000000000000000000",
+    "name": "Professor/Professorin",
+    "frd_id": "frd_prof_521",
+    "persons": [
+      {
+        "id": 73,
+        "value": "Fechner, Gustav Theodor"
+      }
+    ]
+  },
+  "522": {
+    "id": 522,
+    "order": "522.00000000000000000000",
+    "name": "Prokurist/Prokuristin",
+    "frd_id": "frd_prof_522",
+    "persons": []
+  },
+  "523": {
+    "id": 523,
+    "order": "523.00000000000000000000",
+    "name": "Prostituierter/Prostituierte",
+    "frd_id": "frd_prof_523",
+    "persons": []
+  },
+  "524": {
+    "id": 524,
+    "order": "524.00000000000000000000",
+    "name": "Psychiater/Psychiaterin",
+    "frd_id": "frd_prof_524",
+    "persons": [
+      {
+        "id": 42,
+        "value": "Forel, August"
+      },
+      {
+        "id": 46,
+        "value": "Bernheim, Hippolyte"
+      },
+      {
+        "id": 47,
+        "value": "Janet, Pierre"
+      },
+      {
+        "id": 48,
+        "value": "Moebius, Paul Julius"
+      },
+      {
+        "id": 52,
+        "value": "De Sanctis, Sante"
+      },
+      {
+        "id": 75,
+        "value": "Féré, Charles"
+      }
+    ]
+  },
+  "525": {
+    "id": 525,
+    "order": "525.00000000000000000000",
+    "name": "Psychoanalytiker/Psychoanalytikerin",
+    "frd_id": "frd_prof_525",
+    "persons": [
+      {
+        "id": 64,
+        "value": "Stekel, Wilhelm"
+      }
+    ]
+  },
+  "526": {
+    "id": 526,
+    "order": "526.00000000000000000000",
+    "name": "Psychologe/Psychologin",
+    "frd_id": "frd_prof_526",
+    "persons": [
+      {
+        "id": 46,
+        "value": "Bernheim, Hippolyte"
+      },
+      {
+        "id": 47,
+        "value": "Janet, Pierre"
+      },
+      {
+        "id": 52,
+        "value": "De Sanctis, Sante"
+      }
+    ]
+  },
+  "527": {
+    "id": 527,
+    "order": "527.00000000000000000000",
+    "name": "Psychotherapeut/Psychotherapeutin",
+    "frd_id": "frd_prof_527",
+    "persons": [
+      {
+        "id": 47,
+        "value": "Janet, Pierre"
+      }
+    ]
+  },
+  "528": {
+    "id": 528,
+    "order": "528.00000000000000000000",
+    "name": "Publizist/Publizistin",
+    "frd_id": "frd_prof_528",
+    "persons": []
+  },
+  "529": {
+    "id": 529,
+    "order": "529.00000000000000000000",
+    "name": "Puppenkünstler/Puppenkünstlerin",
+    "frd_id": "frd_prof_529",
+    "persons": []
+  },
+  "530": {
+    "id": 530,
+    "order": "530.00000000000000000000",
+    "name": "Rabbinatssubstitut/Rabbinatssubstitutin",
+    "frd_id": "frd_prof_530",
+    "persons": []
+  },
+  "531": {
+    "id": 531,
+    "order": "531.00000000000000000000",
+    "name": "Rabbiner/Rabbinerin",
+    "frd_id": "frd_prof_531",
+    "persons": []
+  },
+  "532": {
+    "id": 532,
+    "order": "532.00000000000000000000",
+    "name": "Radierer/Radiererin",
+    "frd_id": "frd_prof_532",
+    "persons": []
+  },
+  "533": {
+    "id": 533,
+    "order": "533.00000000000000000000",
+    "name": "Radiodirektor/Radiodirektorin",
+    "frd_id": "frd_prof_533",
+    "persons": []
+  },
+  "534": {
+    "id": 534,
+    "order": "534.00000000000000000000",
+    "name": "Rahmenmacher/Rahmenmacherin",
+    "frd_id": "frd_prof_534",
+    "persons": []
+  },
+  "535": {
+    "id": 535,
+    "order": "535.00000000000000000000",
+    "name": "Rassentheoretiker/Rassentheoretikerin",
+    "frd_id": "frd_prof_535",
+    "persons": []
+  },
+  "536": {
+    "id": 536,
+    "order": "536.00000000000000000000",
+    "name": "Räuberhauptmann/Räuberhauptfrau",
+    "frd_id": "frd_prof_536",
+    "persons": []
+  },
+  "537": {
+    "id": 537,
+    "order": "537.00000000000000000000",
+    "name": "Raubmörder/Raubmörderin",
+    "frd_id": "frd_prof_537",
+    "persons": []
+  },
+  "538": {
+    "id": 538,
+    "order": "538.00000000000000000000",
+    "name": "Realitätenagent/Realitätenagentin",
+    "frd_id": "frd_prof_538",
+    "persons": []
+  },
+  "539": {
+    "id": 539,
+    "order": "539.00000000000000000000",
+    "name": "Realitätensensal/Realitätensensalin",
+    "frd_id": "frd_prof_539",
+    "persons": []
+  },
+  "540": {
+    "id": 540,
+    "order": "540.00000000000000000000",
+    "name": "Rechnungsprüfer/Rechnungsprüferin",
+    "frd_id": "frd_prof_540",
+    "persons": []
+  },
+  "541": {
+    "id": 541,
+    "order": "541.00000000000000000000",
+    "name": "Rechtsanwalt/Rechtsanwältin",
+    "frd_id": "frd_prof_541",
+    "persons": []
+  },
+  "542": {
+    "id": 542,
+    "order": "542.00000000000000000000",
+    "name": "Rechtswissenschaftler/Rechtswissenschaftlerin",
+    "frd_id": "frd_prof_542",
+    "persons": []
+  },
+  "543": {
+    "id": 543,
+    "order": "543.00000000000000000000",
+    "name": "Redakteur",
+    "frd_id": "frd_prof_543",
+    "persons": []
+  },
+  "544": {
+    "id": 544,
+    "order": "544.00000000000000000000",
+    "name": "Redakteur/Redakteurin",
+    "frd_id": "frd_prof_544",
+    "persons": []
+  },
+  "545": {
+    "id": 545,
+    "order": "545.00000000000000000000",
+    "name": "Redner/Rednerin",
+    "frd_id": "frd_prof_545",
+    "persons": []
+  },
+  "546": {
+    "id": 546,
+    "order": "546.00000000000000000000",
+    "name": "Reformator/Reformatorin",
+    "frd_id": "frd_prof_546",
+    "persons": []
+  },
+  "547": {
+    "id": 547,
+    "order": "547.00000000000000000000",
+    "name": "Regent/Regentin",
+    "frd_id": "frd_prof_547",
+    "persons": []
+  },
+  "548": {
+    "id": 548,
+    "order": "548.00000000000000000000",
+    "name": "Regieassistent/Regieassistentin",
+    "frd_id": "frd_prof_548",
+    "persons": []
+  },
+  "549": {
+    "id": 549,
+    "order": "549.00000000000000000000",
+    "name": "Regiekanzleiführer/Regiekanzleiführerin",
+    "frd_id": "frd_prof_549",
+    "persons": []
+  },
+  "550": {
+    "id": 550,
+    "order": "550.00000000000000000000",
+    "name": "Regimentsarzt/Regimentsärztin",
+    "frd_id": "frd_prof_550",
+    "persons": []
+  },
+  "551": {
+    "id": 551,
+    "order": "551.00000000000000000000",
+    "name": "Regisseur/Regisseurin",
+    "frd_id": "frd_prof_551",
+    "persons": []
+  },
+  "552": {
+    "id": 552,
+    "order": "552.00000000000000000000",
+    "name": "Reichstagssekretär/Reichstagssekretärin",
+    "frd_id": "frd_prof_552",
+    "persons": []
+  },
+  "553": {
+    "id": 553,
+    "order": "553.00000000000000000000",
+    "name": "Reinigungskraft/Reinigungskraft",
+    "frd_id": "frd_prof_553",
+    "persons": []
+  },
+  "554": {
+    "id": 554,
+    "order": "554.00000000000000000000",
+    "name": "Reiseschriftsteller/Reiseschriftstellerin",
+    "frd_id": "frd_prof_554",
+    "persons": []
+  },
+  "555": {
+    "id": 555,
+    "order": "555.00000000000000000000",
+    "name": "Rektor/Rektorin",
+    "frd_id": "frd_prof_555",
+    "persons": []
+  },
+  "556": {
+    "id": 556,
+    "order": "556.00000000000000000000",
+    "name": "Religionslehrer/Religionslehrerin",
+    "frd_id": "frd_prof_556",
+    "persons": []
+  },
+  "557": {
+    "id": 557,
+    "order": "557.00000000000000000000",
+    "name": "Rennstallbesitzer/Rennstallbesitzerin",
+    "frd_id": "frd_prof_557",
+    "persons": []
+  },
+  "558": {
+    "id": 558,
+    "order": "558.00000000000000000000",
+    "name": "Rentier/Rentierin",
+    "frd_id": "frd_prof_558",
+    "persons": []
+  },
+  "559": {
+    "id": 559,
+    "order": "559.00000000000000000000",
+    "name": "Reporter/Reporterin",
+    "frd_id": "frd_prof_559",
+    "persons": []
+  },
+  "560": {
+    "id": 560,
+    "order": "560.00000000000000000000",
+    "name": "Restaurantbesitzer/Restaurantbesitzerin",
+    "frd_id": "frd_prof_560",
+    "persons": []
+  },
+  "561": {
+    "id": 561,
+    "order": "561.00000000000000000000",
+    "name": "Restaurateur/Restaurateurin",
+    "frd_id": "frd_prof_561",
+    "persons": []
+  },
+  "562": {
+    "id": 562,
+    "order": "562.00000000000000000000",
+    "name": "Restaurator/Restauratorin",
+    "frd_id": "frd_prof_562",
+    "persons": []
+  },
+  "563": {
+    "id": 563,
+    "order": "563.00000000000000000000",
+    "name": "Revolutionär/Revolutionärin",
+    "frd_id": "frd_prof_563",
+    "persons": []
+  },
+  "564": {
+    "id": 564,
+    "order": "564.00000000000000000000",
+    "name": "Rezensent/Rezensentin",
+    "frd_id": "frd_prof_564",
+    "persons": []
+  },
+  "565": {
+    "id": 565,
+    "order": "565.00000000000000000000",
+    "name": "Rezitator/Rezitatorin",
+    "frd_id": "frd_prof_565",
+    "persons": []
+  },
+  "566": {
+    "id": 566,
+    "order": "566.00000000000000000000",
+    "name": "Richter/Richterin",
+    "frd_id": "frd_prof_566",
+    "persons": []
+  },
+  "567": {
+    "id": 567,
+    "order": "567.00000000000000000000",
+    "name": "Romanist/Romanistin",
+    "frd_id": "frd_prof_567",
+    "persons": []
+  },
+  "568": {
+    "id": 568,
+    "order": "568.00000000000000000000",
+    "name": "Röntgenologe/Röntgenologin",
+    "frd_id": "frd_prof_568",
+    "persons": []
+  },
+  "569": {
+    "id": 569,
+    "order": "569.00000000000000000000",
+    "name": "Russe/Russin",
+    "frd_id": "frd_prof_569",
+    "persons": []
+  },
+  "570": {
+    "id": 570,
+    "order": "570.00000000000000000000",
+    "name": "Sammler/Sammlerin",
+    "frd_id": "frd_prof_570",
+    "persons": []
+  },
+  "571": {
+    "id": 571,
+    "order": "571.00000000000000000000",
+    "name": "Sanatoriumsleiter/Sanatoriumsleiterin",
+    "frd_id": "frd_prof_571",
+    "persons": []
+  },
+  "572": {
+    "id": 572,
+    "order": "572.00000000000000000000",
+    "name": "Sänger/Sängerin",
+    "frd_id": "frd_prof_572",
+    "persons": []
+  },
+  "573": {
+    "id": 573,
+    "order": "573.00000000000000000000",
+    "name": "Satiriker/Satirikerin",
+    "frd_id": "frd_prof_573",
+    "persons": []
+  },
+  "574": {
+    "id": 574,
+    "order": "574.00000000000000000000",
+    "name": "Schäferdichter/Schäferdichterin",
+    "frd_id": "frd_prof_574",
+    "persons": []
+  },
+  "575": {
+    "id": 575,
+    "order": "575.00000000000000000000",
+    "name": "Schätzmeister/Schätzmeisterin",
+    "frd_id": "frd_prof_575",
+    "persons": []
+  },
+  "576": {
+    "id": 576,
+    "order": "576.00000000000000000000",
+    "name": "Schauspieler",
+    "frd_id": "frd_prof_576",
+    "persons": []
+  },
+  "577": {
+    "id": 577,
+    "order": "577.00000000000000000000",
+    "name": "Schauspieler/Schauspielerin",
+    "frd_id": "frd_prof_577",
+    "persons": []
+  },
+  "578": {
+    "id": 578,
+    "order": "578.00000000000000000000",
+    "name": "Schauspiellehrer/Schauspiellehrerin",
+    "frd_id": "frd_prof_578",
+    "persons": []
+  },
+  "579": {
+    "id": 579,
+    "order": "579.00000000000000000000",
+    "name": "Schausteller/Schaustellerin",
+    "frd_id": "frd_prof_579",
+    "persons": []
+  },
+  "580": {
+    "id": 580,
+    "order": "580.00000000000000000000",
+    "name": "Schlachter/Schlachterin",
+    "frd_id": "frd_prof_580",
+    "persons": []
+  },
+  "581": {
+    "id": 581,
+    "order": "581.00000000000000000000",
+    "name": "Schmied/Schmiedin",
+    "frd_id": "frd_prof_581",
+    "persons": []
+  },
+  "582": {
+    "id": 582,
+    "order": "582.00000000000000000000",
+    "name": "Schneider/Schneiderin",
+    "frd_id": "frd_prof_582",
+    "persons": []
+  },
+  "583": {
+    "id": 583,
+    "order": "583.00000000000000000000",
+    "name": "Schreiber/Schreiberin",
+    "frd_id": "frd_prof_583",
+    "persons": []
+  },
+  "584": {
+    "id": 584,
+    "order": "584.00000000000000000000",
+    "name": "Schriftführer/Schriftführerin",
+    "frd_id": "frd_prof_584",
+    "persons": []
+  },
+  "585": {
+    "id": 585,
+    "order": "585.00000000000000000000",
+    "name": "Schriftsetzer/Schriftsetzerin",
+    "frd_id": "frd_prof_585",
+    "persons": []
+  },
+  "586": {
+    "id": 586,
+    "order": "586.00000000000000000000",
+    "name": "Schriftsteller/Schriftstellerin",
+    "frd_id": "frd_prof_586",
+    "persons": [
+      {
+        "id": 64,
+        "value": "Stekel, Wilhelm"
+      },
+      {
+        "id": 65,
+        "value": "Du Prel, Carl"
+      },
+      {
+        "id": 68,
+        "value": "Erdmann, Johann Eduard"
+      }
+    ]
+  },
+  "587": {
+    "id": 587,
+    "order": "587.00000000000000000000",
+    "name": "Schuhmacher/Schuhmacherin",
+    "frd_id": "frd_prof_587",
+    "persons": []
+  },
+  "588": {
+    "id": 588,
+    "order": "588.00000000000000000000",
+    "name": "Schuldirektor/Schuldirektorin",
+    "frd_id": "frd_prof_588",
+    "persons": []
+  },
+  "589": {
+    "id": 589,
+    "order": "589.00000000000000000000",
+    "name": "Schulleiter/Schulleiterin",
+    "frd_id": "frd_prof_589",
+    "persons": []
+  },
+  "590": {
+    "id": 590,
+    "order": "590.00000000000000000000",
+    "name": "Schuster/Schusterin",
+    "frd_id": "frd_prof_590",
+    "persons": []
+  },
+  "591": {
+    "id": 591,
+    "order": "591.00000000000000000000",
+    "name": "Schwede/Schwedin",
+    "frd_id": "frd_prof_591",
+    "persons": []
+  },
+  "592": {
+    "id": 592,
+    "order": "592.00000000000000000000",
+    "name": "Schwimmbadeigentümer/Schwimmbadeigentümerin",
+    "frd_id": "frd_prof_592",
+    "persons": []
+  },
+  "593": {
+    "id": 593,
+    "order": "593.00000000000000000000",
+    "name": "Seefahrer/Seefahrerin",
+    "frd_id": "frd_prof_593",
+    "persons": []
+  },
+  "594": {
+    "id": 594,
+    "order": "594.00000000000000000000",
+    "name": "Sekretär/Sekretärin",
+    "frd_id": "frd_prof_594",
+    "persons": []
+  },
+  "595": {
+    "id": 595,
+    "order": "595.00000000000000000000",
+    "name": "Senator/Senatorin",
+    "frd_id": "frd_prof_595",
+    "persons": []
+  },
+  "596": {
+    "id": 596,
+    "order": "596.00000000000000000000",
+    "name": "Serologe/Serologin",
+    "frd_id": "frd_prof_596",
+    "persons": []
+  },
+  "597": {
+    "id": 597,
+    "order": "597.00000000000000000000",
+    "name": "Sexualforscher/Sexualforscherin",
+    "frd_id": "frd_prof_597",
+    "persons": [
+      {
+        "id": 48,
+        "value": "Moebius, Paul Julius"
+      }
+    ]
+  },
+  "598": {
+    "id": 598,
+    "order": "598.00000000000000000000",
+    "name": "Sexualwissenschaftler/Sexualwissenschaftlerin",
+    "frd_id": "frd_prof_598",
+    "persons": []
+  },
+  "599": {
+    "id": 599,
+    "order": "599.00000000000000000000",
+    "name": "Slawist/Slawistin",
+    "frd_id": "frd_prof_599",
+    "persons": []
+  },
+  "600": {
+    "id": 600,
+    "order": "600.00000000000000000000",
+    "name": "Soldat/Soldatin",
+    "frd_id": "frd_prof_600",
+    "persons": []
+  },
+  "601": {
+    "id": 601,
+    "order": "601.00000000000000000000",
+    "name": "Soubrette",
+    "frd_id": "frd_prof_601",
+    "persons": []
+  },
+  "602": {
+    "id": 602,
+    "order": "602.00000000000000000000",
+    "name": "Souffleur/Souffleuse",
+    "frd_id": "frd_prof_602",
+    "persons": []
+  },
+  "603": {
+    "id": 603,
+    "order": "603.00000000000000000000",
+    "name": "Sozialdemokrat/Sozialdemokratin",
+    "frd_id": "frd_prof_603",
+    "persons": []
+  },
+  "604": {
+    "id": 604,
+    "order": "604.00000000000000000000",
+    "name": "Sozialist/Sozialistin",
+    "frd_id": "frd_prof_604",
+    "persons": []
+  },
+  "605": {
+    "id": 605,
+    "order": "605.00000000000000000000",
+    "name": "Soziologe/Soziologin",
+    "frd_id": "frd_prof_605",
+    "persons": []
+  },
+  "606": {
+    "id": 606,
+    "order": "606.00000000000000000000",
+    "name": "Spediteur/Spediteurin",
+    "frd_id": "frd_prof_606",
+    "persons": []
+  },
+  "607": {
+    "id": 607,
+    "order": "607.00000000000000000000",
+    "name": "Spengler/Spenglerin",
+    "frd_id": "frd_prof_607",
+    "persons": []
+  },
+  "608": {
+    "id": 608,
+    "order": "608.00000000000000000000",
+    "name": "Sportjournalist/Sportjournalistin",
+    "frd_id": "frd_prof_608",
+    "persons": []
+  },
+  "609": {
+    "id": 609,
+    "order": "609.00000000000000000000",
+    "name": "Sprachgelehrter/Sprachgelehrte",
+    "frd_id": "frd_prof_609",
+    "persons": []
+  },
+  "610": {
+    "id": 610,
+    "order": "610.00000000000000000000",
+    "name": "Sprachlehrer/Sprachlehrerin",
+    "frd_id": "frd_prof_610",
+    "persons": []
+  },
+  "611": {
+    "id": 611,
+    "order": "611.00000000000000000000",
+    "name": "Sprecher",
+    "frd_id": "frd_prof_611",
+    "persons": []
+  },
+  "612": {
+    "id": 612,
+    "order": "612.00000000000000000000",
+    "name": "Sprechlehrer/Sprechlehrerin",
+    "frd_id": "frd_prof_612",
+    "persons": []
+  },
+  "613": {
+    "id": 613,
+    "order": "613.00000000000000000000",
+    "name": "Staatsanwalt/Staatsanwältin",
+    "frd_id": "frd_prof_613",
+    "persons": []
+  },
+  "614": {
+    "id": 614,
+    "order": "614.00000000000000000000",
+    "name": "Staatsanwaltlicher Kommissar/Staatsanwaltliche Kommissarin",
+    "frd_id": "frd_prof_614",
+    "persons": []
+  },
+  "615": {
+    "id": 615,
+    "order": "615.00000000000000000000",
+    "name": "Staatskanzler/Staatskanzlerin",
+    "frd_id": "frd_prof_615",
+    "persons": []
+  },
+  "616": {
+    "id": 616,
+    "order": "616.00000000000000000000",
+    "name": "Staatskommissar/Staatskommissarin",
+    "frd_id": "frd_prof_616",
+    "persons": []
+  },
+  "617": {
+    "id": 617,
+    "order": "617.00000000000000000000",
+    "name": "Staatssekretär/Staatssekretärin",
+    "frd_id": "frd_prof_617",
+    "persons": []
+  },
+  "618": {
+    "id": 618,
+    "order": "618.00000000000000000000",
+    "name": "Stationsvorsteher/Stationsvorsteherin",
+    "frd_id": "frd_prof_618",
+    "persons": []
+  },
+  "619": {
+    "id": 619,
+    "order": "619.00000000000000000000",
+    "name": "Statthalterei-Sekretär/Statthalterei-Sekretärin",
+    "frd_id": "frd_prof_619",
+    "persons": []
+  },
+  "620": {
+    "id": 620,
+    "order": "620.00000000000000000000",
+    "name": "Stenotypistin/Stenotypistin",
+    "frd_id": "frd_prof_620",
+    "persons": []
+  },
+  "621": {
+    "id": 621,
+    "order": "621.00000000000000000000",
+    "name": "Steuerbeamter/Steuerbeamtin",
+    "frd_id": "frd_prof_621",
+    "persons": []
+  },
+  "622": {
+    "id": 622,
+    "order": "622.00000000000000000000",
+    "name": "Student/Studentin",
+    "frd_id": "frd_prof_622",
+    "persons": []
+  },
+  "623": {
+    "id": 623,
+    "order": "623.00000000000000000000",
+    "name": "Stukkateur/Stukkateurin",
+    "frd_id": "frd_prof_623",
+    "persons": []
+  },
+  "624": {
+    "id": 624,
+    "order": "624.00000000000000000000",
+    "name": "Synchronsprecher/Synchronsprecherin",
+    "frd_id": "frd_prof_624",
+    "persons": []
+  },
+  "625": {
+    "id": 625,
+    "order": "625.00000000000000000000",
+    "name": "Syndikus/Syndika",
+    "frd_id": "frd_prof_625",
+    "persons": []
+  },
+  "626": {
+    "id": 626,
+    "order": "626.00000000000000000000",
+    "name": "Tänzer/Tänzerin",
+    "frd_id": "frd_prof_626",
+    "persons": []
+  },
+  "627": {
+    "id": 627,
+    "order": "627.00000000000000000000",
+    "name": "Tanzlehrer/Tanzlehrerin",
+    "frd_id": "frd_prof_627",
+    "persons": []
+  },
+  "628": {
+    "id": 628,
+    "order": "628.00000000000000000000",
+    "name": "Tanzpädagoge/Tanzpädagogin",
+    "frd_id": "frd_prof_628",
+    "persons": []
+  },
+  "629": {
+    "id": 629,
+    "order": "629.00000000000000000000",
+    "name": "Tanzschulbesitzer/Tanzschulbesitzerin",
+    "frd_id": "frd_prof_629",
+    "persons": []
+  },
+  "630": {
+    "id": 630,
+    "order": "630.00000000000000000000",
+    "name": "Tapezierer/Tapeziererin",
+    "frd_id": "frd_prof_630",
+    "persons": []
+  },
+  "631": {
+    "id": 631,
+    "order": "631.00000000000000000000",
+    "name": "Taxi-Unternehmer/Taxi-Unternehmerin",
+    "frd_id": "frd_prof_631",
+    "persons": []
+  },
+  "632": {
+    "id": 632,
+    "order": "632.00000000000000000000",
+    "name": "Techniker/Technikerin",
+    "frd_id": "frd_prof_632",
+    "persons": []
+  },
+  "633": {
+    "id": 633,
+    "order": "633.00000000000000000000",
+    "name": "Telefonist/Telefonistin",
+    "frd_id": "frd_prof_633",
+    "persons": []
+  },
+  "634": {
+    "id": 634,
+    "order": "634.00000000000000000000",
+    "name": "Telegrafenbeamter/Telegrafenbeamtin",
+    "frd_id": "frd_prof_634",
+    "persons": []
+  },
+  "635": {
+    "id": 635,
+    "order": "635.00000000000000000000",
+    "name": "Tennistrainer/Tennistrainerin",
+    "frd_id": "frd_prof_635",
+    "persons": []
+  },
+  "636": {
+    "id": 636,
+    "order": "636.00000000000000000000",
+    "name": "Tenor/",
+    "frd_id": "frd_prof_636",
+    "persons": []
+  },
+  "637": {
+    "id": 637,
+    "order": "637.00000000000000000000",
+    "name": "Textilindustrieller/Textilindustrielle",
+    "frd_id": "frd_prof_637",
+    "persons": []
+  },
+  "638": {
+    "id": 638,
+    "order": "638.00000000000000000000",
+    "name": "Textilkaufmann/Textilkauffrau",
+    "frd_id": "frd_prof_638",
+    "persons": []
+  },
+  "639": {
+    "id": 639,
+    "order": "639.00000000000000000000",
+    "name": "Theater- und Filmregisseur/Theater- und Filmregisseurin",
+    "frd_id": "frd_prof_639",
+    "persons": []
+  },
+  "640": {
+    "id": 640,
+    "order": "640.00000000000000000000",
+    "name": "Theateragent/Theateragentin",
+    "frd_id": "frd_prof_640",
+    "persons": []
+  },
+  "641": {
+    "id": 641,
+    "order": "641.00000000000000000000",
+    "name": "Theateransager/Theateransagerin",
+    "frd_id": "frd_prof_641",
+    "persons": []
+  },
+  "642": {
+    "id": 642,
+    "order": "642.00000000000000000000",
+    "name": "Theaterdekorateur/Theaterdekorateurin",
+    "frd_id": "frd_prof_642",
+    "persons": []
+  },
+  "643": {
+    "id": 643,
+    "order": "643.00000000000000000000",
+    "name": "Theaterdirektor/Theaterdirektorin",
+    "frd_id": "frd_prof_643",
+    "persons": []
+  },
+  "644": {
+    "id": 644,
+    "order": "644.00000000000000000000",
+    "name": "Theaterintendant/Theaterintendantin",
+    "frd_id": "frd_prof_644",
+    "persons": []
+  },
+  "645": {
+    "id": 645,
+    "order": "645.00000000000000000000",
+    "name": "Theaterkritiker/Theaterkritikerin",
+    "frd_id": "frd_prof_645",
+    "persons": []
+  },
+  "646": {
+    "id": 646,
+    "order": "646.00000000000000000000",
+    "name": "Theaterleiter/Theaterleiterin",
+    "frd_id": "frd_prof_646",
+    "persons": []
+  },
+  "647": {
+    "id": 647,
+    "order": "647.00000000000000000000",
+    "name": "Theatermaler/Theatermalerin",
+    "frd_id": "frd_prof_647",
+    "persons": []
+  },
+  "648": {
+    "id": 648,
+    "order": "648.00000000000000000000",
+    "name": "Theatermanager/Theatermanagerin",
+    "frd_id": "frd_prof_648",
+    "persons": []
+  },
+  "649": {
+    "id": 649,
+    "order": "649.00000000000000000000",
+    "name": "Theaterproduzent/Theaterproduzentin",
+    "frd_id": "frd_prof_649",
+    "persons": []
+  },
+  "650": {
+    "id": 650,
+    "order": "650.00000000000000000000",
+    "name": "Theaterregisseur/Theaterregisseurin",
+    "frd_id": "frd_prof_650",
+    "persons": []
+  },
+  "651": {
+    "id": 651,
+    "order": "651.00000000000000000000",
+    "name": "Theatersekretär/Theatersekretärin",
+    "frd_id": "frd_prof_651",
+    "persons": []
+  },
+  "652": {
+    "id": 652,
+    "order": "652.00000000000000000000",
+    "name": "Theaterunternehmer/Theaterunternehmerin",
+    "frd_id": "frd_prof_652",
+    "persons": []
+  },
+  "653": {
+    "id": 653,
+    "order": "653.00000000000000000000",
+    "name": "Theaterverleger/Theaterverlegerin",
+    "frd_id": "frd_prof_653",
+    "persons": []
+  },
+  "654": {
+    "id": 654,
+    "order": "654.00000000000000000000",
+    "name": "Theaterwissenschaftler/Theaterwissenschaftlerin",
+    "frd_id": "frd_prof_654",
+    "persons": []
+  },
+  "655": {
+    "id": 655,
+    "order": "655.00000000000000000000",
+    "name": "Theologe/Theologin",
+    "frd_id": "frd_prof_655",
+    "persons": [
+      {
+        "id": 69,
+        "value": "Knauer, Vinzenz"
+      }
+    ]
+  },
+  "656": {
+    "id": 656,
+    "order": "656.00000000000000000000",
+    "name": "Thronfolger/Thronfolgerin",
+    "frd_id": "frd_prof_656",
+    "persons": []
+  },
+  "657": {
+    "id": 657,
+    "order": "657.00000000000000000000",
+    "name": "Thronprätendent/Thronprätendentin",
+    "frd_id": "frd_prof_657",
+    "persons": []
+  },
+  "658": {
+    "id": 658,
+    "order": "658.00000000000000000000",
+    "name": "Tierhändler/Tierhändlerin",
+    "frd_id": "frd_prof_658",
+    "persons": []
+  },
+  "659": {
+    "id": 659,
+    "order": "659.00000000000000000000",
+    "name": "Tischler/Tischlerin",
+    "frd_id": "frd_prof_659",
+    "persons": []
+  },
+  "660": {
+    "id": 660,
+    "order": "660.00000000000000000000",
+    "name": "Turnlehrer/Turnlehrerin",
+    "frd_id": "frd_prof_660",
+    "persons": []
+  },
+  "661": {
+    "id": 661,
+    "order": "661.00000000000000000000",
+    "name": "Typist/Typistin",
+    "frd_id": "frd_prof_661",
+    "persons": []
+  },
+  "662": {
+    "id": 662,
+    "order": "662.00000000000000000000",
+    "name": "Typograf/Typografin",
+    "frd_id": "frd_prof_662",
+    "persons": []
+  },
+  "663": {
+    "id": 663,
+    "order": "663.00000000000000000000",
+    "name": "Tyrann/Tyrannin",
+    "frd_id": "frd_prof_663",
+    "persons": []
+  },
+  "664": {
+    "id": 664,
+    "order": "664.00000000000000000000",
+    "name": "Übersetzer/Übersetzerin",
+    "frd_id": "frd_prof_664",
+    "persons": []
+  },
+  "665": {
+    "id": 665,
+    "order": "665.00000000000000000000",
+    "name": "Übersetzerin",
+    "frd_id": "frd_prof_665",
+    "persons": []
+  },
+  "666": {
+    "id": 666,
+    "order": "666.00000000000000000000",
+    "name": "Universitätslehrer/Universitätslehrerin",
+    "frd_id": "frd_prof_666",
+    "persons": []
+  },
+  "667": {
+    "id": 667,
+    "order": "667.00000000000000000000",
+    "name": "Unternehmer/Unternehmerin",
+    "frd_id": "frd_prof_667",
+    "persons": []
+  },
+  "668": {
+    "id": 668,
+    "order": "668.00000000000000000000",
+    "name": "Unterrichtsminister/Unterrichtsministerin",
+    "frd_id": "frd_prof_668",
+    "persons": []
+  },
+  "669": {
+    "id": 669,
+    "order": "669.00000000000000000000",
+    "name": "Urkundsbeamte/Urkundsbeamtin",
+    "frd_id": "frd_prof_669",
+    "persons": []
+  },
+  "670": {
+    "id": 670,
+    "order": "670.00000000000000000000",
+    "name": "Urologe/Urologin",
+    "frd_id": "frd_prof_670",
+    "persons": []
+  },
+  "671": {
+    "id": 671,
+    "order": "671.00000000000000000000",
+    "name": "Veranstalter/Veranstalterin",
+    "frd_id": "frd_prof_671",
+    "persons": []
+  },
+  "672": {
+    "id": 672,
+    "order": "672.00000000000000000000",
+    "name": "Veranstaltungsorganisator/Veranstaltungsorganisatorin",
+    "frd_id": "frd_prof_672",
+    "persons": []
+  },
+  "673": {
+    "id": 673,
+    "order": "673.00000000000000000000",
+    "name": "Verehrer/Verehrerin",
+    "frd_id": "frd_prof_673",
+    "persons": []
+  },
+  "674": {
+    "id": 674,
+    "order": "674.00000000000000000000",
+    "name": "Vereinsdirektor/Vereinsdirektorin",
+    "frd_id": "frd_prof_674",
+    "persons": []
+  },
+  "675": {
+    "id": 675,
+    "order": "675.00000000000000000000",
+    "name": "Vereinspräsident/Vereinspräsidentin",
+    "frd_id": "frd_prof_675",
+    "persons": []
+  },
+  "676": {
+    "id": 676,
+    "order": "676.00000000000000000000",
+    "name": "Vereinsvorstand/Vereinsvorständin",
+    "frd_id": "frd_prof_676",
+    "persons": []
+  },
+  "677": {
+    "id": 677,
+    "order": "677.00000000000000000000",
+    "name": "Verkäufer/Verkäuferin",
+    "frd_id": "frd_prof_677",
+    "persons": []
+  },
+  "678": {
+    "id": 678,
+    "order": "678.00000000000000000000",
+    "name": "Verlagsagent/Verlagsagentin",
+    "frd_id": "frd_prof_678",
+    "persons": []
+  },
+  "679": {
+    "id": 679,
+    "order": "679.00000000000000000000",
+    "name": "Verlagsangestellte/Verlagsangestellte",
+    "frd_id": "frd_prof_679",
+    "persons": []
+  },
+  "680": {
+    "id": 680,
+    "order": "680.00000000000000000000",
+    "name": "Verlagsdirektor/Verlagsdirektorin",
+    "frd_id": "frd_prof_680",
+    "persons": []
+  },
+  "681": {
+    "id": 681,
+    "order": "681.00000000000000000000",
+    "name": "Verlagsinhaber/Verlagsinhaberin",
+    "frd_id": "frd_prof_681",
+    "persons": []
+  },
+  "682": {
+    "id": 682,
+    "order": "682.00000000000000000000",
+    "name": "Verlagsleiter/Verlagsleiterin",
+    "frd_id": "frd_prof_682",
+    "persons": []
+  },
+  "683": {
+    "id": 683,
+    "order": "683.00000000000000000000",
+    "name": "Verlagslektor/Verlagslektorin",
+    "frd_id": "frd_prof_683",
+    "persons": []
+  },
+  "684": {
+    "id": 684,
+    "order": "684.00000000000000000000",
+    "name": "Verleger",
+    "frd_id": "frd_prof_684",
+    "persons": []
+  },
+  "685": {
+    "id": 685,
+    "order": "685.00000000000000000000",
+    "name": "Verleger/Verlegerin",
+    "frd_id": "frd_prof_685",
+    "persons": []
+  },
+  "686": {
+    "id": 686,
+    "order": "686.00000000000000000000",
+    "name": "Verlobter/Verlobte",
+    "frd_id": "frd_prof_686",
+    "persons": []
+  },
+  "687": {
+    "id": 687,
+    "order": "687.00000000000000000000",
+    "name": "Vermieter/Vermieterin",
+    "frd_id": "frd_prof_687",
+    "persons": []
+  },
+  "688": {
+    "id": 688,
+    "order": "688.00000000000000000000",
+    "name": "Versicherungsangestellte/Versicherungsangestellte",
+    "frd_id": "frd_prof_688",
+    "persons": []
+  },
+  "689": {
+    "id": 689,
+    "order": "689.00000000000000000000",
+    "name": "Versicherungsbeamter/Versicherungsbeamtin",
+    "frd_id": "frd_prof_689",
+    "persons": []
+  },
+  "690": {
+    "id": 690,
+    "order": "690.00000000000000000000",
+    "name": "Versicherungsdirektor/Versicherungsdirektorin",
+    "frd_id": "frd_prof_690",
+    "persons": []
+  },
+  "691": {
+    "id": 691,
+    "order": "691.00000000000000000000",
+    "name": "Verwalter/Verwalterin",
+    "frd_id": "frd_prof_691",
+    "persons": []
+  },
+  "692": {
+    "id": 692,
+    "order": "692.00000000000000000000",
+    "name": "Verwaltungsbeamter/Verwaltungsbeamte",
+    "frd_id": "frd_prof_692",
+    "persons": []
+  },
+  "693": {
+    "id": 693,
+    "order": "693.00000000000000000000",
+    "name": "Verwaltungsdirektor/Verwaltungsdirektorin",
+    "frd_id": "frd_prof_693",
+    "persons": []
+  },
+  "694": {
+    "id": 694,
+    "order": "694.00000000000000000000",
+    "name": "Verwaltungssekretär/Verwaltungssekretärin",
+    "frd_id": "frd_prof_694",
+    "persons": []
+  },
+  "695": {
+    "id": 695,
+    "order": "695.00000000000000000000",
+    "name": "Verwandlungskünstler/Verwandlungskünstlerin",
+    "frd_id": "frd_prof_695",
+    "persons": []
+  },
+  "696": {
+    "id": 696,
+    "order": "696.00000000000000000000",
+    "name": "Veterinärmediziner/Veterinärmedizinerin",
+    "frd_id": "frd_prof_696",
+    "persons": []
+  },
+  "697": {
+    "id": 697,
+    "order": "697.00000000000000000000",
+    "name": "Violinist/Violinistin",
+    "frd_id": "frd_prof_697",
+    "persons": []
+  },
+  "698": {
+    "id": 698,
+    "order": "698.00000000000000000000",
+    "name": "Violoncellist/Violoncellistin",
+    "frd_id": "frd_prof_698",
+    "persons": []
+  },
+  "699": {
+    "id": 699,
+    "order": "699.00000000000000000000",
+    "name": "Vizepräsident/Vizepräsidentin",
+    "frd_id": "frd_prof_699",
+    "persons": []
+  },
+  "700": {
+    "id": 700,
+    "order": "700.00000000000000000000",
+    "name": "Volksbildner/Volksbildnerin",
+    "frd_id": "frd_prof_700",
+    "persons": []
+  },
+  "701": {
+    "id": 701,
+    "order": "701.00000000000000000000",
+    "name": "Volkskundler/Volkskundlerin",
+    "frd_id": "frd_prof_701",
+    "persons": []
+  },
+  "702": {
+    "id": 702,
+    "order": "702.00000000000000000000",
+    "name": "Volksschullehrer/Volksschullehrerin",
+    "frd_id": "frd_prof_702",
+    "persons": []
+  },
+  "703": {
+    "id": 703,
+    "order": "703.00000000000000000000",
+    "name": "Volkswirt/Volkswirtin",
+    "frd_id": "frd_prof_703",
+    "persons": []
+  },
+  "704": {
+    "id": 704,
+    "order": "704.00000000000000000000",
+    "name": "Vorleser/Vorleserin",
+    "frd_id": "frd_prof_704",
+    "persons": []
+  },
+  "705": {
+    "id": 705,
+    "order": "705.00000000000000000000",
+    "name": "Vortragslehrer/Vortragslehrerin",
+    "frd_id": "frd_prof_705",
+    "persons": []
+  },
+  "706": {
+    "id": 706,
+    "order": "706.00000000000000000000",
+    "name": "Wanderprediger/Wanderpredigerin",
+    "frd_id": "frd_prof_706",
+    "persons": []
+  },
+  "707": {
+    "id": 707,
+    "order": "707.00000000000000000000",
+    "name": "Weinhändler/Weinhändlerin",
+    "frd_id": "frd_prof_707",
+    "persons": []
+  },
+  "708": {
+    "id": 708,
+    "order": "708.00000000000000000000",
+    "name": "Wirtschafter/Wirtschafterin",
+    "frd_id": "frd_prof_708",
+    "persons": []
+  },
+  "709": {
+    "id": 709,
+    "order": "709.00000000000000000000",
+    "name": "Wirtschaftsjournalist/Wirtschaftsjournalistin",
+    "frd_id": "frd_prof_709",
+    "persons": []
+  },
+  "710": {
+    "id": 710,
+    "order": "710.00000000000000000000",
+    "name": "Wissenschaftler/Wissenschaftlerin",
+    "frd_id": "frd_prof_710",
+    "persons": []
+  },
+  "711": {
+    "id": 711,
+    "order": "711.00000000000000000000",
+    "name": "Zahnarzt/Zahnärztin",
+    "frd_id": "frd_prof_711",
+    "persons": []
+  },
+  "712": {
+    "id": 712,
+    "order": "712.00000000000000000000",
+    "name": "Zar/Zarin",
+    "frd_id": "frd_prof_712",
+    "persons": []
+  },
+  "713": {
+    "id": 713,
+    "order": "713.00000000000000000000",
+    "name": "Zauberkünstler/Zauberkünstlerin",
+    "frd_id": "frd_prof_713",
+    "persons": []
+  },
+  "714": {
+    "id": 714,
+    "order": "714.00000000000000000000",
+    "name": "Zeichner/Zeichnerin",
+    "frd_id": "frd_prof_714",
+    "persons": []
+  },
+  "715": {
+    "id": 715,
+    "order": "715.00000000000000000000",
+    "name": "Zeitungseigentümer/Zeitungseigentümerin",
+    "frd_id": "frd_prof_715",
+    "persons": []
+  },
+  "716": {
+    "id": 716,
+    "order": "716.00000000000000000000",
+    "name": "Zeitungsredakteur/Zeitungsredakteurin",
+    "frd_id": "frd_prof_716",
+    "persons": []
+  },
+  "717": {
+    "id": 717,
+    "order": "717.00000000000000000000",
+    "name": "Zeitungsverleger/Zeitungsverlegerin",
+    "frd_id": "frd_prof_717",
+    "persons": []
+  },
+  "718": {
+    "id": 718,
+    "order": "718.00000000000000000000",
+    "name": "Zensor/Zensorin",
+    "frd_id": "frd_prof_718",
+    "persons": []
+  },
+  "719": {
+    "id": 719,
+    "order": "719.00000000000000000000",
+    "name": "Zensurbeirat/Zensurbeirätin",
+    "frd_id": "frd_prof_719",
+    "persons": []
+  },
+  "720": {
+    "id": 720,
+    "order": "720.00000000000000000000",
+    "name": "Zimmermeister/Zimmermeisterin",
+    "frd_id": "frd_prof_720",
+    "persons": []
+  },
+  "721": {
+    "id": 721,
+    "order": "721.00000000000000000000",
+    "name": "Zionist/Zionistin",
+    "frd_id": "frd_prof_721",
+    "persons": []
+  },
+  "722": {
+    "id": 722,
+    "order": "722.00000000000000000000",
+    "name": "Zirkusdirektor/Zirkusdirektorin",
+    "frd_id": "frd_prof_722",
+    "persons": []
+  },
+  "723": {
+    "id": 723,
+    "order": "723.00000000000000000000",
+    "name": "Zoodirektor/Zoodirektorin",
+    "frd_id": "frd_prof_723",
+    "persons": []
+  },
+  "724": {
+    "id": 724,
+    "order": "724.00000000000000000000",
+    "name": "Zoologe/Zoologin",
+    "frd_id": "frd_prof_724",
+    "persons": []
+  },
+  "725": {
+    "id": 725,
+    "order": "725.00000000000000000000",
+    "name": "Theosoph/Theosophin",
+    "frd_id": "frd_prof_725",
+    "persons": [
+      {
+        "id": 57,
+        "value": "Kingsford, Anna"
+      }
+    ]
+  },
+  "726": {
+    "id": 726,
+    "order": "726.00000000000000000000",
+    "name": "Universalgelehrter/Universalgelehrte",
+    "frd_id": "frd_prof_726",
+    "persons": [
+      {
+        "id": 51,
+        "value": "Leonardo, da Vinci"
+      }
+    ]
+  },
+  "727": {
+    "id": 727,
+    "order": "727.00000000000000000000",
+    "name": "Hoprediger/Hofpredigerin",
+    "frd_id": "frd_prof_727",
+    "persons": [
+      {
+        "id": 82,
+        "value": "Frerichs, Johann Heinrich Friedrich"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Wiener Psychonanalytische Vereinigung",
+    "frd_id": "frd_org_1",
+    "gnd_id": "https://d-nb.info/gnd/15360-6",
+    "located_in": [
+      {
+        "id": 6,
+        "value": "Wien"
+      }
+    ],
+    "description": null,
+    "geonames_id": "",
+    "wikidata": "http://www.wikidata.org/entity/Q685872"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "Universität Wien",
+    "frd_id": "frd_org_2",
+    "gnd_id": "https://d-nb.info/gnd/2024703-5",
+    "located_in": [
+      {
+        "id": 6,
+        "value": "Wien"
+      }
+    ],
+    "description": null,
+    "geonames_id": "",
+    "wikidata": "http://www.wikidata.org/entity/Q165980"
+  },
+  "4": {
+    "id": 4,
+    "order": "3.00000000000000000000",
+    "name": "Schule von Nancy",
+    "frd_id": "frd_org_4",
+    "gnd_id": "",
+    "located_in": [
+      {
+        "id": 9,
+        "value": "Nancy"
+      }
+    ],
+    "description": "Hypnoseorientierte Psychotherapie-Schule in Nancy",
+    "geonames_id": "",
+    "wikidata": ""
+  }
+}

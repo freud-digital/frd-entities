@@ -1,0 +1,1000 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Index of Persons mentioned in Freud Edition</title>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Daniel Stoxreiter</name>
+            </respStmt>
+            <funder xmlns="http://www.tei-c.org/ns/1.0">
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                     <street>Sensengasse 1</street>
+                     <postCode>1090 Wien</postCode>
+                     <placeName>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                     </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Persons mentioned in Freud Edition</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_persons">
+            <listPerson xml:id="listperson">
+               <person xml:id="frd_person_1">
+                  <persName>
+                     <forename/>
+                     <surname>Artemidoros aus Daldis</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1089126093</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_2">
+                  <persName>
+                     <forename>Alfred</forename>
+                     <surname>Baumgarten</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/135629969</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q110224383</idno>
+                  <note>Beziehungen zu Sebastian Kneipp</note>
+               </person>
+               <person xml:id="frd_person_3">
+                  <persName>
+                     <forename>Theodor</forename>
+                     <surname>Beer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1056819022</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55682816</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_4">
+                  <persName>
+                     <forename>Georg</forename>
+                     <surname>Biedenkapp</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116163151</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94871991</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_5">
+                  <persName>
+                     <forename>John</forename>
+                     <surname>Bigelow</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/171977521</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q960376</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_6">
+                  <persName>
+                     <forename>Carl</forename>
+                     <surname>Binz</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116184280</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q90228</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_7">
+                  <persName>
+                     <forename>Dorothy</forename>
+                     <surname>Burlingham</surname>
+                  </persName>
+                  <birth>
+                     <date when="1891">1891</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1979">1979</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118910612</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q215011</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_8">
+                  <persName>
+                     <forename>Felix</forename>
+                     <surname>Deutsch</surname>
+                  </persName>
+                  <birth>
+                     <date when="1884">1884</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1964">1964</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/123979390</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q88032</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_9">
+                  <persName>
+                     <forename>Helene</forename>
+                     <surname>Deutsch</surname>
+                  </persName>
+                  <birth>
+                     <date when="1884">1884</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1982">1982</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118524968</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q78733</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_10">
+                  <persName>
+                     <forename>Emma</forename>
+                     <surname>Eckstein</surname>
+                  </persName>
+                  <birth>
+                     <date when="1865">1865</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1924">1924</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1021283231</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q78728</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_11">
+                  <persName>
+                     <forename>Frederik van</forename>
+                     <surname>Eeden</surname>
+                  </persName>
+                  <birth>
+                     <date when="1860">1860</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1932">1932</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118969846</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q211514</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_12">
+                  <persName>
+                     <forename>Albert</forename>
+                     <surname>Ehrenstein</surname>
+                  </persName>
+                  <birth>
+                     <date when="1886">1886</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1950">1950</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118688227</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q214947</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_13">
+                  <persName>
+                     <forename>Havelock</forename>
+                     <surname>Ellis</surname>
+                  </persName>
+                  <birth>
+                     <date when="1859">1859</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1939">1939</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118681990</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q552983</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_14">
+                  <persName>
+                     <forename>William Ronald Dodds</forename>
+                     <surname>Fairbairn</surname>
+                  </persName>
+                  <birth>
+                     <date when="1889">1889</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1965">1965</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118924079</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q939271</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_15">
+                  <persName>
+                     <forename>Paul</forename>
+                     <surname>Federn</surname>
+                  </persName>
+                  <birth>
+                     <date when="1871">1871</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1950">1950</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119440822</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q78872</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_16">
+                  <persName>
+                     <forename>Wilma</forename>
+                     <surname>Federn</surname>
+                  </persName>
+                  <birth>
+                     <date when="1884">1884</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1949">1949</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/13009899X</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_17">
+                  <persName>
+                     <forename>Ernst</forename>
+                     <surname>Fleischl von Marxow</surname>
+                  </persName>
+                  <birth>
+                     <date when="1846">1846</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1891">1891</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119493489</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q84938</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_18">
+                  <persName>
+                     <forename>Wilhelm</forename>
+                     <surname>Fließ</surname>
+                  </persName>
+                  <birth>
+                     <date when="1858">1858</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1928">1928</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118533975</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q68726</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_19">
+                  <persName>
+                     <forename>S. H.</forename>
+                     <surname>Foulkes</surname>
+                  </persName>
+                  <birth>
+                     <date when="1898">1898</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1976">1976</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/124527884</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q95187</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_20">
+                  <persName>
+                     <forename>Arthur Norman</forename>
+                     <surname>Foxe</surname>
+                  </persName>
+                  <birth>
+                     <date when="1902">1902</date>
+                  </birth>
+                  <idno type="GND">https://d-nb.info/gnd/1089550383</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_21">
+                  <persName>
+                     <forename>Sigmund</forename>
+                     <surname>Freud</surname>
+                  </persName>
+                  <birth>
+                     <date when="1856">1856</date>
+                     <settlement key="frd_place_id_1">
+                        <placeName>Příbor</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1939">1939</date>
+                     <settlement key="frd_place_id_2">
+                        <placeName>London</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118535315</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9215</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_22">
+                  <persName>
+                     <forename>Josef Karl</forename>
+                     <surname>Friedjung</surname>
+                  </persName>
+                  <birth>
+                     <date when="1871">1871</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1946">1946</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/117537543</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q994802</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_23">
+                  <persName>
+                     <forename>René</forename>
+                     <surname>Fülöp-Miller</surname>
+                  </persName>
+                  <birth>
+                     <date when="1891">1891</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1963">1963</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116845740</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q85394</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_24">
+                  <persName>
+                     <forename>Johann Wolfgang von</forename>
+                     <surname>Goethe</surname>
+                  </persName>
+                  <birth>
+                     <date when="1749">1749</date>
+                  </birth>
+                  <idno type="GND">https://d-nb.info/gnd/118540238</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5879</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_25">
+                  <persName>
+                     <forename>Elise</forename>
+                     <surname>Gomperz</surname>
+                  </persName>
+                  <birth>
+                     <date when="1848">1848</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1929">1929</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116765712</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q52708042</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_26">
+                  <persName>
+                     <forename>Heinrich</forename>
+                     <surname>Gomperz</surname>
+                  </persName>
+                  <birth>
+                     <date when="1873">1873</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1942">1942</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11927146X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q86073</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_27">
+                  <persName>
+                     <forename>Theodor</forename>
+                     <surname>Gomperz</surname>
+                  </persName>
+                  <birth>
+                     <date when="1832">1832</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1912">1912</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118540661</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q78683</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_28">
+                  <persName>
+                     <forename>Roy R.</forename>
+                     <surname>Grinker</surname>
+                  </persName>
+                  <birth>
+                     <date when="1900">1900</date>
+                  </birth>
+                  <idno type="GND">https://d-nb.info/gnd/124549667</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_29">
+                  <persName>
+                     <forename>Martin</forename>
+                     <surname>Grotjahn</surname>
+                  </persName>
+                  <birth>
+                     <date when="1904">1904</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1990">1990</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118828061</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q106768</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_30">
+                  <persName>
+                     <forename>Yvette</forename>
+                     <surname>Guilbert</surname>
+                  </persName>
+                  <birth>
+                     <date when="1867">1867</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1944">1944</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118543466</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q239838</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_31">
+                  <persName>
+                     <forename>Samuel</forename>
+                     <surname>Hammerschlag</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1020741325</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q110417111</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_32">
+                  <persName>
+                     <forename>Jeanne</forename>
+                     <surname>Lampl-de Groot</surname>
+                  </persName>
+                  <birth>
+                     <date when="1895">1895</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1987">1987</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1129185877</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q12280051</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_33">
+                  <persName>
+                     <forename>Otto</forename>
+                     <surname>Rank</surname>
+                  </persName>
+                  <birth>
+                     <date when="1881">1881</date>
+                     <settlement key="frd_place_id_6">
+                        <placeName>Wien</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1939">1939</date>
+                     <settlement key="frd_place_id_7">
+                        <placeName>New York</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118598260</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q84172</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_34">
+                  <persName>
+                     <forename>Lutz</forename>
+                     <surname>Röhrich</surname>
+                  </persName>
+                  <birth>
+                     <date when="1922">1922</date>
+                  </birth>
+                  <death>
+                     <date when-iso="2006">2006</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118960008</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1878188</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_35">
+                  <persName>
+                     <forename>Karl Albert</forename>
+                     <surname>Scherner</surname>
+                  </persName>
+                  <birth>
+                     <date when="1825">1825</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1889">1889</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/104330236</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3813028</idno>
+                  <note>(1825-1889), deutscher Philosoph und Psychologe.</note>
+               </person>
+               <person xml:id="frd_person_36">
+                  <persName>
+                     <forename>Gotthilf Heinrich</forename>
+                     <surname>Schubert</surname>
+                  </persName>
+                  <birth>
+                     <date when="1780">1780</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1860">1860</date>
+                  </death>
+                  <idno type="GND">http://lobid.org/gnd/118610937</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q66704</idno>
+                  <note>(1780-1860) deutscher Arzt, Naturforscher, Mystiker und Naturphilosoph</note>
+               </person>
+               <person xml:id="frd_person_37">
+                  <persName>
+                     <forename>Herbert</forename>
+                     <surname>Silberer</surname>
+                  </persName>
+                  <birth>
+                     <date when="1882">1882</date>
+                     <settlement key="frd_place_id_6">
+                        <placeName>Wien</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1923">1923</date>
+                     <settlement key="frd_place_id_6">
+                        <placeName>Wien</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118834258</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q88024</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_38">
+                  <persName>
+                     <forename>Johannes</forename>
+                     <surname>Volkelt</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118627724</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q74318</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_39">
+                  <persName>
+                     <forename>Ralf</forename>
+                     <surname>Wichmann</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1055370242</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_40">
+                  <persName>
+                     <forename>Josef</forename>
+                     <surname>Breuer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118515225</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q84430</idno>
+                  <note>(1842-1925), österr. Arzt und Physiologe, veröffentl. gem. mit Freud u.a. Studien über Hysterie.</note>
+               </person>
+               <person xml:id="frd_person_41">
+                  <persName>
+                     <forename>Leopold</forename>
+                     <surname>Löwenfeld</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117168815</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1727246</idno>
+                  <note>Leopold Löwenfeld (1847-1923), Mediziner, wirkte vor allem in München als Nervenarzt. Er beschäftigte sich mit Hypnose, Zwangsphänomenen und Sexualpathologie, veröffentlichte aber auch zu Somnabulismus, Spiritismus und Dummheit.</note>
+               </person>
+               <person xml:id="frd_person_42">
+                  <persName>
+                     <forename>August</forename>
+                     <surname>Forel</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118534327</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q22530</idno>
+                  <note>(1848-1931) schweiz. Psychiater. 1879 bis 1898 Direktor der Psychiatrischen Universitätsklinik Zürich ("Burghölzli"), in dieser Funktion der Vorgänger von Eugen Bleuler.</note>
+               </person>
+               <person xml:id="frd_person_43">
+                  <persName>
+                     <forename>Oskar</forename>
+                     <surname>Vogt</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11881866X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q63007</idno>
+                  <note>Neurologe; mit  der Neurologin Cécile Vogt für die gemeinsame Pionierarbeit in der lokalisatorischen Hirnforschung bekannt.</note>
+               </person>
+               <person xml:id="frd_person_44">
+                  <persName>
+                     <forename>Hans</forename>
+                     <surname>Kurella</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116616105</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q101822</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_45">
+                  <persName>
+                     <forename>Albert Ritter von Schellmann</forename>
+                     <surname>Reder</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1055432205</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q112365639</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_46">
+                  <persName>
+                     <forename>Hippolyte</forename>
+                     <surname>Bernheim</surname>
+                  </persName>
+                  <birth>
+                     <date when="1840">1840</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1919">1919</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/126790795</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q661050</idno>
+                  <note>(1840-1919), frz. Internist, Psychiater und Neurologe, Vertreter der Suggestionstherapie, Mitglied der Schule von Nancy. Freud übersetzt von ihm ins Dt.: Die Suggestion und ihre Heilwirkung. Leipzig/Wien 1888 und Neue Studien über Hypnotismus, Suggestion und Psychotherapie. Leipzig/Wien 1892.</note>
+               </person>
+               <person xml:id="frd_person_47">
+                  <persName>
+                     <forename>Pierre</forename>
+                     <surname>Janet</surname>
+                  </persName>
+                  <birth>
+                     <date when="1859">1859</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1947">1947</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118775928</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q328758</idno>
+                  <note>Pierre-Marie-Félix Janet (1859-1947), frz. Philosoph, Psychologe, Psychiater und Psychotherapeut, Begründer der dynamischen Psychiatrie, bedeutender Psychotraumatologe.</note>
+               </person>
+               <person xml:id="frd_person_48">
+                  <persName>
+                     <forename>Paul Julius</forename>
+                     <surname>Moebius</surname>
+                  </persName>
+                  <birth>
+                     <date when="1853">1853</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1907">1907</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/117080330</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q62402</idno>
+                  <note>Paul Julius Moebius (1853-1907), dt. Neurologe und Psychiater.</note>
+               </person>
+               <person xml:id="frd_person_49">
+                  <persName>
+                     <forename>Ambroise-Auguste</forename>
+                     <surname>Liébeault</surname>
+                  </persName>
+                  <birth>
+                     <date when="1823">1823</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1904">1904</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/117671673</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q767213</idno>
+                  <note>Ambroise-Auguste Liébeault (1823-1904), frz. Arzt und Psychiater, Vertreter der Suggestionstherapie, mit Bernheim Begründer der Schule von Nancy.</note>
+               </person>
+               <person xml:id="frd_person_50">
+                  <persName>
+                     <forename>Friedrich Theodor</forename>
+                     <surname>Vischer</surname>
+                  </persName>
+                  <birth>
+                     <date when="1807">1807</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1887">1887</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11862721X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q651</idno>
+                  <note>Friedrich Theodor Vischer (1807–1887), deutscher Literaturwissenschaftler, Philosoph, Schriftsteller und Politiker, 1848 gewähltes Mitglied der Frankfurter Nationalversammlung. Freud zitiert mehrfach aus seinem Werk, vor allem aus seiner Faustparodie (1862) und seinem Roman Auch einer (1879).</note>
+               </person>
+               <person xml:id="frd_person_51">
+                  <persName>
+                     <forename>da Vinci</forename>
+                     <surname>Leonardo</surname>
+                  </persName>
+                  <birth>
+                     <date when="1452">1452</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1519">1519</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118640445</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q762</idno>
+                  <note>Leonardo da Vinci (1452-1519), ital. Maler, Bildhauer, Architekt, Anatom und Universalgelehrter.</note>
+               </person>
+               <person xml:id="frd_person_52">
+                  <persName>
+                     <forename>Sante</forename>
+                     <surname>De Sanctis</surname>
+                  </persName>
+                  <birth>
+                     <date when="1862">1862</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1935">1935</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1089690460</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3656095</idno>
+                  <note>Camillo Sante de Sanctis (1862-1935), ital. Arzt, Psychiater und Psychologe.</note>
+               </person>
+               <person xml:id="frd_person_53">
+                  <persName>
+                     <forename>Karl Friedrich</forename>
+                     <surname>Burdach</surname>
+                  </persName>
+                  <birth>
+                     <date when="1776">1776</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1847">1847</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119498170</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q215645</idno>
+                  <note>Karl Friedrich Burdach (1776-1847) deutscher Anatom und Physiologe.</note>
+               </person>
+               <person xml:id="frd_person_54">
+                  <persName>
+                     <forename>Carl</forename>
+                     <surname>Auer von Welsbach</surname>
+                  </persName>
+                  <birth>
+                     <date when="1858">1858</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1929">1929</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118651013</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q89390</idno>
+                  <note>(1858-1929) österr. Chemiker und Erfinder</note>
+               </person>
+               <person xml:id="frd_person_55">
+                  <persName>
+                     <forename>Francis</forename>
+                     <surname>Galton</surname>
+                  </persName>
+                  <birth>
+                     <date when="1822">1822</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1911">1911</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118702610</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q191026</idno>
+                  <note>Francis Galton (1822-1911), engl. Naturforscher und Eugeniker</note>
+               </person>
+               <person xml:id="frd_person_56">
+                  <persName>
+                     <forename>Joseph-Remi-Léopold</forename>
+                     <surname>Delboeuf</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/126790922</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3184830</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_57">
+                  <persName>
+                     <forename>Anna</forename>
+                     <surname>Kingsford</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118562231</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q466175</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_58">
+                  <persName>
+                     <forename>Friedrich Wilhelm</forename>
+                     <surname>Hildebrandt</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116803967</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94867838</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_59">
+                  <persName>
+                     <forename>Martha</forename>
+                     <surname>Freud</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11883018X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3042226</idno>
+                  <note>Ehefrau Sigmund Freuds, geb. Bernays</note>
+               </person>
+               <person xml:id="frd_person_60">
+                  <persName>
+                     <forename>Moritz von</forename>
+                     <surname>Schwind</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118612271</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q551901</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_63">
+                  <persName>
+                     <forename>Adalbert</forename>
+                     <surname>Goldscheider</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/142373672</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q804815</idno>
+                  <note>Veröffentlichte unter dem Pseudonym Balduin Groller</note>
+               </person>
+               <person xml:id="frd_person_64">
+                  <persName>
+                     <forename>Wilhelm</forename>
+                     <surname>Stekel</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118617605</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q78612</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_65">
+                  <persName>
+                     <forename>Carl</forename>
+                     <surname>Du Prel</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118973061</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q113015</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_66">
+                  <persName>
+                     <forename>Victor</forename>
+                     <surname>Egger</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116366044</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3557283</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_67">
+                  <persName>
+                     <forename>Ellis</forename>
+                     <surname>Havelock</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118681990</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q552983</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_68">
+                  <persName>
+                     <forename>Johann Eduard</forename>
+                     <surname>Erdmann</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118682261</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q64623</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_69">
+                  <persName>
+                     <forename>Vinzenz</forename>
+                     <surname>Knauer</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116250011</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2526796</idno>
+                  <note>Veröffentlichte unter den Pseudonym Vincenz van Erk</note>
+               </person>
+               <person xml:id="frd_person_70">
+                  <persName>
+                     <forename>Maurice-Emile</forename>
+                     <surname>Escande de Messières</surname>
+                  </persName>
+                  <note>Nicht näher identifiziert. Freud zitiert in der Traumdeutung:  Escande de Messières: Les rêves chez les hystériques.</note>
+               </person>
+               <person xml:id="frd_person_71">
+                  <persName>
+                     <forename/>
+                     <surname>Faure</surname>
+                  </persName>
+                  <note>Nicht näher identifiziert. Freud zitiert in der Traumdeutung: Faure. Étude sur les rêves morbides. Rêves persistants.</note>
+               </person>
+               <person xml:id="frd_person_75">
+                  <persName>
+                     <forename>Charles</forename>
+                     <surname>Féré</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/124412327</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2959151</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_73">
+                  <persName>
+                     <forename>Gustav Theodor</forename>
+                     <surname>Fechner</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118532154</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76881</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_74">
+                  <persName>
+                     <forename>Carlo</forename>
+                     <surname>Fenizia</surname>
+                  </persName>
+                  <note>Nicht näher identifiziert. Freud zitiert in der Traumdeutung: Fenizia. L'azione suggestiva delle cause esterne nei sogni</note>
+               </person>
+               <person xml:id="frd_person_76">
+                  <persName>
+                     <forename>Johann</forename>
+                     <surname>Fischer</surname>
+                  </persName>
+                  <note>Nicht näher identifiziert. Freud zitiert in der Traumdeutung: Fischer, Johann: Ad artis veterum onicocriticae historiam symbola.</note>
+               </person>
+               <person xml:id="frd_person_77">
+                  <persName>
+                     <forename>V.</forename>
+                     <surname>Florentin</surname>
+                  </persName>
+                  <note>Nicht näher identifiziert. Freud zitiert in der Traumdeutung: Florentin, V: Das Traumleben. Plauderei. Die alte und die neue Welt, 1899, 33. J., 725.</note>
+               </person>
+               <person xml:id="frd_person_78">
+                  <persName>
+                     <forename>Hermann</forename>
+                     <surname>Fornaschon</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/126514488</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_79">
+                  <persName>
+                     <forename>Rudolf</forename>
+                     <surname>Virchow</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118627198</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76432</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_80">
+                  <persName>
+                     <forename>Franz von</forename>
+                     <surname>Holtzendorff</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116970243</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q86934</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_81">
+                  <persName>
+                     <forename>Adolf</forename>
+                     <surname>Frensberg</surname>
+                  </persName>
+                  <note>Nicht näher identifiziert. Dr. Adolf Frensberg</note>
+               </person>
+               <person xml:id="frd_person_82">
+                  <persName>
+                     <forename>Johann Heinrich Friedrich</forename>
+                     <surname>Frerichs</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/115381613X</idno>
+                  <note/>
+               </person>
+            </listPerson>
+         </div>
+      </body>
+   </text>
+</TEI>

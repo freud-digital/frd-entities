@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Index of Places mentioned in Freud Edition</title>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Daniel Stoxreiter</name>
+            </respStmt>
+            <funder xmlns="http://www.tei-c.org/ns/1.0">
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                     <street>Sensengasse 1</street>
+                     <postCode>1090 Wien</postCode>
+                     <placeName>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                     </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Places mentioned in Freud Edition</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_places">
+            <listPlace xml:id="listplace">
+               <place xml:id="frd_place_id_1">
+                  <settlement type="P">
+                     <placeName>Příbor</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>CZ, Czechia</country>
+                  <location type="coords">
+                     <geo>49.64094, 18.14499</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3067544/</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q654019</idno>
+               </place>
+               <place xml:id="frd_place_id_2">
+                  <settlement type="P">
+                     <placeName>London</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>GB, United Kingdom</country>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2643743/</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q84</idno>
+               </place>
+               <place xml:id="frd_place_id_3">
+                  <settlement type="P">
+                     <placeName>Kravaře ve Slezsku</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>CZ, Czechia</country>
+                  <location type="coords">
+                     <geo>49.93611, 18.01028</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/11496609/</idno>
+               </place>
+               <place xml:id="frd_place_id_4">
+                  <settlement type="P">
+                     <placeName>Wrocław</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>PL, Poland</country>
+                  <location type="coords">
+                     <geo>51.1, 17.03333</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/3081368/</idno>
+               </place>
+               <place xml:id="frd_place_id_5">
+                  <settlement type="T">
+                     <placeName>Dachstein</placeName>
+                  </settlement>
+                  <desc type="entity_type">mountain,hill,rock,...</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>47.4753, 13.6058</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2781124/</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q261664</idno>
+               </place>
+               <place xml:id="frd_place_id_6">
+                  <settlement type="P">
+                     <placeName>Wien</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>AT, Austria</country>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2761369/</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1741</idno>
+               </place>
+               <place xml:id="frd_place_id_7">
+                  <settlement type="P">
+                     <placeName>New York</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>US, United States</country>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/5128581/</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q60</idno>
+               </place>
+               <place xml:id="frd_place_id_9">
+                  <settlement type="P">
+                     <placeName>Nancy</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.68439, 6.18496</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2990999/</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q40898</idno>
+               </place>
+               <place xml:id="frd_place_id_10">
+                  <settlement type="P">
+                     <placeName>Paris</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>FR, France</country>
+                  <location type="coords">
+                     <geo>48.85341, 2.3488</geo>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2988507/</idno>
+               </place>
+            </listPlace>
+         </div>
+      </body>
+   </text>
+</TEI>

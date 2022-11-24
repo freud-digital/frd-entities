@@ -1,0 +1,1606 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Artemidoros aus Daldis",
+    "frd_id": "frd_person_1",
+    "gnd_id": "https://d-nb.info/gnd/1089126093",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [
+      {
+        "id": 2,
+        "value": "Artemidoros"
+      }
+    ],
+    "wikidata": ""
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "Baumgarten, Alfred",
+    "frd_id": "frd_person_2",
+    "gnd_id": "https://d-nb.info/gnd/135629969",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Beziehungen zu Sebastian Kneipp",
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q110224383"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Beer, Theodor",
+    "frd_id": "frd_person_3",
+    "gnd_id": "https://d-nb.info/gnd/1056819022",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      },
+      {
+        "id": 447,
+        "value": "Naturforscher/Naturforscherin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q55682816"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Biedenkapp, Georg",
+    "frd_id": "frd_person_4",
+    "gnd_id": "https://d-nb.info/gnd/116163151",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q94871991"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Bigelow, John",
+    "frd_id": "frd_person_5",
+    "gnd_id": "https://d-nb.info/gnd/171977521",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q960376"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Binz, Carl",
+    "frd_id": "frd_person_6",
+    "gnd_id": "https://d-nb.info/gnd/116184280",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q90228"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "Burlingham, Dorothy",
+    "frd_id": "frd_person_7",
+    "gnd_id": "https://d-nb.info/gnd/118910612",
+    "birth_year": "1891",
+    "place_of_birth": [],
+    "death_year": "1979",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q215011"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "name": "Deutsch, Felix",
+    "frd_id": "frd_person_8",
+    "gnd_id": "https://d-nb.info/gnd/123979390",
+    "birth_year": "1884",
+    "place_of_birth": [],
+    "death_year": "1964",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q88032"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "name": "Deutsch, Helene",
+    "frd_id": "frd_person_9",
+    "gnd_id": "https://d-nb.info/gnd/118524968",
+    "birth_year": "1884",
+    "place_of_birth": [],
+    "death_year": "1982",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q78733"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "name": "Eckstein, Emma",
+    "frd_id": "frd_person_10",
+    "gnd_id": "https://d-nb.info/gnd/1021283231",
+    "birth_year": "1865",
+    "place_of_birth": [],
+    "death_year": "1924",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q78728"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "name": "Eeden, Frederik van",
+    "frd_id": "frd_person_11",
+    "gnd_id": "https://d-nb.info/gnd/118969846",
+    "birth_year": "1860",
+    "place_of_birth": [],
+    "death_year": "1932",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q211514"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "name": "Ehrenstein, Albert",
+    "frd_id": "frd_person_12",
+    "gnd_id": "https://d-nb.info/gnd/118688227",
+    "birth_year": "1886",
+    "place_of_birth": [],
+    "death_year": "1950",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q214947"
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "name": "Ellis, Havelock",
+    "frd_id": "frd_person_13",
+    "gnd_id": "https://d-nb.info/gnd/118681990",
+    "birth_year": "1859",
+    "place_of_birth": [],
+    "death_year": "1939",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q552983"
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "name": "Fairbairn, William Ronald Dodds",
+    "frd_id": "frd_person_14",
+    "gnd_id": "https://d-nb.info/gnd/118924079",
+    "birth_year": "1889",
+    "place_of_birth": [],
+    "death_year": "1965",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q939271"
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "name": "Federn, Paul",
+    "frd_id": "frd_person_15",
+    "gnd_id": "https://d-nb.info/gnd/119440822",
+    "birth_year": "1871",
+    "place_of_birth": [],
+    "death_year": "1950",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q78872"
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "name": "Federn, Wilma",
+    "frd_id": "frd_person_16",
+    "gnd_id": "https://d-nb.info/gnd/13009899X",
+    "birth_year": "1884",
+    "place_of_birth": [],
+    "death_year": "1949",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "name": "Fleischl von Marxow, Ernst",
+    "frd_id": "frd_person_17",
+    "gnd_id": "https://d-nb.info/gnd/119493489",
+    "birth_year": "1846",
+    "place_of_birth": [],
+    "death_year": "1891",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q84938"
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "name": "Fließ, Wilhelm",
+    "frd_id": "frd_person_18",
+    "gnd_id": "https://d-nb.info/gnd/118533975",
+    "birth_year": "1858",
+    "place_of_birth": [],
+    "death_year": "1928",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q68726"
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "name": "Foulkes, S. H.",
+    "frd_id": "frd_person_19",
+    "gnd_id": "https://d-nb.info/gnd/124527884",
+    "birth_year": "1898",
+    "place_of_birth": [],
+    "death_year": "1976",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q95187"
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "name": "Foxe, Arthur Norman",
+    "frd_id": "frd_person_20",
+    "gnd_id": "https://d-nb.info/gnd/1089550383",
+    "birth_year": "1902",
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "name": "Freud, Sigmund",
+    "frd_id": "frd_person_21",
+    "gnd_id": "https://d-nb.info/gnd/118535315",
+    "birth_year": "1856",
+    "place_of_birth": [
+      {
+        "id": 1,
+        "value": "Příbor"
+      }
+    ],
+    "death_year": "1939",
+    "place_of_death": [
+      {
+        "id": 2,
+        "value": "London"
+      }
+    ],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q9215"
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "name": "Friedjung, Josef Karl",
+    "frd_id": "frd_person_22",
+    "gnd_id": "https://d-nb.info/gnd/117537543",
+    "birth_year": "1871",
+    "place_of_birth": [],
+    "death_year": "1946",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q994802"
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "name": "Fülöp-Miller, René",
+    "frd_id": "frd_person_23",
+    "gnd_id": "https://d-nb.info/gnd/116845740",
+    "birth_year": "1891",
+    "place_of_birth": [],
+    "death_year": "1963",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q85394"
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "name": "Goethe, Johann Wolfgang von",
+    "frd_id": "frd_person_24",
+    "gnd_id": "https://d-nb.info/gnd/118540238",
+    "birth_year": "1749",
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q5879"
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "name": "Gomperz, Elise",
+    "frd_id": "frd_person_25",
+    "gnd_id": "https://d-nb.info/gnd/116765712",
+    "birth_year": "1848",
+    "place_of_birth": [],
+    "death_year": "1929",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q52708042"
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "name": "Gomperz, Heinrich",
+    "frd_id": "frd_person_26",
+    "gnd_id": "https://d-nb.info/gnd/11927146X",
+    "birth_year": "1873",
+    "place_of_birth": [],
+    "death_year": "1942",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q86073"
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "name": "Gomperz, Theodor",
+    "frd_id": "frd_person_27",
+    "gnd_id": "https://d-nb.info/gnd/118540661",
+    "birth_year": "1832",
+    "place_of_birth": [],
+    "death_year": "1912",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q78683"
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "name": "Grinker, Roy R.",
+    "frd_id": "frd_person_28",
+    "gnd_id": "https://d-nb.info/gnd/124549667",
+    "birth_year": "1900",
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "name": "Grotjahn, Martin",
+    "frd_id": "frd_person_29",
+    "gnd_id": "https://d-nb.info/gnd/118828061",
+    "birth_year": "1904",
+    "place_of_birth": [],
+    "death_year": "1990",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q106768"
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "name": "Guilbert, Yvette",
+    "frd_id": "frd_person_30",
+    "gnd_id": "https://d-nb.info/gnd/118543466",
+    "birth_year": "1867",
+    "place_of_birth": [],
+    "death_year": "1944",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q239838"
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "name": "Hammerschlag, Samuel",
+    "frd_id": "frd_person_31",
+    "gnd_id": "https://d-nb.info/gnd/1020741325",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q110417111"
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "name": "Lampl-de Groot, Jeanne",
+    "frd_id": "frd_person_32",
+    "gnd_id": "https://d-nb.info/gnd/1129185877",
+    "birth_year": "1895",
+    "place_of_birth": [],
+    "death_year": "1987",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q12280051"
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "name": "Rank, Otto",
+    "frd_id": "frd_person_33",
+    "gnd_id": "https://d-nb.info/gnd/118598260",
+    "birth_year": "1881",
+    "place_of_birth": [
+      {
+        "id": 6,
+        "value": "Wien"
+      }
+    ],
+    "death_year": "1939",
+    "place_of_death": [
+      {
+        "id": 7,
+        "value": "New York"
+      }
+    ],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q84172"
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "name": "Röhrich, Lutz",
+    "frd_id": "frd_person_34",
+    "gnd_id": "https://d-nb.info/gnd/118960008",
+    "birth_year": "1922",
+    "place_of_birth": [],
+    "death_year": "2006",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q1878188"
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "name": "Scherner, Karl Albert",
+    "frd_id": "frd_person_35",
+    "gnd_id": "https://d-nb.info/gnd/104330236",
+    "birth_year": "1825",
+    "place_of_birth": [],
+    "death_year": "1889",
+    "place_of_death": [],
+    "bio": "(1825-1889), deutscher Philosoph und Psychologe.",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q3813028"
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "name": "Schubert, Gotthilf Heinrich",
+    "frd_id": "frd_person_36",
+    "gnd_id": "http://lobid.org/gnd/118610937",
+    "birth_year": "1780",
+    "place_of_birth": [],
+    "death_year": "1860",
+    "place_of_death": [],
+    "bio": "(1780-1860) deutscher Arzt, Naturforscher, Mystiker und Naturphilosoph",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q66704"
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "name": "Silberer, Herbert",
+    "frd_id": "frd_person_37",
+    "gnd_id": "https://d-nb.info/gnd/118834258",
+    "birth_year": "1882",
+    "place_of_birth": [
+      {
+        "id": 6,
+        "value": "Wien"
+      }
+    ],
+    "death_year": "1923",
+    "place_of_death": [
+      {
+        "id": 6,
+        "value": "Wien"
+      }
+    ],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q88024"
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "name": "Volkelt, Johannes",
+    "frd_id": "frd_person_38",
+    "gnd_id": "https://d-nb.info/gnd/118627724",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q74318"
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "name": "Wichmann, Ralf",
+    "frd_id": "frd_person_39",
+    "gnd_id": "https://d-nb.info/gnd/1055370242",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "name": "Breuer, Josef",
+    "frd_id": "frd_person_40",
+    "gnd_id": "https://d-nb.info/gnd/118515225",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "(1842-1925), österr. Arzt und Physiologe, veröffentl. gem. mit Freud u.a. Studien über Hysterie.",
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      },
+      {
+        "id": 495,
+        "value": "Physiologe/Physiologin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q84430"
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "name": "Löwenfeld, Leopold",
+    "frd_id": "frd_person_41",
+    "gnd_id": "https://d-nb.info/gnd/117168815",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Leopold Löwenfeld (1847-1923), Mediziner, wirkte vor allem in München als Nervenarzt. Er beschäftigte sich mit Hypnose, Zwangsphänomenen und Sexualpathologie, veröffentlichte aber auch zu Somnabulismus, Spiritismus und Dummheit.",
+    "profession": [
+      {
+        "id": 452,
+        "value": "Neurologe/Neurologin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q1727246"
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "name": "Forel, August",
+    "frd_id": "frd_person_42",
+    "gnd_id": "https://d-nb.info/gnd/118534327",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "(1848-1931) schweiz. Psychiater. 1879 bis 1898 Direktor der Psychiatrischen Universitätsklinik Zürich (\"Burghölzli\"), in dieser Funktion der Vorgänger von Eugen Bleuler.",
+    "profession": [
+      {
+        "id": 524,
+        "value": "Psychiater/Psychiaterin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q22530"
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "name": "Vogt, Oskar",
+    "frd_id": "frd_person_43",
+    "gnd_id": "https://d-nb.info/gnd/11881866X",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Neurologe; mit  der Neurologin Cécile Vogt für die gemeinsame Pionierarbeit in der lokalisatorischen Hirnforschung bekannt.",
+    "profession": [
+      {
+        "id": 452,
+        "value": "Neurologe/Neurologin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q63007"
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "name": "Kurella, Hans",
+    "frd_id": "frd_person_44",
+    "gnd_id": "https://d-nb.info/gnd/116616105",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q101822"
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "name": "Reder, Albert Ritter von Schellmann",
+    "frd_id": "frd_person_45",
+    "gnd_id": "https://d-nb.info/gnd/1055432205",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 115,
+        "value": "Dermatologe/Dermatologin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q112365639"
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "name": "Bernheim, Hippolyte",
+    "frd_id": "frd_person_46",
+    "gnd_id": "https://d-nb.info/gnd/126790795",
+    "birth_year": "1840",
+    "place_of_birth": [],
+    "death_year": "1919",
+    "place_of_death": [],
+    "bio": "(1840-1919), frz. Internist, Psychiater und Neurologe, Vertreter der Suggestionstherapie, Mitglied der Schule von Nancy. Freud übersetzt von ihm ins Dt.: Die Suggestion und ihre Heilwirkung. Leipzig/Wien 1888 und Neue Studien über Hypnotismus, Suggestion und Psychotherapie. Leipzig/Wien 1892.",
+    "profession": [
+      {
+        "id": 279,
+        "value": "Internist/Internistin"
+      },
+      {
+        "id": 524,
+        "value": "Psychiater/Psychiaterin"
+      },
+      {
+        "id": 526,
+        "value": "Psychologe/Psychologin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q661050"
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "name": "Janet, Pierre",
+    "frd_id": "frd_person_47",
+    "gnd_id": "https://d-nb.info/gnd/118775928",
+    "birth_year": "1859",
+    "place_of_birth": [],
+    "death_year": "1947",
+    "place_of_death": [],
+    "bio": "Pierre-Marie-Félix Janet (1859-1947), frz. Philosoph, Psychologe, Psychiater und Psychotherapeut, Begründer der dynamischen Psychiatrie, bedeutender Psychotraumatologe.",
+    "profession": [
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      },
+      {
+        "id": 524,
+        "value": "Psychiater/Psychiaterin"
+      },
+      {
+        "id": 526,
+        "value": "Psychologe/Psychologin"
+      },
+      {
+        "id": 527,
+        "value": "Psychotherapeut/Psychotherapeutin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q328758"
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "name": "Moebius, Paul Julius",
+    "frd_id": "frd_person_48",
+    "gnd_id": "https://d-nb.info/gnd/117080330",
+    "birth_year": "1853",
+    "place_of_birth": [],
+    "death_year": "1907",
+    "place_of_death": [],
+    "bio": "Paul Julius Moebius (1853-1907), dt. Neurologe und Psychiater.",
+    "profession": [
+      {
+        "id": 452,
+        "value": "Neurologe/Neurologin"
+      },
+      {
+        "id": 524,
+        "value": "Psychiater/Psychiaterin"
+      },
+      {
+        "id": 597,
+        "value": "Sexualforscher/Sexualforscherin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q62402"
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "name": "Liébeault, Ambroise-Auguste",
+    "frd_id": "frd_person_49",
+    "gnd_id": "https://d-nb.info/gnd/117671673",
+    "birth_year": "1823",
+    "place_of_birth": [],
+    "death_year": "1904",
+    "place_of_death": [],
+    "bio": "Ambroise-Auguste Liébeault (1823-1904), frz. Arzt und Psychiater, Vertreter der Suggestionstherapie, mit Bernheim Begründer der Schule von Nancy.",
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      },
+      {
+        "id": 262,
+        "value": "Hypnotiseur/Hypnotiseurin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q767213"
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "name": "Vischer, Friedrich Theodor",
+    "frd_id": "frd_person_50",
+    "gnd_id": "https://d-nb.info/gnd/11862721X",
+    "birth_year": "1807",
+    "place_of_birth": [],
+    "death_year": "1887",
+    "place_of_death": [],
+    "bio": "Friedrich Theodor Vischer (1807–1887), deutscher Literaturwissenschaftler, Philosoph, Schriftsteller und Politiker, 1848 gewähltes Mitglied der Frankfurter Nationalversammlung. Freud zitiert mehrfach aus seinem Werk, vor allem aus seiner Faustparodie (1862) und seinem Roman Auch einer (1879).",
+    "profession": [
+      {
+        "id": 390,
+        "value": "Literaturwissenschaftler/Literaturwissenschaftlerin"
+      },
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q651"
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "name": "Leonardo, da Vinci",
+    "frd_id": "frd_person_51",
+    "gnd_id": "https://d-nb.info/gnd/118640445",
+    "birth_year": "1452",
+    "place_of_birth": [],
+    "death_year": "1519",
+    "place_of_death": [],
+    "bio": "Leonardo da Vinci (1452-1519), ital. Maler, Bildhauer, Architekt, Anatom und Universalgelehrter.",
+    "profession": [
+      {
+        "id": 15,
+        "value": "Anatom/Anatomin"
+      },
+      {
+        "id": 26,
+        "value": "Architekt/Architektin"
+      },
+      {
+        "id": 66,
+        "value": "Bildhauer/Bildhauerin"
+      },
+      {
+        "id": 398,
+        "value": "Maler/Malerin"
+      },
+      {
+        "id": 726,
+        "value": "Universalgelehrter/Universalgelehrte"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q762"
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "name": "De Sanctis, Sante",
+    "frd_id": "frd_person_52",
+    "gnd_id": "https://d-nb.info/gnd/1089690460",
+    "birth_year": "1862",
+    "place_of_birth": [],
+    "death_year": "1935",
+    "place_of_death": [],
+    "bio": "Camillo Sante de Sanctis (1862-1935), ital. Arzt, Psychiater und Psychologe.",
+    "profession": [
+      {
+        "id": 524,
+        "value": "Psychiater/Psychiaterin"
+      },
+      {
+        "id": 526,
+        "value": "Psychologe/Psychologin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q3656095"
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "name": "Burdach, Karl Friedrich",
+    "frd_id": "frd_person_53",
+    "gnd_id": "https://d-nb.info/gnd/119498170",
+    "birth_year": "1776",
+    "place_of_birth": [],
+    "death_year": "1847",
+    "place_of_death": [],
+    "bio": "Karl Friedrich Burdach (1776-1847) deutscher Anatom und Physiologe.",
+    "profession": [
+      {
+        "id": 15,
+        "value": "Anatom/Anatomin"
+      },
+      {
+        "id": 495,
+        "value": "Physiologe/Physiologin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q215645"
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "name": "Auer von Welsbach, Carl, Freiherr von",
+    "frd_id": "frd_person_54",
+    "gnd_id": "https://d-nb.info/gnd/118651013",
+    "birth_year": "1858",
+    "place_of_birth": [],
+    "death_year": "1929",
+    "place_of_death": [],
+    "bio": "(1858-1929) österr. Chemiker und Erfinder",
+    "profession": [
+      {
+        "id": 102,
+        "value": "Chemiker/Chemikerin"
+      },
+      {
+        "id": 137,
+        "value": "Erfinder/Erfinderin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q89390"
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "name": "Galton, Francis",
+    "frd_id": "frd_person_55",
+    "gnd_id": "https://d-nb.info/gnd/118702610",
+    "birth_year": "1822",
+    "place_of_birth": [],
+    "death_year": "1911",
+    "place_of_death": [],
+    "bio": "Francis Galton (1822-1911), engl. Naturforscher und Eugeniker",
+    "profession": [
+      {
+        "id": 447,
+        "value": "Naturforscher/Naturforscherin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q191026"
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "name": "Delboeuf, Joseph-Remi-Léopold",
+    "frd_id": "frd_person_56",
+    "gnd_id": "https://d-nb.info/gnd/126790922",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 262,
+        "value": "Hypnotiseur/Hypnotiseurin"
+      },
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q3184830"
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "name": "Kingsford, Anna",
+    "frd_id": "frd_person_57",
+    "gnd_id": "https://d-nb.info/gnd/118562231",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      },
+      {
+        "id": 38,
+        "value": "Autor/Autorin"
+      },
+      {
+        "id": 170,
+        "value": "Frauenrechtler/Frauenrechtlerin"
+      },
+      {
+        "id": 725,
+        "value": "Theosoph/Theosophin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q466175"
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "name": "Hildebrandt, Friedrich Wilhelm",
+    "frd_id": "frd_person_58",
+    "gnd_id": "https://d-nb.info/gnd/116803967",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 487,
+        "value": "Pfarrer/Pfarrerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q94867838"
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "name": "Freud, Martha",
+    "frd_id": "frd_person_59",
+    "gnd_id": "https://d-nb.info/gnd/11883018X",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Ehefrau Sigmund Freuds, geb. Bernays",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q3042226"
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "name": "Schwind, Moritz von",
+    "frd_id": "frd_person_60",
+    "gnd_id": "https://d-nb.info/gnd/118612271",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 210,
+        "value": "Grafiker/Grafikerin"
+      },
+      {
+        "id": 398,
+        "value": "Maler/Malerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q551901"
+  },
+  "63": {
+    "id": 63,
+    "order": "61.00000000000000000000",
+    "name": "Goldscheider, Adalbert",
+    "frd_id": "frd_person_63",
+    "gnd_id": "https://d-nb.info/gnd/142373672",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Veröffentlichte unter dem Pseudonym Balduin Groller",
+    "profession": [
+      {
+        "id": 38,
+        "value": "Autor/Autorin"
+      },
+      {
+        "id": 282,
+        "value": "Journalist/Journalistin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q804815"
+  },
+  "64": {
+    "id": 64,
+    "order": "62.00000000000000000000",
+    "name": "Stekel, Wilhelm",
+    "frd_id": "frd_person_64",
+    "gnd_id": "https://d-nb.info/gnd/118617605",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 525,
+        "value": "Psychoanalytiker/Psychoanalytikerin"
+      },
+      {
+        "id": 586,
+        "value": "Schriftsteller/Schriftstellerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q78612"
+  },
+  "65": {
+    "id": 65,
+    "order": "63.00000000000000000000",
+    "name": "Du Prel, Carl",
+    "frd_id": "frd_person_65",
+    "gnd_id": "https://d-nb.info/gnd/118973061",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 478,
+        "value": "Parapsychologe/Parapsychologin"
+      },
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      },
+      {
+        "id": 586,
+        "value": "Schriftsteller/Schriftstellerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q113015"
+  },
+  "66": {
+    "id": 66,
+    "order": "64.00000000000000000000",
+    "name": "Egger, Victor",
+    "frd_id": "frd_person_66",
+    "gnd_id": "https://d-nb.info/gnd/116366044",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q3557283"
+  },
+  "67": {
+    "id": 67,
+    "order": "65.00000000000000000000",
+    "name": "Havelock, Ellis",
+    "frd_id": "frd_person_67",
+    "gnd_id": "https://d-nb.info/gnd/118681990",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q552983"
+  },
+  "68": {
+    "id": 68,
+    "order": "66.00000000000000000000",
+    "name": "Erdmann, Johann Eduard",
+    "frd_id": "frd_person_68",
+    "gnd_id": "https://d-nb.info/gnd/118682261",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 493,
+        "value": "Philosophiehistoriker/Philosophiehistorikerin"
+      },
+      {
+        "id": 586,
+        "value": "Schriftsteller/Schriftstellerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q64623"
+  },
+  "69": {
+    "id": 69,
+    "order": "67.00000000000000000000",
+    "name": "Knauer, Vinzenz",
+    "frd_id": "frd_person_69",
+    "gnd_id": "https://d-nb.info/gnd/116250011",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Veröffentlichte unter den Pseudonym Vincenz van Erk",
+    "profession": [
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      },
+      {
+        "id": 655,
+        "value": "Theologe/Theologin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q2526796"
+  },
+  "70": {
+    "id": 70,
+    "order": "68.00000000000000000000",
+    "name": "Escande de Messières, Maurice-Emile",
+    "frd_id": "frd_person_70",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Nicht näher identifiziert. Freud zitiert in der Traumdeutung:  Escande de Messières: Les rêves chez les hystériques.",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "71": {
+    "id": 71,
+    "order": "69.00000000000000000000",
+    "name": "Faure",
+    "frd_id": "frd_person_71",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Nicht näher identifiziert. Freud zitiert in der Traumdeutung: Faure. Étude sur les rêves morbides. Rêves persistants.",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "75": {
+    "id": 75,
+    "order": "70.99999999999999999999",
+    "name": "Féré, Charles",
+    "frd_id": "frd_person_75",
+    "gnd_id": "https://d-nb.info/gnd/124412327",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 524,
+        "value": "Psychiater/Psychiaterin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q2959151"
+  },
+  "73": {
+    "id": 73,
+    "order": "71.00000000000000000000",
+    "name": "Fechner, Gustav Theodor",
+    "frd_id": "frd_person_73",
+    "gnd_id": "https://d-nb.info/gnd/118532154",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      },
+      {
+        "id": 494,
+        "value": "Physiker/Physikerin"
+      },
+      {
+        "id": 521,
+        "value": "Professor/Professorin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q76881"
+  },
+  "74": {
+    "id": 74,
+    "order": "72.00000000000000000000",
+    "name": "Fenizia, Carlo",
+    "frd_id": "frd_person_74",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Nicht näher identifiziert. Freud zitiert in der Traumdeutung: Fenizia. L'azione suggestiva delle cause esterne nei sogni",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "76": {
+    "id": 76,
+    "order": "73.00000000000000000000",
+    "name": "Fischer, Johann",
+    "frd_id": "frd_person_76",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Nicht näher identifiziert. Freud zitiert in der Traumdeutung: Fischer, Johann: Ad artis veterum onicocriticae historiam symbola.",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "77": {
+    "id": 77,
+    "order": "74.00000000000000000000",
+    "name": "Florentin, V.",
+    "frd_id": "frd_person_77",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Nicht näher identifiziert. Freud zitiert in der Traumdeutung: Florentin, V: Das Traumleben. Plauderei. Die alte und die neue Welt, 1899, 33. J., 725.",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "78": {
+    "id": 78,
+    "order": "75.00000000000000000000",
+    "name": "Fornaschon, Hermann",
+    "frd_id": "frd_person_78",
+    "gnd_id": "https://d-nb.info/gnd/126514488",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "79": {
+    "id": 79,
+    "order": "76.00000000000000000000",
+    "name": "Virchow, Rudolf",
+    "frd_id": "frd_person_79",
+    "gnd_id": "https://d-nb.info/gnd/118627198",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 19,
+        "value": "Anthropologe/Anthropologin"
+      },
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      },
+      {
+        "id": 244,
+        "value": "Hochschullehrer/Hochschullehrerin"
+      },
+      {
+        "id": 501,
+        "value": "Politiker/Politikerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q76432"
+  },
+  "80": {
+    "id": 80,
+    "order": "77.00000000000000000000",
+    "name": "Holtzendorff, Franz von",
+    "frd_id": "frd_person_80",
+    "gnd_id": "https://d-nb.info/gnd/116970243",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 283,
+        "value": "Jurist/Juristin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": "http://www.wikidata.org/entity/Q86934"
+  },
+  "81": {
+    "id": 81,
+    "order": "78.00000000000000000000",
+    "name": "Frensberg, Adolf",
+    "frd_id": "frd_person_81",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Nicht näher identifiziert. Dr. Adolf Frensberg",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "82": {
+    "id": 82,
+    "order": "79.00000000000000000000",
+    "name": "Frerichs, Johann Heinrich Friedrich",
+    "frd_id": "frd_person_82",
+    "gnd_id": "https://d-nb.info/gnd/115381613X",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 487,
+        "value": "Pfarrer/Pfarrerin"
+      },
+      {
+        "id": 727,
+        "value": "Hoprediger/Hofpredigerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  }
+}

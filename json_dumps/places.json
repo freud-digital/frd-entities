@@ -1,0 +1,248 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Příbor",
+    "in_use": true,
+    "frd_id": "frd_place_id_1",
+    "geonames_id": "https://sws.geonames.org/3067544/",
+    "lat": "49.6409",
+    "lng": "18.1450",
+    "labels": [],
+    "persons": [
+      {
+        "id": 21,
+        "value": "Freud, Sigmund"
+      }
+    ],
+    "persons - place_of_death": [],
+    "orgs": [],
+    "geonames_coordinates": "49.64094, 18.14499",
+    "place_type": "city, village,...",
+    "place_type_class": "P",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "wikidata": "http://www.wikidata.org/entity/Q654019",
+    "gnd_id": "https://d-nb.info/gnd/4630931-7",
+    "updated": true
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "London",
+    "in_use": true,
+    "frd_id": "frd_place_id_2",
+    "geonames_id": "https://sws.geonames.org/2643743/",
+    "lat": "51.5085",
+    "lng": "-0.1257",
+    "labels": [],
+    "persons": [],
+    "persons - place_of_death": [
+      {
+        "id": 21,
+        "value": "Freud, Sigmund"
+      }
+    ],
+    "orgs": [],
+    "geonames_coordinates": "51.50853, -0.12574",
+    "place_type": "city, village,...",
+    "place_type_class": "P",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "wikidata": "http://www.wikidata.org/entity/Q84",
+    "gnd_id": "https://d-nb.info/gnd/4074335-4",
+    "updated": true
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Kravaře ve Slezsku",
+    "in_use": true,
+    "frd_id": "frd_place_id_3",
+    "geonames_id": "https://sws.geonames.org/11496609/",
+    "lat": "49.9361",
+    "lng": "18.0103",
+    "labels": [],
+    "persons": [],
+    "persons - place_of_death": [],
+    "orgs": [],
+    "geonames_coordinates": "49.93611, 18.01028",
+    "place_type": "city, village,...",
+    "place_type_class": "P",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "wikidata": "",
+    "gnd_id": "",
+    "updated": true
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Wrocław",
+    "in_use": true,
+    "frd_id": "frd_place_id_4",
+    "geonames_id": "https://sws.geonames.org/3081368/",
+    "lat": "51.1000",
+    "lng": "17.0333",
+    "labels": [],
+    "persons": [],
+    "persons - place_of_death": [],
+    "orgs": [],
+    "geonames_coordinates": "51.1, 17.03333",
+    "place_type": "city, village,...",
+    "place_type_class": "P",
+    "country": "Poland",
+    "country_code": "PL",
+    "wikidata": "",
+    "gnd_id": "",
+    "updated": true
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Dachstein",
+    "in_use": true,
+    "frd_id": "frd_place_id_5",
+    "geonames_id": "https://sws.geonames.org/2781124/",
+    "lat": "47.4753",
+    "lng": "13.6058",
+    "labels": [],
+    "persons": [],
+    "persons - place_of_death": [],
+    "orgs": [],
+    "geonames_coordinates": "47.4753, 13.6058",
+    "place_type": "mountain,hill,rock,...",
+    "place_type_class": "T",
+    "country": "Austria",
+    "country_code": "AT",
+    "wikidata": "http://www.wikidata.org/entity/Q261664",
+    "gnd_id": "https://d-nb.info/gnd/4010858-2",
+    "updated": true
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Wien",
+    "in_use": true,
+    "frd_id": "frd_place_id_6",
+    "geonames_id": "https://sws.geonames.org/2761369/",
+    "lat": null,
+    "lng": null,
+    "labels": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "persons": [
+      {
+        "id": 33,
+        "value": "Rank, Otto"
+      },
+      {
+        "id": 37,
+        "value": "Silberer, Herbert"
+      }
+    ],
+    "persons - place_of_death": [
+      {
+        "id": 37,
+        "value": "Silberer, Herbert"
+      }
+    ],
+    "orgs": [
+      {
+        "id": 1,
+        "value": "Wiener Psychonanalytische Vereinigung"
+      },
+      {
+        "id": 2,
+        "value": "Universität Wien"
+      }
+    ],
+    "geonames_coordinates": "48.20849, 16.37208",
+    "place_type": "city, village,...",
+    "place_type_class": "P",
+    "country": "Austria",
+    "country_code": "AT",
+    "wikidata": "http://www.wikidata.org/entity/Q1741",
+    "gnd_id": "https://d-nb.info/gnd/4066009-6",
+    "updated": true
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "New York",
+    "in_use": true,
+    "frd_id": "frd_place_id_7",
+    "geonames_id": "https://sws.geonames.org/5128581/",
+    "lat": null,
+    "lng": null,
+    "labels": [],
+    "persons": [],
+    "persons - place_of_death": [
+      {
+        "id": 33,
+        "value": "Rank, Otto"
+      }
+    ],
+    "orgs": [],
+    "geonames_coordinates": "40.71427, -74.00597",
+    "place_type": "city, village,...",
+    "place_type_class": "P",
+    "country": "United States",
+    "country_code": "US",
+    "wikidata": "http://www.wikidata.org/entity/Q60",
+    "gnd_id": "https://d-nb.info/gnd/4042011-5",
+    "updated": true
+  },
+  "9": {
+    "id": 9,
+    "order": "8.00000000000000000000",
+    "name": "Nancy",
+    "in_use": true,
+    "frd_id": "frd_place_id_9",
+    "geonames_id": "https://sws.geonames.org/2990999/",
+    "lat": null,
+    "lng": null,
+    "labels": [],
+    "persons": [],
+    "persons - place_of_death": [],
+    "orgs": [
+      {
+        "id": 4,
+        "value": "Schule von Nancy"
+      }
+    ],
+    "geonames_coordinates": "48.68439, 6.18496",
+    "place_type": "city, village,...",
+    "place_type_class": "P",
+    "country": "France",
+    "country_code": "FR",
+    "wikidata": "http://www.wikidata.org/entity/Q40898",
+    "gnd_id": "https://d-nb.info/gnd/4041201-5",
+    "updated": true
+  },
+  "10": {
+    "id": 10,
+    "order": "9.00000000000000000000",
+    "name": "Paris",
+    "in_use": true,
+    "frd_id": "frd_place_id_10",
+    "geonames_id": "https://sws.geonames.org/2988507/",
+    "lat": null,
+    "lng": null,
+    "labels": [],
+    "persons": [],
+    "persons - place_of_death": [],
+    "orgs": [],
+    "geonames_coordinates": "48.85341, 2.3488",
+    "place_type": "city, village,...",
+    "place_type_class": "P",
+    "country": "France",
+    "country_code": "FR",
+    "wikidata": "",
+    "gnd_id": "",
+    "updated": true
+  }
+}
