@@ -2,13 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Index of Literature in Auden Musulin Papers</title>
-            <respStmt>
-               <resp>providing the content</resp>
-               <name>Mayer, Sandra</name>
-               <name>Frühwirth, Timo</name>
-               <name>Grigoriou, Dimitra</name>
-            </respStmt>
+            <title type="main">Index of Literature in Freud Edition</title>
             <respStmt>
                <resp>converted to XML encoding</resp>
                <name>Daniel Stoxreiter</name>
@@ -50,7 +44,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Literature in Auden Musulin Papers</p>
+            <p>Literature in Freud Edition</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
