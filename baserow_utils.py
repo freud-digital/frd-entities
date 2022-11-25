@@ -123,12 +123,13 @@ def make_xml(input, fn, clmn, temp):
     arr = []
     for f in file:
         obj = file[f]
-        try:
-            any_id = obj[clmn]
-            norm_id = get_normalized_uri(any_id)
-            obj[clmn] = norm_id
-        except KeyError as err:
-            print(err)
+        if clmn:
+            try:
+                any_id = obj[clmn]
+                norm_id = get_normalized_uri(any_id)
+                obj[clmn] = norm_id
+            except KeyError as err:
+                print(err)
         arr.append(obj)
     filename = fn
     template_file = f"templates/{temp}.xml"
