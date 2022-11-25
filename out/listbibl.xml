@@ -1,0 +1,1150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Literaturverzeichnis</title>
+        <title type="sub">Freud-Edition</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listBibl>
+        <biblStruct type="book" xml:id="zotero__T5DQNX75" corresp="http://zotero.org/groups/4690432/items/T5DQNX75">
+          <monogr>
+            <title level="m">Sui sogni e sul sonnambulismo. Pensieri fisiologico-metafisici</title>
+            <idno type="callNumber">33316-B</idno>
+            <author>
+              <forename>Domenico</forename>
+              <surname>Bacci</surname>
+            </author>
+            <imprint>
+              <pubPlace>Venezia</pubPlace>
+              <publisher>Pietro Naratovich</publisher>
+              <date>1857</date>
+              <note type="accessed">2022-05-18T15:31:29Z</note>
+              <note type="url">http://data.onb.ac.at/ABO/%2BZ225559001</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__2H6M8VR4" corresp="http://zotero.org/groups/4690432/items/2H6M8VR4">
+          <monogr>
+            <title level="m">Die Sprache des Traumes. Eine Darstellung der Symbolik und Deutung des Traumes in ihren Beziehungen zur kranken und gesunden Seele.</title>
+            <idno type="callNumber">478065-C</idno>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Stekel</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wiesbaden</pubPlace>
+              <publisher>Bergmann</publisher>
+              <date>1911</date>
+              <note type="accessed">2022-05-18T14:52:45Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00950715SZ01195454</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__FX9X6H5U" corresp="http://zotero.org/groups/4690432/items/FX9X6H5U">
+          <monogr>
+            <title level="m">Das Ich und die Abwehrmechanismen</title>
+            <idno type="callNumber">647486-B</idno>
+            <author>
+              <forename>Anna</forename>
+              <surname>Freud</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <publisher>Internat. Psychoanalyt. Verl.</publisher>
+              <date>1936</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__U3GJ678G" corresp="http://zotero.org/groups/4690432/items/U3GJ678G">
+          <monogr>
+            <title level="m">Viertausend Kilometer im Ballon.</title>
+            <idno type="callNumber">430791-B</idno>
+            <author>
+              <forename>Herbert</forename>
+              <surname>Silberer</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Spamer</publisher>
+              <date/>
+              <note type="accessed">2022-05-18T13:47:51Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00916658SZ00080645</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__25GFAWZT" corresp="http://zotero.org/groups/4690432/items/25GFAWZT">
+          <monogr>
+            <title level="m">Das Trauma der Geburt und seine Bedeutung für die Psychoanalyse</title>
+            <idno type="callNumber">535994-B.14</idno>
+            <author>
+              <forename>Otto</forename>
+              <surname>Rank</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <date>1924</date>
+              <note type="accessed">2022-05-18T13:32:40Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00796018SZ00378691SZ00972234</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Internationale Psychoanalytische Bibliothek. 14</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__HNIAX3HM" corresp="http://zotero.org/groups/4690432/items/HNIAX3HM">
+          <monogr>
+            <title level="m">Charakteranalyse: Technik und Grundlagen für Studierende und praktizierende Analytiker</title>
+            <title type="short">Charakteranalyse</title>
+            <idno type="callNumber">634271-B</idno>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Reich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <publisher>Selbstverlag des Verfassers</publisher>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__BUZ5JRXN" corresp="http://zotero.org/groups/4690432/items/BUZ5JRXN">
+          <monogr>
+            <title level="m">Probleme der Mystik und ihrer Symbolik.</title>
+            <idno type="callNumber">502975-B</idno>
+            <author>
+              <forename>Herbert</forename>
+              <surname>Silberer</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <publisher>Heller</publisher>
+              <date>1914</date>
+              <note type="accessed">2022-05-18T08:46:05Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00916659SZ00798214SZ01162492</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__CUZ37478" corresp="http://zotero.org/groups/4690432/items/CUZ37478">
+          <monogr>
+            <title level="m">Der Duden in 12 Bänden: das Standardwerk zur deutschen Sprache : auf der Grundlage der neuen amtlichen Rechtschreibregeln : 11 : Duden - Redewendungen : Wörterbuch der deutschen Idiomatik ; [mehr als 10000 feste Wendungen, Redensarten und Sprichwörter] / hrsg. von der Dudenred. [Red. Bearb.: Werner Scholze-Stubenrecht ...]</title>
+            <title type="short">Der Duden in 12 Bänden</title>
+            <idno type="ISBN">9783411041145</idno>
+            <idno type="callNumber">1922045-B.11,4.Aufl., 1472291-B.11,4.Aufl.</idno>
+            <author>
+              <forename>Werner</forename>
+              <surname>Scholze-Stubenrecht</surname>
+            </author>
+            <author>
+              <forename>Matthias</forename>
+              <surname>Wermke</surname>
+            </author>
+            <author>
+              <forename>Dudenredaktion</forename>
+              <surname>Bibliographisches Institut &amp; F A Brockhaus AG Mannheim</surname>
+            </author>
+            <edition>4., neu bearb. u. aktualisierte Aufl..</edition>
+            <imprint>
+              <pubPlace>Mannheim Leipzig Wien Zürich</pubPlace>
+              <publisher>Dudenverlag</publisher>
+              <date>2013</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__2EM7DFJP" corresp="http://zotero.org/groups/4690432/items/2EM7DFJP">
+          <monogr>
+            <title level="m">Vom kleinen Rudi. Von Balduin Groller. (pseud.) 2. verm. Aufl</title>
+            <idno type="callNumber">188472-B</idno>
+            <author>
+              <forename>Adalbert</forename>
+              <surname>Goldscheider</surname>
+            </author>
+            <imprint>
+              <pubPlace>Dresden</pubPlace>
+              <publisher>E. Pierson</publisher>
+              <date>1897</date>
+              <note type="accessed">2022-05-16T10:50:48Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00365142</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__SM6D343V" corresp="http://zotero.org/groups/4690432/items/SM6D343V">
+          <monogr>
+            <title level="m">Deutsches Wörterbuch. Von Jacob Grimm u. Wilhelm Grimm (4 ff.: Bearb. v. Jacob Grimm ... [u. a.]). Bd 1-16. [Nebst] Quellenverzeichnis.</title>
+            <title type="short">Deutsches Wörterbuch. Von Jacob Grimm u. Wilhelm Grimm (4 ff.</title>
+            <idno type="callNumber">392189-C, 697628-C</idno>
+            <author>
+              <forename>Jakob</forename>
+              <surname>Grimm</surname>
+            </author>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Grimm</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Hirzel</publisher>
+              <date>1854</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__HGAHBDXD" corresp="http://zotero.org/groups/4690432/items/HGAHBDXD">
+          <monogr>
+            <title level="m">Die Beziehungen zwischen Nase und weiblichen Geschlechtsorganen. (etc.)</title>
+            <idno type="callNumber">88871-B</idno>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Fliess</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>u Wien, Franz Deuticke</publisher>
+              <date>1897</date>
+              <note type="accessed">2022-05-16T10:47:25Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00307919SZ00407844SZ00802527</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__2TNR565J" corresp="http://zotero.org/groups/4690432/items/2TNR565J">
+          <analytic>
+            <title level="a">Johann Wolfgang Goethe, "Sämtliche Werke nach Epochen seines Schaffens. Münchner Ausgabe". Hg. von Karl Richter u. a. "Bd. 5: Wilhelm Meisters Lehrjahre. Ein Roman". Hg. von Hans-Jürgen Schings. 1985-1990</title>
+            <title type="short">Johann Wolfgang Goethe, "Sämtliche Werke nach Epochen seines Schaffens. Münchner Ausgabe". Hg. von Karl Richter u. a. "Bd. 5</title>
+            <author>
+              <forename>Josef</forename>
+              <surname>Mattausch</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Arbitrium</title>
+            <idno type="ISSN">0723-2977</idno>
+            <imprint>
+              <biblScope unit="volume">12</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">196</biblScope>
+              <date>1994</date>
+              <note type="url">https://opacplus.bsb-muenchen.de/search?issn</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__MD4W3RNE" corresp="http://zotero.org/groups/4690432/items/MD4W3RNE">
+          <monogr>
+            <title level="m">Lexikon der sprichwörtlichen Redensarten</title>
+            <author>
+              <forename>Lutz</forename>
+              <surname>Röhrich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Freiburg in Sachsen</pubPlace>
+              <publisher>Herder</publisher>
+              <date>1994</date>
+              <note type="accessed">2022-05-16T10:38:55Z</note>
+              <note type="url">https://www.volksmusikdatenbank.at/PSI/redirect.psi&amp;f_search=&amp;sessid=---&amp;strsearch=IDN=44179&amp;pool=VLWX&amp;file=TIT</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__SZWT6IJP" corresp="http://zotero.org/groups/4690432/items/SZWT6IJP">
+          <monogr>
+            <title level="m">Über den Traum: nach einem 1876 gehaltenen öffentlichen Vortrag</title>
+            <title type="short">Über den Traum</title>
+            <idno type="callNumber">252767-B</idno>
+            <author>
+              <forename>Carl</forename>
+              <surname>Binz</surname>
+            </author>
+            <imprint>
+              <pubPlace>Bonn</pubPlace>
+              <publisher>Marcus</publisher>
+              <date>1878</date>
+              <note type="accessed">2022-05-16T10:37:17Z</note>
+              <note type="url">http://data.onb.ac.at/ABO/%2BZ172615305</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__TCHU39SP" corresp="http://zotero.org/groups/4690432/items/TCHU39SP">
+          <monogr>
+            <title level="m">Briefe an Wilhelm Fließ: 1887 - 1904</title>
+            <title type="short">Briefe an Wilhelm Fließ</title>
+            <idno type="ISBN">9783100228024</idno>
+            <idno type="callNumber">1256660-B</idno>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Fließ</surname>
+            </author>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Jeffrey Moussaieff</forename>
+                <surname>Masson</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Michael</forename>
+                <surname>Schröter</surname>
+              </persName>
+            </respStmt>
+            <edition>Ungekürzte Ausg..</edition>
+            <imprint>
+              <pubPlace>Frankfurt am Main</pubPlace>
+              <publisher>Fischer</publisher>
+              <date>1986</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__K4VTR99A" corresp="http://zotero.org/groups/4690432/items/K4VTR99A">
+          <monogr>
+            <title level="m">Der Mensch. Traum, Herz, Verstand</title>
+            <author>
+              <forename>Johann Heinrich</forename>
+              <surname>Frerichs</surname>
+            </author>
+            <imprint>
+              <date>1878</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__BUVJIBII" corresp="http://zotero.org/groups/4690432/items/BUVJIBII">
+          <monogr>
+            <title level="m">Schlaf und Traum</title>
+            <author>
+              <forename>Adolf</forename>
+              <surname>Frensberg</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">466</biblScope>
+              <date>1885</date>
+              <note type="url">https://archive.org/details/bub_gb_6lUEAAAAYAAJ/page/n371/mode/2up</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Sammlung gemeinverständlicher wissenschaftlicher Vorträge</title>
+            <biblScope unit="volume">20</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__IH9EHWW4" corresp="http://zotero.org/groups/4690432/items/IH9EHWW4">
+          <analytic>
+            <title level="a">Geschichte eines Traumes als Beitrag der transcendentalen Psychologie</title>
+            <author>
+              <forename>Hermann</forename>
+              <surname>Fornaschon</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Psychische Studien</title>
+            <imprint>
+              <biblScope unit="volume">24</biblScope>
+              <biblScope unit="issue">6</biblScope>
+              <biblScope unit="page">274-281</biblScope>
+              <date>1897</date>
+              <note type="url">http://dl.ub.uni-freiburg.de/diglit/psychische_studien1897/0001?page_query=274&amp;navmode=struct&amp;action=pagesearch&amp;sid=25d9dafe1e3bd1395460376eaf1dc9ff</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__S8IX964Q" corresp="http://zotero.org/groups/4690432/items/S8IX964Q">
+          <analytic>
+            <title level="a">Das Traumleben. Plauderei</title>
+            <author>
+              <forename>V.</forename>
+              <surname>Florentin</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Die alte und die neue Welt. Illustriertes Katholisches Familienblatt zur Unterhaltung und Belehrung</title>
+            <imprint>
+              <biblScope unit="volume">33</biblScope>
+              <biblScope unit="page">725</biblScope>
+              <date>1899</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__QBBF7B2S" corresp="http://zotero.org/groups/4690432/items/QBBF7B2S">
+          <monogr>
+            <title level="m">Ad artis veterum onirocriticae historiam symbola. Dissertatio Philologica</title>
+            <author>
+              <forename>Johann</forename>
+              <surname>Fischer</surname>
+            </author>
+            <imprint>
+              <pubPlace>Jena</pubPlace>
+              <date>1899</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__DJM87JIG" corresp="http://zotero.org/groups/4690432/items/DJM87JIG">
+          <analytic>
+            <title level="a">Les rêves d'accès chez les épileptiques</title>
+            <author>
+              <forename>Charles</forename>
+              <surname>Féré</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">La Med. mod.</title>
+            <imprint>
+              <date>1897</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__25UGUZCP" corresp="http://zotero.org/groups/4690432/items/25UGUZCP">
+          <analytic>
+            <title level="a">A contribution to the pathology of dreams and of hysterical Paralysis</title>
+            <author>
+              <forename>Charles</forename>
+              <surname>Féré</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Brain. A Journal of Neurology</title>
+            <imprint>
+              <biblScope unit="volume">9</biblScope>
+              <biblScope unit="page">488-493</biblScope>
+              <date>1887</date>
+              <note type="url">https://archive.org/details/brainjournalofne09londuoft/page/488/mode/2up</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__XS8DAG2C" corresp="http://zotero.org/groups/4690432/items/XS8DAG2C">
+          <analytic>
+            <title level="a">L'azione suggestiva delle cause esterne nei sogni</title>
+            <author>
+              <forename>Carlo</forename>
+              <surname>Fenizia</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Archivio per l’Antropologia e la Etnologia</title>
+            <imprint>
+              <biblScope unit="volume">26</biblScope>
+              <biblScope unit="page">287-294</biblScope>
+              <date>1896</date>
+              <note type="url">https://babel.hathitrust.org/cgi/pt?id=hvd.32044041880899&amp;view=1up&amp;seq=300</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__FXMU6NAP" corresp="http://zotero.org/groups/4690432/items/FXMU6NAP">
+          <monogr>
+            <title level="m">Elemente der Psychophysik. Theil 2</title>
+            <author>
+              <forename>Gustav Theodor</forename>
+              <surname>Fechner</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Breitkopf &amp; Härtel</publisher>
+              <date>1889</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__2CU6PG2T" corresp="http://zotero.org/groups/4690432/items/2CU6PG2T">
+          <monogr>
+            <title level="m">Elemente der Psychophysik. Theil 1</title>
+            <author>
+              <forename>Gustav Theodor</forename>
+              <surname>Fechner</surname>
+            </author>
+            <edition>2</edition>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Breitkopf &amp; Härtel</publisher>
+              <date>1889</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__BSN82F9X" corresp="http://zotero.org/groups/4690432/items/BSN82F9X">
+          <analytic>
+            <title level="a">Étude sur les rêves morbides. Rêves persistants</title>
+            <author>
+              <name>Faure</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Archives générales de Médecine</title>
+            <imprint>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="issue">27</biblScope>
+              <biblScope unit="page">550-570</biblScope>
+              <date>1876</date>
+              <note type="url">https://www.histoiredelafolie.fr/psychiatrie-neurologie/faure-etude-sur-les-reves-morbides-reves-persistants-in-archives-generales-de-medecine-paris-vie-serie-tome-27-vol-i-1876-pp-550-570</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__RKAU6WH5" corresp="http://zotero.org/groups/4690432/items/RKAU6WH5">
+          <monogr>
+            <title level="m">Les rêves chez les hystériques. Thèse pour le doctorat en médicine</title>
+            <author>
+              <forename>Maurice-Emile</forename>
+              <surname>Escande de Messières</surname>
+            </author>
+            <imprint>
+              <pubPlace>Bordeaux</pubPlace>
+              <date>1895</date>
+              <note type="url">http://www.babordnum.fr/viewer/show/2631#page/n0/mode/1up</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__7TUGZI2U" corresp="http://zotero.org/groups/4690432/items/7TUGZI2U">
+          <monogr>
+            <title level="m">Ueber den Unterschied von Traum und Wachen. Eine erkenntnistheoretische Studie</title>
+            <author>
+              <forename>Vincenz van</forename>
+              <surname>Erk</surname>
+            </author>
+            <imprint>
+              <pubPlace>Prag</pubPlace>
+              <publisher>Tempsky</publisher>
+              <date>1974</date>
+              <note type="url">https://search.onb.ac.at/primo-explore/fulldisplay?docid=ONB_alma21290216580003338&amp;context=L&amp;vid=ONB&amp;lang=de_DE&amp;search_scope=ONB_gesamtbestand&amp;adaptor=Local%20Search%20Engine&amp;tab=default_tab&amp;query=any,contains,vincenz%20van%20erk&amp;offset=0</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__2GH4U4RW" corresp="http://zotero.org/groups/4690432/items/2GH4U4RW">
+          <monogr>
+            <title level="m">Ernste Spiele: Vortraege, theils neu theils längst vergessen / J. E. Erdmann.</title>
+            <title type="short">Ernste Spiele</title>
+            <author>
+              <forename>Johann Eduard</forename>
+              <surname>Erdmann</surname>
+            </author>
+            <edition>3.Aufl.</edition>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Hertz</publisher>
+              <date>1875</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__6ABJE33D" corresp="http://zotero.org/groups/4690432/items/6ABJE33D">
+          <monogr>
+            <title level="m">Psychologische Briefe</title>
+            <idno type="callNumber">279724-B</idno>
+            <author>
+              <forename>Johann Eduard</forename>
+              <surname>Erdmann</surname>
+            </author>
+            <edition>6. Aufl..</edition>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Geibel</publisher>
+              <date>1882</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__MN7JFX5I" corresp="http://zotero.org/groups/4690432/items/MN7JFX5I">
+          <analytic>
+            <title level="a">A note on hypnagogic paramnesia</title>
+            <author>
+              <forename>Ellis</forename>
+              <surname>Havelock</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Mind</title>
+            <imprint>
+              <biblScope unit="volume">6</biblScope>
+              <biblScope unit="issue">22</biblScope>
+              <biblScope unit="page">283-287</biblScope>
+              <date>1897</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__PIUCJS2W" corresp="http://zotero.org/groups/4690432/items/PIUCJS2W">
+          <analytic>
+            <title level="a">The stuff that dreams are made of</title>
+            <author>
+              <forename>Ellis</forename>
+              <surname>Havelock</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Appleton's popular science monthly</title>
+            <imprint>
+              <biblScope unit="volume">54</biblScope>
+              <biblScope unit="issue">6</biblScope>
+              <biblScope unit="page">721-735</biblScope>
+              <date>1899</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__6UAZBJSJ" corresp="http://zotero.org/groups/4690432/items/6UAZBJSJ">
+          <analytic>
+            <title level="a">On dreaming of the dead</title>
+            <author>
+              <forename>Ellis</forename>
+              <surname>Havelock</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">The psychological Review</title>
+            <imprint>
+              <biblScope unit="volume">2</biblScope>
+              <biblScope unit="issue">5</biblScope>
+              <biblScope unit="page">458-461</biblScope>
+              <date>1895</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__SG9N3IKE" corresp="http://zotero.org/groups/4690432/items/SG9N3IKE">
+          <analytic>
+            <title level="a">Le souvenir dans le rêve</title>
+            <author>
+              <forename>Victor</forename>
+              <surname>Egger</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Revue Philosophique de la France et de l’Etranger</title>
+            <imprint>
+              <biblScope unit="volume">46</biblScope>
+              <biblScope unit="page">154-157</biblScope>
+              <date>1898</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__8XUWVPSV" corresp="http://zotero.org/groups/4690432/items/8XUWVPSV">
+          <analytic>
+            <title level="a">La durée apparente des rêves</title>
+            <author>
+              <forename>Victor</forename>
+              <surname>Egger</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Revue Philosophique de la France et de l’Etranger</title>
+            <imprint>
+              <biblScope unit="volume">40</biblScope>
+              <biblScope unit="page">44-59</biblScope>
+              <date>1895</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__9UK5S537" corresp="http://zotero.org/groups/4690432/items/9UK5S537">
+          <analytic>
+            <title level="a">Le sommeil et la certitude, le sommeil et la mémoire. Examen des Théories de M. Delboeuf</title>
+            <author>
+              <forename>Victor</forename>
+              <surname>Egger</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">La Critique philosophique</title>
+            <imprint>
+              <biblScope unit="volume">4</biblScope>
+              <biblScope unit="issue">5</biblScope>
+              <biblScope unit="page">321-350</biblScope>
+              <date>1888</date>
+              <note type="url">chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://books.googleusercontent.com/books/content?req=AKW5QafD4yBSFzEhHqQXBD5wdXRof7mJ3lGzoOhFpxOB9NhNvZZ0g4iXVgHOaW6dPUep2CgCJyAtwudfbWFX5e0PlE59bLHQp0GhwPTqKPA9sQ-58N1IrgcBC87_3yUUD-_gJ-1MJ8oMs_J_ypkI_wzk5v-seGKgAO64q9jWtr1plFu41oNW7j6bFvyG9xpx6ic8PK6cLjPjXI7NmvUToirw_pnAvsG3ZYYkVV8IR-m_of5RqGuB4DDLEsFbqVIPyJrbZcSVWXI0KbklObMr5HfkEqoqTBVkaQ</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__TZF6EVKE" corresp="http://zotero.org/groups/4690432/items/TZF6EVKE">
+          <analytic>
+            <title level="a">Künstliche Träume</title>
+            <author>
+              <forename>Carl</forename>
+              <surname>Du Prel</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Sphinx</title>
+            <imprint>
+              <biblScope unit="volume">8</biblScope>
+              <biblScope unit="issue">43,44</biblScope>
+              <biblScope unit="page">1-6, 105-112</biblScope>
+              <date>1889</date>
+              <note type="url">http://dl.ub.uni-freiburg.de/diglit/sphinx1889-8/0009/image?sid=0d52676516eb779ed30003ff2cfc1275#current_page</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__T8RI7TMK" corresp="http://zotero.org/groups/4690432/items/T8RI7TMK">
+          <monogr>
+            <title level="m">Über den Gegensinn der Urworte</title>
+            <idno type="callNumber">I-18567</idno>
+            <author>
+              <forename>Carl</forename>
+              <surname>Abel</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Friedrich</publisher>
+              <date>1884</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__UWWWIZ9D" corresp="http://zotero.org/groups/4690432/items/UWWWIZ9D">
+          <monogr>
+            <title level="m">Vom kleinen Rudi. Von Balduin Groller. (pseud.) 2. verm. Aufl</title>
+            <idno type="callNumber">188472-B</idno>
+            <author>
+              <forename>Adalbert</forename>
+              <surname>Goldscheider</surname>
+            </author>
+            <imprint>
+              <pubPlace>Dresden</pubPlace>
+              <publisher>E. Pierson</publisher>
+              <date>1897</date>
+              <note type="accessed">2022-10-03T10:29:32Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00365142</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__K4CNP62X" corresp="http://zotero.org/groups/4690432/items/K4CNP62X">
+          <monogr>
+            <title level="m">"Alte unnennbare Tage!": Erinnerungen aus siebzig Lehr- und Wanderjahren</title>
+            <title type="short">"Alte unnennbare Tage!"</title>
+            <idno type="callNumber">644167-C, 929673-C</idno>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Eckstein</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wien Leipzig Zürich</pubPlace>
+              <publisher>Herbert Reichner Verlag</publisher>
+              <date>1936</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="document" xml:id="zotero__7DXD8ZNJ" corresp="http://zotero.org/groups/4690432/items/7DXD8ZNJ">
+          <monogr>
+            <title level="m">Handwörterbuch des deutschen Aberglaubens</title>
+            <author>
+              <forename>Hanns</forename>
+              <surname>Bächtold-Stäubli</surname>
+            </author>
+            <author>
+              <forename>Eduard</forename>
+              <surname>Hoffmann-Krayer</surname>
+            </author>
+            <imprint>
+              <publisher>de Gruyter</publisher>
+              <date>1927</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__V42K5QM5" corresp="http://zotero.org/groups/4690432/items/V42K5QM5">
+          <monogr>
+            <title level="m">Gesammelte Schriften. 4, Zur Psychopathologie des Alltagslebens. Das Interesse an der Psychoanalyse. Über Psychoanalyse [u.a.]</title>
+            <idno type="callNumber">E-894, II-829926/4</idno>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Anna</forename>
+                <surname>Freud</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <publisher>Internat. Psychoanalyt. Verl.</publisher>
+              <date>1924</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__TXRCG7Z3" corresp="http://zotero.org/groups/4690432/items/TXRCG7Z3">
+          <monogr>
+            <title level="m">Unser Herz zeigt nach dem Süden: Reisebriefe 1895 - 1923</title>
+            <title type="short">Unser Herz zeigt nach dem Süden</title>
+            <idno type="ISBN">9783351029449</idno>
+            <idno type="callNumber">8674, I-1331288</idno>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Christfried</forename>
+                <surname>Tögel</surname>
+              </persName>
+            </respStmt>
+            <edition>1. Aufl..</edition>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Aufbau-Verl.</publisher>
+              <date>2002</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__EZD6PG9S" corresp="http://zotero.org/groups/4690432/items/EZD6PG9S">
+          <monogr>
+            <title level="m">Le sommeil et les rêves considérés principalement dans leurs rapports avec les théories de la certitude et de la mémoire</title>
+            <author>
+              <forename>Joseph-Remi-Léopold</forename>
+              <surname>Delboeuf</surname>
+            </author>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Ancienne Librairie Germer Baillière et Cie. ; Félix Alcan</publisher>
+              <date>1885</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Questions de philosophie et de science</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__87PM3N5A" corresp="http://zotero.org/groups/4690432/items/87PM3N5A">
+          <monogr>
+            <title level="m">Dreams and Dream-Stories ... Edited by E. Maitland</title>
+            <author>
+              <forename>Anna Bonus</forename>
+              <surname>Kingsford</surname>
+            </author>
+            <author>
+              <forename>Edward</forename>
+              <surname>MAITLAND</surname>
+            </author>
+            <imprint>
+              <pubPlace>G. Redway</pubPlace>
+              <publisher>London, Edinburgh [printed]</publisher>
+              <date>1888</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__BB2JPAUG" corresp="http://zotero.org/groups/4690432/items/BB2JPAUG">
+          <monogr>
+            <title level="m">Psychologie: die Lehre vom bewussten Geiste des Menschen, oder Entwicklungsgeschichte des Bewusstseins, begründet auf Anthropologie und innere Erfahrung : 1 : Die allegemeine Theorie vom Bewusstsein, und die Lehre vom sinnlichen Erkennen, vom Gedächtniss und von der Phantesie</title>
+            <title type="short">Psychologie</title>
+            <idno type="callNumber">58276-B.1</idno>
+            <author>
+              <forename>Immanuel Hermann</forename>
+              <surname>Fichte</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Brockhaus</publisher>
+              <date>1864</date>
+              <note type="accessed">2022-09-30T09:18:18Z</note>
+              <note type="url">http://data.onb.ac.at/ABO/%2BZ226389206</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__7XC58JJ2" corresp="http://zotero.org/groups/4690432/items/7XC58JJ2">
+          <monogr>
+            <title level="m">Über den Traum</title>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wiesbaden</pubPlace>
+              <publisher>J. F. Bergmann</publisher>
+              <date>1901</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Grenzfragen des Nerven- und Seelenlebens</title>
+            <biblScope unit="volume">8</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__J8VUJQGR" corresp="http://zotero.org/groups/4690432/items/J8VUJQGR">
+          <analytic>
+            <title level="a">Über den Gegensinn der Urworte</title>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Jahrbuch für psychoanalytische und psychopathologische Forschungen</title>
+            <imprint>
+              <biblScope unit="volume">2</biblScope>
+              <biblScope unit="page">179-184</biblScope>
+              <date>1910</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__H9GTRDRF" corresp="http://zotero.org/groups/4690432/items/H9GTRDRF">
+          <analytic>
+            <title level="a">Zur Kritik der "Angstneurose"</title>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wiener klinische Rundschau</title>
+            <imprint>
+              <biblScope unit="volume">9</biblScope>
+              <biblScope unit="issue">27, 28, 29</biblScope>
+              <biblScope unit="page">417-419, 435-437, 451-452</biblScope>
+              <date>1895</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__SPXBCFRG" corresp="http://zotero.org/groups/4690432/items/SPXBCFRG">
+          <monogr>
+            <title level="m">Gesamtausgabe. Band 9, 1903-1905</title>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+            <edition>hg. v. Christfried Tögel u. Mitarb. v. Urban Zerfaß</edition>
+            <imprint>
+              <pubPlace>Gießen</pubPlace>
+              <biblScope unit="volume">9</biblScope>
+              <publisher>Psychosozial-Verlag</publisher>
+              <date>2017</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__T9TAU766" corresp="http://zotero.org/groups/4690432/items/T9TAU766">
+          <analytic>
+            <title level="a">Ein Fall von hypnotischer Heilung nebst Bemerkungen über die Entstehung hysterischer Symptome durch den "Gegenwillen"</title>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Zeitschrift für Hypnotismus, Suggestionstherapie, Suggestionslehre und verwandte psychologische Forschungen</title>
+            <imprint>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">102-107</biblScope>
+              <date>1892</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__WP5QCST7" corresp="http://zotero.org/groups/4690432/items/WP5QCST7">
+          <analytic>
+            <title level="a">Über die Berechtigung, von der Neurasthenie einen bestimmten Symptomenkomplex als ‚Angstneurose‘ abzutrennen</title>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Neurologisches Centralblatt</title>
+            <imprint>
+              <biblScope unit="volume">14</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">50-66</biblScope>
+              <date>1895</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__MX3Z9673" corresp="http://zotero.org/groups/4690432/items/MX3Z9673">
+          <monogr>
+            <title level="m">Zur Psychopathologie des Alltagslebens. (Über Vergessen, Versprechen, Vergreifen, Aberglaube und Irrtum)</title>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Karger</publisher>
+              <date>1904</date>
+              <note type="url">http://data.onb.ac.at/rec/AC04446430</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__JKI7TNM4" corresp="http://zotero.org/groups/4690432/items/JKI7TNM4">
+          <monogr>
+            <title level="m">Die Traumdeutung</title>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig, Wien</pubPlace>
+              <publisher>Deuticke</publisher>
+              <date>1900</date>
+              <note type="url">http://data.onb.ac.at/rec/AC05223454</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__V9N337QB" corresp="http://zotero.org/groups/4690432/items/V9N337QB">
+          <monogr>
+            <title level="m">Studien über Hysterie</title>
+            <idno type="callNumber">I-176203</idno>
+            <author>
+              <forename>Josef</forename>
+              <surname>Breuer</surname>
+            </author>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig Wien</pubPlace>
+              <publisher>Deuticke</publisher>
+              <date>1895</date>
+              <note type="accessed">2022-07-19T11:05:41Z</note>
+              <note type="url">http://phaidra.univie.ac.at/o:350215</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__M9TAGAWQ" corresp="http://zotero.org/groups/4690432/items/M9TAGAWQ">
+          <monogr>
+            <title level="m">Die psychischen Zwangserscheinungen: auf klinischer Grundlage dargestellt</title>
+            <title type="short">Die psychischen Zwangserscheinungen</title>
+            <idno type="callNumber">II-291202</idno>
+            <author>
+              <forename>Leopold</forename>
+              <surname>Löwenfeld</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wiesbaden</pubPlace>
+              <publisher>Bergmann</publisher>
+              <date>1904</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__ZAEV2B7S" corresp="http://zotero.org/groups/4690432/items/ZAEV2B7S">
+          <monogr>
+            <title level="m">Im Kampf gegen Hirn-Bacillen: Eine Philosophie d. kleinen Worte mit Ergebnissen f. Politik u. Pädagogik</title>
+            <title type="short">Im Kampf gegen Hirn-Bacillen</title>
+            <idno type="callNumber">08.36</idno>
+            <author>
+              <forename>Georg</forename>
+              <surname>Biedenkapp</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Gose &amp; Tetzlaff</publisher>
+              <date>1902</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__RHATI8SB" corresp="http://zotero.org/groups/4690432/items/RHATI8SB">
+          <monogr>
+            <title level="m">Lebensregeln für Neurastheniker</title>
+            <author>
+              <forename>Ralf</forename>
+              <surname>Wichmann</surname>
+            </author>
+            <edition>4. durchgesehene Aufl.</edition>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Salle</publisher>
+              <date>1903</date>
+              <note type="url">https://opacplus.bsb-muenchen.de/search?id</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__U4TZCHN7" corresp="http://zotero.org/groups/4690432/items/U4TZCHN7">
+          <monogr>
+            <title level="m">Neurasthenie: Wesen, Heilung, Vorbeugung ; für Aerzte und Nichtärzte</title>
+            <title type="short">Neurasthenie</title>
+            <author>
+              <forename>Alfred</forename>
+              <surname>Baumgarten</surname>
+            </author>
+            <edition>2</edition>
+            <imprint>
+              <pubPlace>Wörishofen</pubPlace>
+              <publisher>Buchdr. &amp; Verlagsanst. Wörishofen</publisher>
+              <date>1903</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__RSXUNRNM" corresp="http://zotero.org/groups/4690432/items/RSXUNRNM">
+          <monogr>
+            <title level="m">The mystery of sleep</title>
+            <author>
+              <forename>John</forename>
+              <surname>Bigelow</surname>
+            </author>
+            <edition>3. ed., rewritten and much enlarged</edition>
+            <imprint>
+              <publisher>New York : Harper</publisher>
+              <date>1903</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__MK3F3ZE4" corresp="http://zotero.org/groups/4690432/items/MK3F3ZE4">
+          <monogr>
+            <title level="m">Traum und Traumdeutung im Alterthume</title>
+            <idno type="callNumber">120760-B</idno>
+            <author>
+              <forename>Bernhard</forename>
+              <surname>Büchsenschütz</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>S. Calvary</publisher>
+              <date>1868</date>
+              <note type="accessed">2022-05-18T15:35:39Z</note>
+              <note type="url">http://data.onb.ac.at/ABO/%2BZ21934510X</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__DPACRF3J" corresp="http://zotero.org/groups/4690432/items/DPACRF3J">
+          <monogr>
+            <title level="m">Psychologie der Lyrik: Beiträge zur Analyse der dichterischen Phantasie</title>
+            <title type="short">Psychologie der Lyrik</title>
+            <idno type="callNumber">408068-B</idno>
+            <author>
+              <forename>Carl</forename>
+              <surname>Du Prel</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Ernst Günther</publisher>
+              <date>1880</date>
+              <note type="accessed">2022-05-18T15:39:06Z</note>
+              <note type="url">http://data.onb.ac.at/ABO/%2BZ279509703</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__2D3ZC49M" corresp="http://zotero.org/groups/4690432/items/2D3ZC49M">
+          <monogr>
+            <title level="m">Die Philosophie der Mystik</title>
+            <idno type="callNumber">408071-B</idno>
+            <author>
+              <forename>Carl Freiherr von</forename>
+              <surname>Du Prel</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Ernst Günther</publisher>
+              <date>1885</date>
+              <note type="accessed">2022-05-18T15:41:54Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00256788SZ00798184SZ00920784</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__537NKZVR" corresp="http://zotero.org/groups/4690432/items/537NKZVR">
+          <monogr>
+            <title level="m">Artemidoros aus Daldis. Symbolik der Träume. Übersetzt ... von Friedrich S(alomon) Krauss</title>
+            <idno type="callNumber">209350-B</idno>
+            <author>
+              <name>Artemidorus Daldianus</name>
+            </author>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Friedrich Salomon</forename>
+                <surname>Krauss</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Wien, Pest usw.</pubPlace>
+              <publisher>A. Hartleben</publisher>
+              <date>1881</date>
+              <note type="accessed">2022-05-18T15:30:31Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00038542SZ01196948</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </listBibl>
+    </body>
+  </text>
+</TEI>
