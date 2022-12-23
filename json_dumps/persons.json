@@ -1602,5 +1602,21 @@
     "pmb": "",
     "labels": [],
     "wikidata": ""
+  },
+  "83": {
+    "id": 83,
+    "order": "80.00000000000000000000",
+    "name": "Giessler, Carl Max",
+    "frd_id": "frd_person_83",
+    "gnd_id": "https://d-nb.info/gnd/101683995",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
   }
 }

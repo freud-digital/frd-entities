@@ -993,6 +993,14 @@
                   <idno type="GND">https://d-nb.info/gnd/115381613X</idno>
                   <note/>
                </person>
+               <person xml:id="frd_person_83">
+                  <persName>
+                     <forename>Carl Max</forename>
+                     <surname>Giessler</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/101683995</idno>
+                  <note/>
+               </person>
             </listPerson>
          </div>
       </body>
