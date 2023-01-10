@@ -73,3 +73,4 @@ https://d-nb.info/gnd/126514488|Fornaschon, Hermann|https://freud.acdh-dev.oeaw.
 https://d-nb.info/gnd/118627198|Virchow, Rudolf|https://freud.acdh-dev.oeaw.ac.at/frd_person_79.html
 https://d-nb.info/gnd/116970243|Holtzendorff, Franz von|https://freud.acdh-dev.oeaw.ac.at/frd_person_80.html
 https://d-nb.info/gnd/115381613X|Frerichs, Johann Heinrich Friedrich|https://freud.acdh-dev.oeaw.ac.at/frd_person_82.html
+https://d-nb.info/gnd/101683995|Giessler, Carl Max|https://freud.acdh-dev.oeaw.ac.at/frd_person_83.html
