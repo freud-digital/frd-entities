@@ -27406,5 +27406,157 @@
     "Notes": "",
     "in_use": false,
     "frd_id": "frd_kw_3428"
+  },
+  "3429": {
+    "id": 3429,
+    "order": "3429.00000000000000000000",
+    "name": "",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3429"
+  },
+  "3430": {
+    "id": 3430,
+    "order": "3430.00000000000000000000",
+    "name": "Abreagieren",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3430"
+  },
+  "3431": {
+    "id": 3431,
+    "order": "3431.00000000000000000000",
+    "name": "Therapeutisches Verfahren",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3431"
+  },
+  "3432": {
+    "id": 3432,
+    "order": "3432.00000000000000000000",
+    "name": "Mystizismus",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3432"
+  },
+  "3433": {
+    "id": 3433,
+    "order": "3433.00000000000000000000",
+    "name": "Heilverfahren",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3433"
+  },
+  "3434": {
+    "id": 3434,
+    "order": "3434.00000000000000000000",
+    "name": "Heilungsvorgang",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3434"
+  },
+  "3435": {
+    "id": 3435,
+    "order": "3435.00000000000000000000",
+    "name": "Medikation",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3435"
+  },
+  "3436": {
+    "id": 3436,
+    "order": "3436.00000000000000000000",
+    "name": "",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3436"
+  },
+  "3437": {
+    "id": 3437,
+    "order": "3437.00000000000000000000",
+    "name": "Hypnotische Suggestion",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3437"
+  },
+  "3438": {
+    "id": 3438,
+    "order": "3438.00000000000000000000",
+    "name": "analytische Methode",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3438"
+  },
+  "3439": {
+    "id": 3439,
+    "order": "3439.00000000000000000000",
+    "name": "Kranksein",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3439"
+  },
+  "3440": {
+    "id": 3440,
+    "order": "3440.00000000000000000000",
+    "name": "Malerei",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3440"
+  },
+  "3441": {
+    "id": 3441,
+    "order": "3441.00000000000000000000",
+    "name": "",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3441"
+  },
+  "3442": {
+    "id": 3442,
+    "order": "3442.00000000000000000000",
+    "name": "Skulptur",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3442"
+  },
+  "3443": {
+    "id": 3443,
+    "order": "3443.00000000000000000000",
+    "name": "Suggestivtechnik",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3443"
+  },
+  "3444": {
+    "id": 3444,
+    "order": "3444.00000000000000000000",
+    "name": "pathogen",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3444"
+  },
+  "3445": {
+    "id": 3445,
+    "order": "3445.00000000000000000000",
+    "name": "Therapie",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3445"
+  },
+  "3446": {
+    "id": 3446,
+    "order": "3446.00000000000000000000",
+    "name": "Hysterische, die/der",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3446"
+  },
+  "3447": {
+    "id": 3447,
+    "order": "3447.00000000000000000000",
+    "name": "Tumor",
+    "Notes": "",
+    "in_use": false,
+    "frd_id": "frd_kw_3447"
   }
 }

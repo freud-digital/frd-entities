@@ -3,6 +3,6 @@ acdh-obj2xml-pyutils>=0.0.2
 acdh-id-reconciler>=0.5
 acdh-arche-assets>=3.8.0
 geocoder>=1.38.1
-acd-tei-pyutils>=0.26.0
+acdh-tei-pyutils>=0.27.0
 lxml
 tqdm>=4.64.1

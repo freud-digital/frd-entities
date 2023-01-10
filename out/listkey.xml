@@ -51,6 +51,15 @@
    <text>
       <body>
          <list type="index">
+            <item xml:id="frd_kw_3429">
+               <term/>
+            </item>
+            <item xml:id="frd_kw_3436">
+               <term/>
+            </item>
+            <item xml:id="frd_kw_3441">
+               <term/>
+            </item>
             <item xml:id="frd_kw_5">
                <term>Aba</term>
             </item>
@@ -101,6 +110,9 @@
             </item>
             <item xml:id="frd_kw_20">
                <term>Abortus</term>
+            </item>
+            <item xml:id="frd_kw_3430">
+               <term>Abreagieren</term>
             </item>
             <item xml:id="frd_kw_21">
                <term>Abreaktion</term>
@@ -407,6 +419,9 @@
             </item>
             <item xml:id="frd_kw_122">
                <term>Analytiker</term>
+            </item>
+            <item xml:id="frd_kw_3438">
+               <term>analytische Methode</term>
             </item>
             <item xml:id="frd_kw_123">
                <term>Analzone</term>
@@ -3480,6 +3495,12 @@
             <item xml:id="frd_kw_1138">
                <term>Heilungsversuch</term>
             </item>
+            <item xml:id="frd_kw_3434">
+               <term>Heilungsvorgang</term>
+            </item>
+            <item xml:id="frd_kw_3433">
+               <term>Heilverfahren</term>
+            </item>
             <item xml:id="frd_kw_1142">
                <term>Heimliches</term>
             </item>
@@ -3681,6 +3702,9 @@
             <item xml:id="frd_kw_1219">
                <term>Hypnose</term>
             </item>
+            <item xml:id="frd_kw_3437">
+               <term>Hypnotische Suggestion</term>
+            </item>
             <item xml:id="frd_kw_1220">
                <term>Hypnotiseur</term>
             </item>
@@ -3698,6 +3722,9 @@
             </item>
             <item xml:id="frd_kw_1225">
                <term>Hysteriker</term>
+            </item>
+            <item xml:id="frd_kw_3446">
+               <term>Hysterische, die/der</term>
             </item>
             <item xml:id="frd_kw_1226">
                <term>Hysterogene Zone</term>
@@ -4500,6 +4527,9 @@
             <item xml:id="frd_kw_1479">
                <term>Krankheitszwang</term>
             </item>
+            <item xml:id="frd_kw_3439">
+               <term>Kranksein</term>
+            </item>
             <item xml:id="frd_kw_1480">
                <term>Kranzelherren</term>
             </item>
@@ -5103,6 +5133,9 @@
             <item xml:id="frd_kw_1680">
                <term>Makropsie</term>
             </item>
+            <item xml:id="frd_kw_3440">
+               <term>Malerei</term>
+            </item>
             <item xml:id="frd_kw_1681">
                <term>Malthusianismus</term>
             </item>
@@ -5207,6 +5240,9 @@
             </item>
             <item xml:id="frd_kw_1713">
                <term>Mechanistische Denkweise</term>
+            </item>
+            <item xml:id="frd_kw_3435">
+               <term>Medikation</term>
             </item>
             <item xml:id="frd_kw_1714">
                <term>Medium (telepathisches)</term>
@@ -5516,6 +5552,9 @@
             </item>
             <item xml:id="frd_kw_1829">
                <term>Mystik</term>
+            </item>
+            <item xml:id="frd_kw_3432">
+               <term>Mystizismus</term>
             </item>
             <item xml:id="frd_kw_1830">
                <term>Mythen</term>
@@ -6020,6 +6059,9 @@
             </item>
             <item xml:id="frd_kw_1984">
                <term>Passivität</term>
+            </item>
+            <item xml:id="frd_kw_3444">
+               <term>pathogen</term>
             </item>
             <item xml:id="frd_kw_1985">
                <term>Pathogenese</term>
@@ -7584,6 +7626,9 @@
             <item xml:id="frd_kw_2502">
                <term>Skrupulosität</term>
             </item>
+            <item xml:id="frd_kw_3442">
+               <term>Skulptur</term>
+            </item>
             <item xml:id="frd_kw_2503">
                <term>Social workers</term>
             </item>
@@ -7944,6 +7989,9 @@
             <item xml:id="frd_kw_2632">
                <term>Suggestive Beeinflussung</term>
             </item>
+            <item xml:id="frd_kw_3443">
+               <term>Suggestivtechnik</term>
+            </item>
             <item xml:id="frd_kw_2633">
                <term>Sukzessivität</term>
             </item>
@@ -8123,6 +8171,12 @@
             </item>
             <item xml:id="frd_kw_2682">
                <term>Theorie</term>
+            </item>
+            <item xml:id="frd_kw_3431">
+               <term>Therapeutisches Verfahren</term>
+            </item>
+            <item xml:id="frd_kw_3445">
+               <term>Therapie</term>
             </item>
             <item xml:id="frd_kw_2683">
                <term>Thorax</term>
@@ -8609,6 +8663,9 @@
             </item>
             <item xml:id="frd_kw_2843">
                <term>Träumerei</term>
+            </item>
+            <item xml:id="frd_kw_3447">
+               <term>Tumor</term>
             </item>
             <item xml:id="frd_kw_2849">
                <term>Tunnel</term>
