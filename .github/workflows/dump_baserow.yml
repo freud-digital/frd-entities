@@ -26,6 +26,9 @@ jobs:
       - name: data dump to xml
         run: |
           python json2xml.py
+      - name: generate pmb beacon
+        run: |
+          python pmb-beacon-generator.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:

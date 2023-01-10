@@ -1,0 +1,75 @@
+#FORMAT: BEACON
+#NAME: Freud Edition
+https://d-nb.info/gnd/1089126093|Artemidoros aus Daldis|https://freud.acdh-dev.oeaw.ac.at/frd_person_1.html
+https://d-nb.info/gnd/135629969|Baumgarten, Alfred|https://freud.acdh-dev.oeaw.ac.at/frd_person_2.html
+https://d-nb.info/gnd/1056819022|Beer, Theodor|https://freud.acdh-dev.oeaw.ac.at/frd_person_3.html
+https://d-nb.info/gnd/116163151|Biedenkapp, Georg|https://freud.acdh-dev.oeaw.ac.at/frd_person_4.html
+https://d-nb.info/gnd/171977521|Bigelow, John|https://freud.acdh-dev.oeaw.ac.at/frd_person_5.html
+https://d-nb.info/gnd/116184280|Binz, Carl|https://freud.acdh-dev.oeaw.ac.at/frd_person_6.html
+https://d-nb.info/gnd/118910612|Burlingham, Dorothy|https://freud.acdh-dev.oeaw.ac.at/frd_person_7.html
+https://d-nb.info/gnd/123979390|Deutsch, Felix|https://freud.acdh-dev.oeaw.ac.at/frd_person_8.html
+https://d-nb.info/gnd/118524968|Deutsch, Helene|https://freud.acdh-dev.oeaw.ac.at/frd_person_9.html
+https://d-nb.info/gnd/1021283231|Eckstein, Emma|https://freud.acdh-dev.oeaw.ac.at/frd_person_10.html
+https://d-nb.info/gnd/118969846|Eeden, Frederik van|https://freud.acdh-dev.oeaw.ac.at/frd_person_11.html
+https://d-nb.info/gnd/118688227|Ehrenstein, Albert|https://freud.acdh-dev.oeaw.ac.at/frd_person_12.html
+https://d-nb.info/gnd/118681990|Ellis, Havelock|https://freud.acdh-dev.oeaw.ac.at/frd_person_13.html
+https://d-nb.info/gnd/118924079|Fairbairn, William Ronald Dodds|https://freud.acdh-dev.oeaw.ac.at/frd_person_14.html
+https://d-nb.info/gnd/119440822|Federn, Paul|https://freud.acdh-dev.oeaw.ac.at/frd_person_15.html
+https://d-nb.info/gnd/13009899X|Federn, Wilma|https://freud.acdh-dev.oeaw.ac.at/frd_person_16.html
+https://d-nb.info/gnd/119493489|Fleischl von Marxow, Ernst|https://freud.acdh-dev.oeaw.ac.at/frd_person_17.html
+https://d-nb.info/gnd/118533975|Fließ, Wilhelm|https://freud.acdh-dev.oeaw.ac.at/frd_person_18.html
+https://d-nb.info/gnd/124527884|Foulkes, S. H.|https://freud.acdh-dev.oeaw.ac.at/frd_person_19.html
+https://d-nb.info/gnd/1089550383|Foxe, Arthur Norman|https://freud.acdh-dev.oeaw.ac.at/frd_person_20.html
+https://d-nb.info/gnd/118535315|Freud, Sigmund|https://freud.acdh-dev.oeaw.ac.at/frd_person_21.html
+https://d-nb.info/gnd/117537543|Friedjung, Josef Karl|https://freud.acdh-dev.oeaw.ac.at/frd_person_22.html
+https://d-nb.info/gnd/116845740|Fülöp-Miller, René|https://freud.acdh-dev.oeaw.ac.at/frd_person_23.html
+https://d-nb.info/gnd/118540238|Goethe, Johann Wolfgang von|https://freud.acdh-dev.oeaw.ac.at/frd_person_24.html
+https://d-nb.info/gnd/116765712|Gomperz, Elise|https://freud.acdh-dev.oeaw.ac.at/frd_person_25.html
+https://d-nb.info/gnd/11927146X|Gomperz, Heinrich|https://freud.acdh-dev.oeaw.ac.at/frd_person_26.html
+https://d-nb.info/gnd/118540661|Gomperz, Theodor|https://freud.acdh-dev.oeaw.ac.at/frd_person_27.html
+https://d-nb.info/gnd/124549667|Grinker, Roy R.|https://freud.acdh-dev.oeaw.ac.at/frd_person_28.html
+https://d-nb.info/gnd/118828061|Grotjahn, Martin|https://freud.acdh-dev.oeaw.ac.at/frd_person_29.html
+https://d-nb.info/gnd/118543466|Guilbert, Yvette|https://freud.acdh-dev.oeaw.ac.at/frd_person_30.html
+https://d-nb.info/gnd/1020741325|Hammerschlag, Samuel|https://freud.acdh-dev.oeaw.ac.at/frd_person_31.html
+https://d-nb.info/gnd/1129185877|Lampl-de Groot, Jeanne|https://freud.acdh-dev.oeaw.ac.at/frd_person_32.html
+https://d-nb.info/gnd/118598260|Rank, Otto|https://freud.acdh-dev.oeaw.ac.at/frd_person_33.html
+https://d-nb.info/gnd/118960008|Röhrich, Lutz|https://freud.acdh-dev.oeaw.ac.at/frd_person_34.html
+https://d-nb.info/gnd/104330236|Scherner, Karl Albert|https://freud.acdh-dev.oeaw.ac.at/frd_person_35.html
+http://lobid.org/gnd/118610937|Schubert, Gotthilf Heinrich|https://freud.acdh-dev.oeaw.ac.at/frd_person_36.html
+https://d-nb.info/gnd/118834258|Silberer, Herbert|https://freud.acdh-dev.oeaw.ac.at/frd_person_37.html
+https://d-nb.info/gnd/118627724|Volkelt, Johannes|https://freud.acdh-dev.oeaw.ac.at/frd_person_38.html
+https://d-nb.info/gnd/1055370242|Wichmann, Ralf|https://freud.acdh-dev.oeaw.ac.at/frd_person_39.html
+https://d-nb.info/gnd/118515225|Breuer, Josef|https://freud.acdh-dev.oeaw.ac.at/frd_person_40.html
+https://d-nb.info/gnd/117168815|Löwenfeld, Leopold|https://freud.acdh-dev.oeaw.ac.at/frd_person_41.html
+https://d-nb.info/gnd/118534327|Forel, August|https://freud.acdh-dev.oeaw.ac.at/frd_person_42.html
+https://d-nb.info/gnd/11881866X|Vogt, Oskar|https://freud.acdh-dev.oeaw.ac.at/frd_person_43.html
+https://d-nb.info/gnd/116616105|Kurella, Hans|https://freud.acdh-dev.oeaw.ac.at/frd_person_44.html
+https://d-nb.info/gnd/1055432205|Reder, Albert Ritter von Schellmann|https://freud.acdh-dev.oeaw.ac.at/frd_person_45.html
+https://d-nb.info/gnd/126790795|Bernheim, Hippolyte|https://freud.acdh-dev.oeaw.ac.at/frd_person_46.html
+https://d-nb.info/gnd/118775928|Janet, Pierre|https://freud.acdh-dev.oeaw.ac.at/frd_person_47.html
+https://d-nb.info/gnd/117080330|Moebius, Paul Julius|https://freud.acdh-dev.oeaw.ac.at/frd_person_48.html
+https://d-nb.info/gnd/117671673|Liébeault, Ambroise-Auguste|https://freud.acdh-dev.oeaw.ac.at/frd_person_49.html
+https://d-nb.info/gnd/11862721X|Vischer, Friedrich Theodor|https://freud.acdh-dev.oeaw.ac.at/frd_person_50.html
+https://d-nb.info/gnd/118640445|Leonardo, da Vinci|https://freud.acdh-dev.oeaw.ac.at/frd_person_51.html
+https://d-nb.info/gnd/1089690460|De Sanctis, Sante|https://freud.acdh-dev.oeaw.ac.at/frd_person_52.html
+https://d-nb.info/gnd/119498170|Burdach, Karl Friedrich|https://freud.acdh-dev.oeaw.ac.at/frd_person_53.html
+https://d-nb.info/gnd/118651013|Auer von Welsbach, Carl, Freiherr von|https://freud.acdh-dev.oeaw.ac.at/frd_person_54.html
+https://d-nb.info/gnd/118702610|Galton, Francis|https://freud.acdh-dev.oeaw.ac.at/frd_person_55.html
+https://d-nb.info/gnd/126790922|Delboeuf, Joseph-Remi-Léopold|https://freud.acdh-dev.oeaw.ac.at/frd_person_56.html
+https://d-nb.info/gnd/118562231|Kingsford, Anna|https://freud.acdh-dev.oeaw.ac.at/frd_person_57.html
+https://d-nb.info/gnd/116803967|Hildebrandt, Friedrich Wilhelm|https://freud.acdh-dev.oeaw.ac.at/frd_person_58.html
+https://d-nb.info/gnd/11883018X|Freud, Martha|https://freud.acdh-dev.oeaw.ac.at/frd_person_59.html
+https://d-nb.info/gnd/118612271|Schwind, Moritz von|https://freud.acdh-dev.oeaw.ac.at/frd_person_60.html
+https://d-nb.info/gnd/142373672|Goldscheider, Adalbert|https://freud.acdh-dev.oeaw.ac.at/frd_person_63.html
+https://d-nb.info/gnd/118617605|Stekel, Wilhelm|https://freud.acdh-dev.oeaw.ac.at/frd_person_64.html
+https://d-nb.info/gnd/118973061|Du Prel, Carl|https://freud.acdh-dev.oeaw.ac.at/frd_person_65.html
+https://d-nb.info/gnd/116366044|Egger, Victor|https://freud.acdh-dev.oeaw.ac.at/frd_person_66.html
+https://d-nb.info/gnd/118681990|Havelock, Ellis|https://freud.acdh-dev.oeaw.ac.at/frd_person_67.html
+https://d-nb.info/gnd/118682261|Erdmann, Johann Eduard|https://freud.acdh-dev.oeaw.ac.at/frd_person_68.html
+https://d-nb.info/gnd/116250011|Knauer, Vinzenz|https://freud.acdh-dev.oeaw.ac.at/frd_person_69.html
+https://d-nb.info/gnd/124412327|Féré, Charles|https://freud.acdh-dev.oeaw.ac.at/frd_person_75.html
+https://d-nb.info/gnd/118532154|Fechner, Gustav Theodor|https://freud.acdh-dev.oeaw.ac.at/frd_person_73.html
+https://d-nb.info/gnd/126514488|Fornaschon, Hermann|https://freud.acdh-dev.oeaw.ac.at/frd_person_78.html
+https://d-nb.info/gnd/118627198|Virchow, Rudolf|https://freud.acdh-dev.oeaw.ac.at/frd_person_79.html
+https://d-nb.info/gnd/116970243|Holtzendorff, Franz von|https://freud.acdh-dev.oeaw.ac.at/frd_person_80.html
+https://d-nb.info/gnd/115381613X|Frerichs, Johann Heinrich Friedrich|https://freud.acdh-dev.oeaw.ac.at/frd_person_82.html
