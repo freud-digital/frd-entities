@@ -363,6 +363,172 @@
             </imprint>
           </monogr>
         </biblStruct>
+        <biblStruct type="book" xml:id="zotero__U4TZCHN7" corresp="http://zotero.org/groups/4690432/items/U4TZCHN7">
+          <monogr>
+            <title level="m">Neurasthenie: Wesen, Heilung, Vorbeugung ; für Aerzte und Nichtärzte</title>
+            <title type="short">Neurasthenie</title>
+            <author>
+              <forename>Alfred</forename>
+              <surname>Baumgarten</surname>
+            </author>
+            <edition>2</edition>
+            <imprint>
+              <pubPlace>Wörishofen</pubPlace>
+              <publisher>Buchdr. &amp; Verlagsanst. Wörishofen</publisher>
+              <date>1903</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__RSXUNRNM" corresp="http://zotero.org/groups/4690432/items/RSXUNRNM">
+          <monogr>
+            <title level="m">The mystery of sleep</title>
+            <author>
+              <forename>John</forename>
+              <surname>Bigelow</surname>
+            </author>
+            <edition>3. ed., rewritten and much enlarged</edition>
+            <imprint>
+              <publisher>New York : Harper</publisher>
+              <date>1903</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__MK3F3ZE4" corresp="http://zotero.org/groups/4690432/items/MK3F3ZE4">
+          <monogr>
+            <title level="m">Traum und Traumdeutung im Alterthume</title>
+            <idno type="callNumber">120760-B</idno>
+            <author>
+              <forename>Bernhard</forename>
+              <surname>Büchsenschütz</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>S. Calvary</publisher>
+              <date>1868</date>
+              <note type="accessed">2022-05-18T15:35:39Z</note>
+              <note type="url">http://data.onb.ac.at/ABO/%2BZ21934510X</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__DPACRF3J" corresp="http://zotero.org/groups/4690432/items/DPACRF3J">
+          <monogr>
+            <title level="m">Psychologie der Lyrik: Beiträge zur Analyse der dichterischen Phantasie</title>
+            <title type="short">Psychologie der Lyrik</title>
+            <idno type="callNumber">408068-B</idno>
+            <author>
+              <forename>Carl</forename>
+              <surname>Du Prel</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Ernst Günther</publisher>
+              <date>1880</date>
+              <note type="accessed">2022-05-18T15:39:06Z</note>
+              <note type="url">http://data.onb.ac.at/ABO/%2BZ279509703</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__2D3ZC49M" corresp="http://zotero.org/groups/4690432/items/2D3ZC49M">
+          <monogr>
+            <title level="m">Die Philosophie der Mystik</title>
+            <idno type="callNumber">408071-B</idno>
+            <author>
+              <forename>Carl Freiherr von</forename>
+              <surname>Du Prel</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Ernst Günther</publisher>
+              <date>1885</date>
+              <note type="accessed">2022-05-18T15:41:54Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00256788SZ00798184SZ00920784</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__D7FSZFSS" corresp="http://zotero.org/groups/4690432/items/D7FSZFSS">
+          <analytic>
+            <title level="a">Dreams, Sleep, and Consciousness</title>
+            <author>
+              <forename>George Milbry</forename>
+              <surname>Gould</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">The American Journal of Psychology</title>
+            <imprint>
+              <biblScope unit="volume">2</biblScope>
+              <biblScope unit="page">509</biblScope>
+              <date>1889</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__AEVAZIEH" corresp="http://zotero.org/groups/4690432/items/AEVAZIEH">
+          <monogr>
+            <title level="m">Traumdeutung und Zauberei: ein Blick auf das Wesen des Aberglaubens ; ein Vortrag zum Besten der Deutschen Schiller-Stiftung gehalten zu Brünn am 9. April 1866</title>
+            <title type="short">Traumdeutung und Zauberei</title>
+            <idno type="callNumber">70651-A</idno>
+            <author>
+              <forename>Theodor</forename>
+              <surname>Gomperz</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <publisher>Gerold</publisher>
+              <date>1866</date>
+              <note type="accessed">2023-01-12T12:29:48Z</note>
+              <note type="url">http://data.onb.ac.at/ABO/%2BZ228617103</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__VG3QP4B4" corresp="http://zotero.org/groups/4690432/items/VG3QP4B4">
+          <analytic>
+            <title level="a">Sur le souvenir du rêves</title>
+            <author>
+              <forename>Edmond</forename>
+              <surname>Goblot</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Revue philosophique de la France et de l'étranger</title>
+            <imprint>
+              <biblScope unit="volume">XLII</biblScope>
+              <biblScope unit="page">288-290</biblScope>
+              <date>1896</date>
+              <note type="url">https://gallica.bnf.fr/ark:/12148/bpt6k17181z/f292.item</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__N7PSQ3JN" corresp="http://zotero.org/groups/4690432/items/N7PSQ3JN">
+          <monogr>
+            <title level="m">Die physiologischen Beziehungen der Traumvorgänge</title>
+            <author>
+              <forename>Carl Max</forename>
+              <surname>Gießler</surname>
+            </author>
+            <imprint>
+              <pubPlace>Halle</pubPlace>
+              <publisher>M. Niemeyer</publisher>
+              <date>1896</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__K2WR675A" corresp="http://zotero.org/groups/4690432/items/K2WR675A">
+          <monogr>
+            <title level="m">Aus den Tiefen des Traumlebens (etc.)</title>
+            <idno type="callNumber">86287-B</idno>
+            <author>
+              <forename>Max</forename>
+              <surname>Giessler</surname>
+            </author>
+            <imprint>
+              <pubPlace>Halle/Saale</pubPlace>
+              <publisher>L. E. W. Pfeffer</publisher>
+              <date>1890</date>
+              <note type="accessed">2023-01-12T11:35:27Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00354812SZ01196768</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="zotero__JATAN7RV" corresp="http://zotero.org/groups/4690432/items/JATAN7RV">
           <monogr>
             <title level="m">Beiträge zur Phaenomenologie des Traumlebens</title>
@@ -1107,88 +1273,6 @@
               <publisher>Salle</publisher>
               <date>1903</date>
               <note type="url">https://opacplus.bsb-muenchen.de/search?id</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__U4TZCHN7" corresp="http://zotero.org/groups/4690432/items/U4TZCHN7">
-          <monogr>
-            <title level="m">Neurasthenie: Wesen, Heilung, Vorbeugung ; für Aerzte und Nichtärzte</title>
-            <title type="short">Neurasthenie</title>
-            <author>
-              <forename>Alfred</forename>
-              <surname>Baumgarten</surname>
-            </author>
-            <edition>2</edition>
-            <imprint>
-              <pubPlace>Wörishofen</pubPlace>
-              <publisher>Buchdr. &amp; Verlagsanst. Wörishofen</publisher>
-              <date>1903</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__RSXUNRNM" corresp="http://zotero.org/groups/4690432/items/RSXUNRNM">
-          <monogr>
-            <title level="m">The mystery of sleep</title>
-            <author>
-              <forename>John</forename>
-              <surname>Bigelow</surname>
-            </author>
-            <edition>3. ed., rewritten and much enlarged</edition>
-            <imprint>
-              <publisher>New York : Harper</publisher>
-              <date>1903</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__MK3F3ZE4" corresp="http://zotero.org/groups/4690432/items/MK3F3ZE4">
-          <monogr>
-            <title level="m">Traum und Traumdeutung im Alterthume</title>
-            <idno type="callNumber">120760-B</idno>
-            <author>
-              <forename>Bernhard</forename>
-              <surname>Büchsenschütz</surname>
-            </author>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>S. Calvary</publisher>
-              <date>1868</date>
-              <note type="accessed">2022-05-18T15:35:39Z</note>
-              <note type="url">http://data.onb.ac.at/ABO/%2BZ21934510X</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__DPACRF3J" corresp="http://zotero.org/groups/4690432/items/DPACRF3J">
-          <monogr>
-            <title level="m">Psychologie der Lyrik: Beiträge zur Analyse der dichterischen Phantasie</title>
-            <title type="short">Psychologie der Lyrik</title>
-            <idno type="callNumber">408068-B</idno>
-            <author>
-              <forename>Carl</forename>
-              <surname>Du Prel</surname>
-            </author>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <publisher>Ernst Günther</publisher>
-              <date>1880</date>
-              <note type="accessed">2022-05-18T15:39:06Z</note>
-              <note type="url">http://data.onb.ac.at/ABO/%2BZ279509703</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__2D3ZC49M" corresp="http://zotero.org/groups/4690432/items/2D3ZC49M">
-          <monogr>
-            <title level="m">Die Philosophie der Mystik</title>
-            <idno type="callNumber">408071-B</idno>
-            <author>
-              <forename>Carl Freiherr von</forename>
-              <surname>Du Prel</surname>
-            </author>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <publisher>Ernst Günther</publisher>
-              <date>1885</date>
-              <note type="accessed">2022-05-18T15:41:54Z</note>
-              <note type="url">http://data.onb.ac.at/imgk/AZ00256788SZ00798184SZ00920784</note>
             </imprint>
           </monogr>
         </biblStruct>

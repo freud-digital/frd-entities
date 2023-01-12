@@ -2067,6 +2067,10 @@
       {
         "id": 63,
         "value": "Goldscheider, Adalbert"
+      },
+      {
+        "id": 89,
+        "value": "Gould, George Milbry"
       }
     ]
   },
@@ -3621,6 +3625,10 @@
       {
         "id": 73,
         "value": "Fechner, Gustav Theodor"
+      },
+      {
+        "id": 87,
+        "value": "Goblot, Edmond"
       }
     ]
   },
@@ -3661,6 +3669,10 @@
       {
         "id": 53,
         "value": "Burdach, Karl Friedrich"
+      },
+      {
+        "id": 86,
+        "value": "Gley, Eugène"
       }
     ]
   },
@@ -4063,7 +4075,12 @@
     "order": "544.00000000000000000000",
     "name": "Redakteur/Redakteurin",
     "frd_id": "frd_prof_544",
-    "persons": []
+    "persons": [
+      {
+        "id": 89,
+        "value": "Gould, George Milbry"
+      }
+    ]
   },
   "545": {
     "id": 545,
@@ -4508,7 +4525,12 @@
     "order": "605.00000000000000000000",
     "name": "Soziologe/Soziologin",
     "frd_id": "frd_prof_605",
-    "persons": []
+    "persons": [
+      {
+        "id": 87,
+        "value": "Goblot, Edmond"
+      }
+    ]
   },
   "606": {
     "id": 606,
@@ -5381,6 +5403,18 @@
       {
         "id": 82,
         "value": "Frerichs, Johann Heinrich Friedrich"
+      }
+    ]
+  },
+  "728": {
+    "id": 728,
+    "order": "728.00000000000000000000",
+    "name": "Endokrinologe/Endokrinologin",
+    "frd_id": "frd_prof_728",
+    "persons": [
+      {
+        "id": 86,
+        "value": "Gley, Eugène"
       }
     ]
   }

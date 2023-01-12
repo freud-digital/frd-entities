@@ -1613,8 +1613,131 @@
     "place_of_birth": [],
     "death_year": null,
     "place_of_death": [],
+    "bio": "(auch Gießler)",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "84": {
+    "id": 84,
+    "order": "81.00000000000000000000",
+    "name": "Gleichen-Rußwurm, Adelbert von",
+    "frd_id": "frd_person_84",
+    "gnd_id": "https://d-nb.info/gnd/139570047",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
     "bio": "",
     "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "85": {
+    "id": 85,
+    "order": "82.00000000000000000000",
+    "name": "",
+    "frd_id": "frd_person_85",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "86": {
+    "id": 86,
+    "order": "83.00000000000000000000",
+    "name": "Gley, Eugène",
+    "frd_id": "frd_person_86",
+    "gnd_id": "https://d-nb.info/gnd/102714908",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 495,
+        "value": "Physiologe/Physiologin"
+      },
+      {
+        "id": 728,
+        "value": "Endokrinologe/Endokrinologin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "87": {
+    "id": 87,
+    "order": "84.00000000000000000000",
+    "name": "Goblot, Edmond",
+    "frd_id": "frd_person_87",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      },
+      {
+        "id": 605,
+        "value": "Soziologe/Soziologin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "88": {
+    "id": 88,
+    "order": "85.00000000000000000000",
+    "name": "",
+    "frd_id": "frd_person_88",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "89": {
+    "id": 89,
+    "order": "86.00000000000000000000",
+    "name": "Gould, George Milbry",
+    "frd_id": "frd_person_89",
+    "gnd_id": "https://d-nb.info/gnd/1055233482",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 282,
+        "value": "Journalist/Journalistin"
+      },
+      {
+        "id": 544,
+        "value": "Redakteur/Redakteurin"
+      }
+    ],
     "pmb": "",
     "labels": [],
     "wikidata": ""

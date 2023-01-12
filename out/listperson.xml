@@ -999,6 +999,51 @@
                      <surname>Giessler</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/101683995</idno>
+                  <note>(auch Gießler)</note>
+               </person>
+               <person xml:id="frd_person_84">
+                  <persName>
+                     <forename>Adelbert von</forename>
+                     <surname>Gleichen-Rußwurm</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/139570047</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_85">
+                  <persName>
+                     <forename/>
+                     <surname/>
+                  </persName>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_86">
+                  <persName>
+                     <forename>Eugène</forename>
+                     <surname>Gley</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/102714908</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_87">
+                  <persName>
+                     <forename>Edmond</forename>
+                     <surname>Goblot</surname>
+                  </persName>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_88">
+                  <persName>
+                     <forename/>
+                     <surname/>
+                  </persName>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_89">
+                  <persName>
+                     <forename>George Milbry</forename>
+                     <surname>Gould</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1055233482</idno>
                   <note/>
                </person>
             </listPerson>
