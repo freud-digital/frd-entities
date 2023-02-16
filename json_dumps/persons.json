@@ -1638,15 +1638,20 @@
   "85": {
     "id": 85,
     "order": "82.00000000000000000000",
-    "name": "",
+    "name": "Graffunder, Paul",
     "frd_id": "frd_person_85",
-    "gnd_id": "",
+    "gnd_id": "https://d-nb.info/gnd/116819952",
     "birth_year": null,
     "place_of_birth": [],
     "death_year": null,
     "place_of_death": [],
     "bio": "",
-    "profession": [],
+    "profession": [
+      {
+        "id": 313,
+        "value": "Klassischer Philologe/Klassische Philologin"
+      }
+    ],
     "pmb": "",
     "labels": [],
     "wikidata": ""
@@ -1704,7 +1709,7 @@
   "88": {
     "id": 88,
     "order": "85.00000000000000000000",
-    "name": "",
+    "name": "Greenwood, Frederick",
     "frd_id": "frd_person_88",
     "gnd_id": "",
     "birth_year": null,
@@ -1738,6 +1743,163 @@
         "value": "Redakteur/Redakteurin"
       }
     ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "90": {
+    "id": 90,
+    "order": "87.00000000000000000000",
+    "name": "Griesinger, Wilhelm",
+    "frd_id": "frd_person_90",
+    "gnd_id": "https://d-nb.info/gnd/11854215X",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 279,
+        "value": "Internist/Internistin"
+      },
+      {
+        "id": 524,
+        "value": "Psychiater/Psychiaterin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "91": {
+    "id": 91,
+    "order": "88.00000000000000000000",
+    "name": "Grot, Nikolaj Jakovlevič",
+    "frd_id": "frd_person_91",
+    "gnd_id": "https://d-nb.info/gnd/116873973",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "92": {
+    "id": 92,
+    "order": "89.00000000000000000000",
+    "name": "Guàrdia Bagur, Josep Miquel",
+    "frd_id": "frd_person_92",
+    "gnd_id": "https://d-nb.info/gnd/1055181660",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      },
+      {
+        "id": 473,
+        "value": "Pädagoge/Pädagogin"
+      },
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "93": {
+    "id": 93,
+    "order": "90.00000000000000000000",
+    "name": "Gutfeldt, Ina",
+    "frd_id": "frd_person_93",
+    "gnd_id": "https://d-nb.info/gnd/116931868",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 374,
+        "value": "Lehrer/Lehrerin"
+      },
+      {
+        "id": 586,
+        "value": "Schriftsteller/Schriftstellerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "94": {
+    "id": 94,
+    "order": "91.00000000000000000000",
+    "name": "Haffner, Paul Leopold",
+    "frd_id": "frd_person_94",
+    "gnd_id": "https://d-nb.info/gnd/116370262",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 69,
+        "value": "Bischof/Bischöfin"
+      },
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "95": {
+    "id": 95,
+    "order": "92.00000000000000000000",
+    "name": "Hallam, Florence",
+    "frd_id": "frd_person_95",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "96": {
+    "id": 96,
+    "order": "93.00000000000000000000",
+    "name": "Weed, Sarah",
+    "frd_id": "frd_person_96",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
     "pmb": "",
     "labels": [],
     "wikidata": ""

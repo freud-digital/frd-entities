@@ -75,5 +75,11 @@ https://d-nb.info/gnd/116970243|Holtzendorff, Franz von|https://freud.acdh-dev.o
 https://d-nb.info/gnd/115381613X|Frerichs, Johann Heinrich Friedrich|https://freud.acdh-dev.oeaw.ac.at/frd_person_82.html
 https://d-nb.info/gnd/101683995|Giessler, Carl Max|https://freud.acdh-dev.oeaw.ac.at/frd_person_83.html
 https://d-nb.info/gnd/139570047|Gleichen-Rußwurm, Adelbert von|https://freud.acdh-dev.oeaw.ac.at/frd_person_84.html
+https://d-nb.info/gnd/116819952|Graffunder, Paul|https://freud.acdh-dev.oeaw.ac.at/frd_person_85.html
 https://d-nb.info/gnd/102714908|Gley, Eugène|https://freud.acdh-dev.oeaw.ac.at/frd_person_86.html
 https://d-nb.info/gnd/1055233482|Gould, George Milbry|https://freud.acdh-dev.oeaw.ac.at/frd_person_89.html
+https://d-nb.info/gnd/11854215X|Griesinger, Wilhelm|https://freud.acdh-dev.oeaw.ac.at/frd_person_90.html
+https://d-nb.info/gnd/116873973|Grot, Nikolaj Jakovlevič|https://freud.acdh-dev.oeaw.ac.at/frd_person_91.html
+https://d-nb.info/gnd/1055181660|Guàrdia Bagur, Josep Miquel|https://freud.acdh-dev.oeaw.ac.at/frd_person_92.html
+https://d-nb.info/gnd/116931868|Gutfeldt, Ina|https://freud.acdh-dev.oeaw.ac.at/frd_person_93.html
+https://d-nb.info/gnd/116370262|Haffner, Paul Leopold|https://freud.acdh-dev.oeaw.ac.at/frd_person_94.html

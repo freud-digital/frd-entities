@@ -445,6 +445,219 @@
             </imprint>
           </monogr>
         </biblStruct>
+        <biblStruct type="book" xml:id="zotero__MX3Z9673" corresp="http://zotero.org/groups/4690432/items/MX3Z9673">
+          <monogr>
+            <title level="m">Zur Psychopathologie des Alltagslebens. (Über Vergessen, Versprechen, Vergreifen, Aberglaube und Irrtum)</title>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Karger</publisher>
+              <date>1904</date>
+              <note type="url">http://data.onb.ac.at/rec/AC04446430</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__JKI7TNM4" corresp="http://zotero.org/groups/4690432/items/JKI7TNM4">
+          <monogr>
+            <title level="m">Die Traumdeutung</title>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig, Wien</pubPlace>
+              <publisher>Deuticke</publisher>
+              <date>1900</date>
+              <note type="url">http://data.onb.ac.at/rec/AC05223454</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__V9N337QB" corresp="http://zotero.org/groups/4690432/items/V9N337QB">
+          <monogr>
+            <title level="m">Studien über Hysterie</title>
+            <idno type="callNumber">I-176203</idno>
+            <author>
+              <forename>Josef</forename>
+              <surname>Breuer</surname>
+            </author>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig Wien</pubPlace>
+              <publisher>Deuticke</publisher>
+              <date>1895</date>
+              <note type="accessed">2022-07-19T11:05:41Z</note>
+              <note type="url">http://phaidra.univie.ac.at/o:350215</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__M9TAGAWQ" corresp="http://zotero.org/groups/4690432/items/M9TAGAWQ">
+          <monogr>
+            <title level="m">Die psychischen Zwangserscheinungen: auf klinischer Grundlage dargestellt</title>
+            <title type="short">Die psychischen Zwangserscheinungen</title>
+            <idno type="callNumber">II-291202</idno>
+            <author>
+              <forename>Leopold</forename>
+              <surname>Löwenfeld</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wiesbaden</pubPlace>
+              <publisher>Bergmann</publisher>
+              <date>1904</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__ZAEV2B7S" corresp="http://zotero.org/groups/4690432/items/ZAEV2B7S">
+          <monogr>
+            <title level="m">Im Kampf gegen Hirn-Bacillen: Eine Philosophie d. kleinen Worte mit Ergebnissen f. Politik u. Pädagogik</title>
+            <title type="short">Im Kampf gegen Hirn-Bacillen</title>
+            <idno type="callNumber">08.36</idno>
+            <author>
+              <forename>Georg</forename>
+              <surname>Biedenkapp</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Gose &amp; Tetzlaff</publisher>
+              <date>1902</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__RHATI8SB" corresp="http://zotero.org/groups/4690432/items/RHATI8SB">
+          <monogr>
+            <title level="m">Lebensregeln für Neurastheniker</title>
+            <author>
+              <forename>Ralf</forename>
+              <surname>Wichmann</surname>
+            </author>
+            <edition>4. durchgesehene Aufl.</edition>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Salle</publisher>
+              <date>1903</date>
+              <note type="url">https://opacplus.bsb-muenchen.de/search?id</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__VI5UUJXM" corresp="http://zotero.org/groups/4690432/items/VI5UUJXM">
+          <monogr>
+            <title level="m">Die Träume, ein Gegenstand wissenschaftlicher Analyse (russ.)</title>
+            <author>
+              <forename>Nicolaus</forename>
+              <surname>Grot</surname>
+            </author>
+            <imprint>
+              <pubPlace>Kiew</pubPlace>
+              <date>1878</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__ZI7QX6ID" corresp="http://zotero.org/groups/4690432/items/ZI7QX6ID">
+          <analytic>
+            <title level="a">Ein Traum</title>
+            <author>
+              <forename>Ina</forename>
+              <surname>Gutfeldt</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Psychische Studien</title>
+            <imprint>
+              <biblScope unit="volume">26</biblScope>
+              <biblScope unit="issue">9 (September)</biblScope>
+              <biblScope unit="page">491-494</biblScope>
+              <date>1878</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__X5WVI76U" corresp="http://zotero.org/groups/4690432/items/X5WVI76U">
+          <analytic>
+            <title level="a">Personnalité dans les rêves</title>
+            <author>
+              <forename>J. M.</forename>
+              <surname>Guardia</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Revue philosophique de la France et de l’Étranger</title>
+            <imprint>
+              <biblScope unit="volume">XXXIV</biblScope>
+              <biblScope unit="page">225-258</biblScope>
+              <date>1892</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__NJTFNHZ6" corresp="http://zotero.org/groups/4690432/items/NJTFNHZ6">
+          <monogr>
+            <title level="m">Bücher bei Google Play
+Die Pathologie und Therapie der psychischen Krankheiten für Aerzte und Studirende</title>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Griesinger</surname>
+            </author>
+            <edition>3. Auflage</edition>
+            <imprint>
+              <pubPlace>Braunschweig</pubPlace>
+              <publisher>Friedrich Wreden</publisher>
+              <date>1871</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__75NPZ5UB" corresp="http://zotero.org/groups/4690432/items/75NPZ5UB">
+          <analytic>
+            <title level="a">A study of the dream consciousness</title>
+            <author>
+              <forename>Florence</forename>
+              <surname>Hallam</surname>
+            </author>
+            <author>
+              <forename>Sarah</forename>
+              <surname>Weed</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Americ. Journ. of Psychol.</title>
+            <imprint>
+              <biblScope unit="volume">VII</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">405-411</biblScope>
+              <date>1896</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__DTJUCQ96" corresp="http://zotero.org/groups/4690432/items/DTJUCQ96">
+          <analytic>
+            <title level="a">Schlafen und Träumen</title>
+            <author>
+              <forename>Paul</forename>
+              <surname>Haffner</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <imprint>
+              <biblScope unit="page">296-381</biblScope>
+              <date>1884</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__9X6JV2TP" corresp="http://zotero.org/groups/4690432/items/9X6JV2TP">
+          <monogr>
+            <title level="m">Imaginations in dreams an their study</title>
+            <author>
+              <forename>Frederick</forename>
+              <surname>Greenwood</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <date>1899</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="zotero__D7FSZFSS" corresp="http://zotero.org/groups/4690432/items/D7FSZFSS">
           <analytic>
             <title level="a">Dreams, Sleep, and Consciousness</title>
@@ -1174,105 +1387,6 @@
               <biblScope unit="issue">2</biblScope>
               <biblScope unit="page">50-66</biblScope>
               <date>1895</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__MX3Z9673" corresp="http://zotero.org/groups/4690432/items/MX3Z9673">
-          <monogr>
-            <title level="m">Zur Psychopathologie des Alltagslebens. (Über Vergessen, Versprechen, Vergreifen, Aberglaube und Irrtum)</title>
-            <author>
-              <forename>Sigmund</forename>
-              <surname>Freud</surname>
-            </author>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Karger</publisher>
-              <date>1904</date>
-              <note type="url">http://data.onb.ac.at/rec/AC04446430</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__JKI7TNM4" corresp="http://zotero.org/groups/4690432/items/JKI7TNM4">
-          <monogr>
-            <title level="m">Die Traumdeutung</title>
-            <author>
-              <forename>Sigmund</forename>
-              <surname>Freud</surname>
-            </author>
-            <imprint>
-              <pubPlace>Leipzig, Wien</pubPlace>
-              <publisher>Deuticke</publisher>
-              <date>1900</date>
-              <note type="url">http://data.onb.ac.at/rec/AC05223454</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__V9N337QB" corresp="http://zotero.org/groups/4690432/items/V9N337QB">
-          <monogr>
-            <title level="m">Studien über Hysterie</title>
-            <idno type="callNumber">I-176203</idno>
-            <author>
-              <forename>Josef</forename>
-              <surname>Breuer</surname>
-            </author>
-            <author>
-              <forename>Sigmund</forename>
-              <surname>Freud</surname>
-            </author>
-            <imprint>
-              <pubPlace>Leipzig Wien</pubPlace>
-              <publisher>Deuticke</publisher>
-              <date>1895</date>
-              <note type="accessed">2022-07-19T11:05:41Z</note>
-              <note type="url">http://phaidra.univie.ac.at/o:350215</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__M9TAGAWQ" corresp="http://zotero.org/groups/4690432/items/M9TAGAWQ">
-          <monogr>
-            <title level="m">Die psychischen Zwangserscheinungen: auf klinischer Grundlage dargestellt</title>
-            <title type="short">Die psychischen Zwangserscheinungen</title>
-            <idno type="callNumber">II-291202</idno>
-            <author>
-              <forename>Leopold</forename>
-              <surname>Löwenfeld</surname>
-            </author>
-            <imprint>
-              <pubPlace>Wiesbaden</pubPlace>
-              <publisher>Bergmann</publisher>
-              <date>1904</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__ZAEV2B7S" corresp="http://zotero.org/groups/4690432/items/ZAEV2B7S">
-          <monogr>
-            <title level="m">Im Kampf gegen Hirn-Bacillen: Eine Philosophie d. kleinen Worte mit Ergebnissen f. Politik u. Pädagogik</title>
-            <title type="short">Im Kampf gegen Hirn-Bacillen</title>
-            <idno type="callNumber">08.36</idno>
-            <author>
-              <forename>Georg</forename>
-              <surname>Biedenkapp</surname>
-            </author>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Gose &amp; Tetzlaff</publisher>
-              <date>1902</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__RHATI8SB" corresp="http://zotero.org/groups/4690432/items/RHATI8SB">
-          <monogr>
-            <title level="m">Lebensregeln für Neurastheniker</title>
-            <author>
-              <forename>Ralf</forename>
-              <surname>Wichmann</surname>
-            </author>
-            <edition>4. durchgesehene Aufl.</edition>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Salle</publisher>
-              <date>1903</date>
-              <note type="url">https://opacplus.bsb-muenchen.de/search?id</note>
             </imprint>
           </monogr>
         </biblStruct>

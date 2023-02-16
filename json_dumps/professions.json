@@ -247,6 +247,10 @@
       {
         "id": 79,
         "value": "Virchow, Rudolf"
+      },
+      {
+        "id": 92,
+        "value": "Guàrdia Bagur, Josep Miquel"
       }
     ]
   },
@@ -528,7 +532,12 @@
     "order": "69.00000000000000000000",
     "name": "Bischof/Bischöfin",
     "frd_id": "frd_prof_69",
-    "persons": []
+    "persons": [
+      {
+        "id": 94,
+        "value": "Haffner, Paul Leopold"
+      }
+    ]
   },
   "70": {
     "id": 70,
@@ -2041,6 +2050,10 @@
       {
         "id": 46,
         "value": "Bernheim, Hippolyte"
+      },
+      {
+        "id": 90,
+        "value": "Griesinger, Wilhelm"
       }
     ]
   },
@@ -2294,7 +2307,12 @@
     "order": "313.00000000000000000000",
     "name": "Klassischer Philologe/Klassische Philologin",
     "frd_id": "frd_prof_313",
-    "persons": []
+    "persons": [
+      {
+        "id": 85,
+        "value": "Graffunder, Paul"
+      }
+    ]
   },
   "314": {
     "id": 314,
@@ -2721,7 +2739,12 @@
     "order": "374.00000000000000000000",
     "name": "Lehrer/Lehrerin",
     "frd_id": "frd_prof_374",
-    "persons": []
+    "persons": [
+      {
+        "id": 93,
+        "value": "Gutfeldt, Ina"
+      }
+    ]
   },
   "375": {
     "id": 375,
@@ -3450,7 +3473,12 @@
     "order": "473.00000000000000000000",
     "name": "Pädagoge/Pädagogin",
     "frd_id": "frd_prof_473",
-    "persons": []
+    "persons": [
+      {
+        "id": 92,
+        "value": "Guàrdia Bagur, Josep Miquel"
+      }
+    ]
   },
   "474": {
     "id": 474,
@@ -3629,6 +3657,18 @@
       {
         "id": 87,
         "value": "Goblot, Edmond"
+      },
+      {
+        "id": 91,
+        "value": "Grot, Nikolaj Jakovlevič"
+      },
+      {
+        "id": 92,
+        "value": "Guàrdia Bagur, Josep Miquel"
+      },
+      {
+        "id": 94,
+        "value": "Haffner, Paul Leopold"
       }
     ]
   },
@@ -3911,6 +3951,10 @@
       {
         "id": 75,
         "value": "Féré, Charles"
+      },
+      {
+        "id": 90,
+        "value": "Griesinger, Wilhelm"
       }
     ]
   },
@@ -4386,6 +4430,10 @@
       {
         "id": 68,
         "value": "Erdmann, Johann Eduard"
+      },
+      {
+        "id": 93,
+        "value": "Gutfeldt, Ina"
       }
     ]
   },

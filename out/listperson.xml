@@ -1011,9 +1011,10 @@
                </person>
                <person xml:id="frd_person_85">
                   <persName>
-                     <forename/>
-                     <surname/>
+                     <forename>Paul</forename>
+                     <surname>Graffunder</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116819952</idno>
                   <note/>
                </person>
                <person xml:id="frd_person_86">
@@ -1033,8 +1034,8 @@
                </person>
                <person xml:id="frd_person_88">
                   <persName>
-                     <forename/>
-                     <surname/>
+                     <forename>Frederick</forename>
+                     <surname>Greenwood</surname>
                   </persName>
                   <note/>
                </person>
@@ -1044,6 +1045,60 @@
                      <surname>Gould</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/1055233482</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_90">
+                  <persName>
+                     <forename>Wilhelm</forename>
+                     <surname>Griesinger</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11854215X</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_91">
+                  <persName>
+                     <forename>Nikolaj Jakovlevič</forename>
+                     <surname>Grot</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116873973</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_92">
+                  <persName>
+                     <forename>Josep Miquel</forename>
+                     <surname>Guàrdia Bagur</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1055181660</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_93">
+                  <persName>
+                     <forename>Ina</forename>
+                     <surname>Gutfeldt</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116931868</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_94">
+                  <persName>
+                     <forename>Paul Leopold</forename>
+                     <surname>Haffner</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116370262</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_95">
+                  <persName>
+                     <forename>Florence</forename>
+                     <surname>Hallam</surname>
+                  </persName>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_96">
+                  <persName>
+                     <forename>Sarah</forename>
+                     <surname>Weed</surname>
+                  </persName>
                   <note/>
                </person>
             </listPerson>
