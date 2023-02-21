@@ -83,3 +83,8 @@ https://d-nb.info/gnd/116873973|Grot, Nikolaj Jakovlevič|https://freud.acdh-dev
 https://d-nb.info/gnd/1055181660|Guàrdia Bagur, Josep Miquel|https://freud.acdh-dev.oeaw.ac.at/frd_person_92.html
 https://d-nb.info/gnd/116931868|Gutfeldt, Ina|https://freud.acdh-dev.oeaw.ac.at/frd_person_93.html
 https://d-nb.info/gnd/116370262|Haffner, Paul Leopold|https://freud.acdh-dev.oeaw.ac.at/frd_person_94.html
+https://d-nb.info/gnd/116444797|Hampe, Theodor|https://freud.acdh-dev.oeaw.ac.at/frd_person_97.html
+https://d-nb.info/gnd/12749877X|Heerwagen, Friedrich|https://freud.acdh-dev.oeaw.ac.at/frd_person_98.html
+https://d-nb.info/gnd/116717025|Hennings, Justus Christian|https://freud.acdh-dev.oeaw.ac.at/frd_person_99.html
+https://d-nb.info/gnd/119242559|Henzen, Wilhelm|https://freud.acdh-dev.oeaw.ac.at/frd_person_100.html
+https://d-nb.info/gnd/120315505|Hervey de Saint-Denys, Léon d'|https://freud.acdh-dev.oeaw.ac.at/frd_person_101.html

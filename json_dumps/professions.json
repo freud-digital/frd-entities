@@ -471,7 +471,12 @@
     "order": "61.00000000000000000000",
     "name": "Bibliothekar/Bibliothekarin",
     "frd_id": "frd_prof_61",
-    "persons": []
+    "persons": [
+      {
+        "id": 97,
+        "value": "Hampe, Theodor"
+      }
+    ]
   },
   "62": {
     "id": 62,
@@ -946,14 +951,24 @@
     "order": "126.00000000000000000000",
     "name": "Dramatiker/Dramatikerin",
     "frd_id": "frd_prof_126",
-    "persons": []
+    "persons": [
+      {
+        "id": 100,
+        "value": "Henzen, Wilhelm"
+      }
+    ]
   },
   "127": {
     "id": 127,
     "order": "127.00000000000000000000",
     "name": "Dramaturg/Dramaturgin",
     "frd_id": "frd_prof_127",
-    "persons": []
+    "persons": [
+      {
+        "id": 100,
+        "value": "Henzen, Wilhelm"
+      }
+    ]
   },
   "128": {
     "id": 128,
@@ -1990,7 +2005,12 @@
     "order": "271.00000000000000000000",
     "name": "Ingenieur/Ingenieurin",
     "frd_id": "frd_prof_271",
-    "persons": []
+    "persons": [
+      {
+        "id": 98,
+        "value": "Heerwagen, Friedrich"
+      }
+    ]
   },
   "272": {
     "id": 272,
@@ -2627,7 +2647,12 @@
     "order": "358.00000000000000000000",
     "name": "Kunsthistoriker/Kunsthistorikerin",
     "frd_id": "frd_prof_358",
-    "persons": []
+    "persons": [
+      {
+        "id": 97,
+        "value": "Hampe, Theodor"
+      }
+    ]
   },
   "359": {
     "id": 359,
@@ -2800,7 +2825,12 @@
     "order": "382.00000000000000000000",
     "name": "Librettist/Librettistin",
     "frd_id": "frd_prof_382",
-    "persons": []
+    "persons": [
+      {
+        "id": 100,
+        "value": "Henzen, Wilhelm"
+      }
+    ]
   },
   "383": {
     "id": 383,
@@ -3669,6 +3699,10 @@
       {
         "id": 94,
         "value": "Haffner, Paul Leopold"
+      },
+      {
+        "id": 99,
+        "value": "Hennings, Justus Christian"
       }
     ]
   },
@@ -3693,6 +3727,10 @@
       {
         "id": 73,
         "value": "Fechner, Gustav Theodor"
+      },
+      {
+        "id": 98,
+        "value": "Heerwagen, Friedrich"
       }
     ]
   },
@@ -4434,6 +4472,10 @@
       {
         "id": 93,
         "value": "Gutfeldt, Ina"
+      },
+      {
+        "id": 100,
+        "value": "Henzen, Wilhelm"
       }
     ]
   },

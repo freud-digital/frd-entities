@@ -1101,6 +1101,46 @@
                   </persName>
                   <note/>
                </person>
+               <person xml:id="frd_person_97">
+                  <persName>
+                     <forename>Theodor</forename>
+                     <surname>Hampe</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116444797</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_98">
+                  <persName>
+                     <forename>Friedrich</forename>
+                     <surname>Heerwagen</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/12749877X</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_99">
+                  <persName>
+                     <forename>Justus Christian</forename>
+                     <surname>Hennings</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116717025</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_100">
+                  <persName>
+                     <forename>Wilhelm</forename>
+                     <surname>Henzen</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119242559</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_101">
+                  <persName>
+                     <forename>Léon d'</forename>
+                     <surname>Hervey de Saint-Denys</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/120315505</idno>
+                  <note/>
+               </person>
             </listPerson>
          </div>
       </body>

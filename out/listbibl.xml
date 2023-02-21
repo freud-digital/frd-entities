@@ -544,6 +544,194 @@
             </imprint>
           </monogr>
         </biblStruct>
+        <biblStruct type="book" xml:id="zotero__7XC58JJ2" corresp="http://zotero.org/groups/4690432/items/7XC58JJ2">
+          <monogr>
+            <title level="m">Über den Traum</title>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wiesbaden</pubPlace>
+              <publisher>J. F. Bergmann</publisher>
+              <date>1901</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Grenzfragen des Nerven- und Seelenlebens</title>
+            <biblScope unit="volume">8</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__J8VUJQGR" corresp="http://zotero.org/groups/4690432/items/J8VUJQGR">
+          <analytic>
+            <title level="a">Über den Gegensinn der Urworte</title>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Jahrbuch für psychoanalytische und psychopathologische Forschungen</title>
+            <imprint>
+              <biblScope unit="volume">2</biblScope>
+              <biblScope unit="page">179-184</biblScope>
+              <date>1910</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__H9GTRDRF" corresp="http://zotero.org/groups/4690432/items/H9GTRDRF">
+          <analytic>
+            <title level="a">Zur Kritik der "Angstneurose"</title>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Wiener klinische Rundschau</title>
+            <imprint>
+              <biblScope unit="volume">9</biblScope>
+              <biblScope unit="issue">27, 28, 29</biblScope>
+              <biblScope unit="page">417-419, 435-437, 451-452</biblScope>
+              <date>1895</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__SPXBCFRG" corresp="http://zotero.org/groups/4690432/items/SPXBCFRG">
+          <monogr>
+            <title level="m">Gesamtausgabe. Band 9, 1903-1905</title>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+            <edition>hg. v. Christfried Tögel u. Mitarb. v. Urban Zerfaß</edition>
+            <imprint>
+              <pubPlace>Gießen</pubPlace>
+              <biblScope unit="volume">9</biblScope>
+              <publisher>Psychosozial-Verlag</publisher>
+              <date>2017</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__T9TAU766" corresp="http://zotero.org/groups/4690432/items/T9TAU766">
+          <analytic>
+            <title level="a">Ein Fall von hypnotischer Heilung nebst Bemerkungen über die Entstehung hysterischer Symptome durch den "Gegenwillen"</title>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Zeitschrift für Hypnotismus, Suggestionstherapie, Suggestionslehre und verwandte psychologische Forschungen</title>
+            <imprint>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">102-107</biblScope>
+              <date>1892</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__WP5QCST7" corresp="http://zotero.org/groups/4690432/items/WP5QCST7">
+          <analytic>
+            <title level="a">Über die Berechtigung, von der Neurasthenie einen bestimmten Symptomenkomplex als ‚Angstneurose‘ abzutrennen</title>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Neurologisches Centralblatt</title>
+            <imprint>
+              <biblScope unit="volume">14</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">50-66</biblScope>
+              <date>1895</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__EJRBBH9V" corresp="http://zotero.org/groups/4690432/items/EJRBBH9V">
+          <monogr>
+            <title/>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__GWSA8K86" corresp="http://zotero.org/groups/4690432/items/GWSA8K86">
+          <monogr>
+            <title level="m">Les rêves et les moyens de les diriger. Observations pratiques</title>
+            <author>
+              <forename>Léon d'</forename>
+              <surname>Hervey de Saint-Denys</surname>
+            </author>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Amyot</publisher>
+              <date>1867</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__QQFFBQZ3" corresp="http://zotero.org/groups/4690432/items/QQFFBQZ3">
+          <monogr>
+            <title level="m">Über die Träume in der altnordischen Sagaliteratur</title>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Henzen</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Gustav Fock</publisher>
+              <date>1890</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__EZ99K9HK" corresp="http://zotero.org/groups/4690432/items/EZ99K9HK">
+          <monogr>
+            <title level="m">Von Träumen und Nachtwandlern</title>
+            <author>
+              <forename>Justus Christian</forename>
+              <surname>Hennings</surname>
+            </author>
+            <imprint>
+              <pubPlace>Weimar</pubPlace>
+              <date>1802</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__CRZTZRNX" corresp="http://zotero.org/groups/4690432/items/CRZTZRNX">
+          <analytic>
+            <title level="a">Statistische Untersuchungen über Träume und Schlaf</title>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Heerwagen</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Philosophische Studien</title>
+            <imprint>
+              <biblScope unit="volume">5</biblScope>
+              <biblScope unit="page">88</biblScope>
+              <date>1888</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__I8GM59PA" corresp="http://zotero.org/groups/4690432/items/I8GM59PA">
+          <analytic>
+            <title level="a">Über Hans Sachens Traumgedichte</title>
+            <author>
+              <forename>Theodor</forename>
+              <surname>Hampe</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Zeitschrift für den deutschen Unterricht</title>
+            <imprint>
+              <biblScope unit="volume">10</biblScope>
+              <biblScope unit="page">616-624</biblScope>
+              <date>1896</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="zotero__VI5UUJXM" corresp="http://zotero.org/groups/4690432/items/VI5UUJXM">
           <monogr>
             <title level="m">Die Träume, ein Gegenstand wissenschaftlicher Analyse (russ.)</title>
@@ -1282,111 +1470,6 @@ Die Pathologie und Therapie der psychischen Krankheiten für Aerzte und Studiren
               <date>1864</date>
               <note type="accessed">2022-09-30T09:18:18Z</note>
               <note type="url">http://data.onb.ac.at/ABO/%2BZ226389206</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__7XC58JJ2" corresp="http://zotero.org/groups/4690432/items/7XC58JJ2">
-          <monogr>
-            <title level="m">Über den Traum</title>
-            <author>
-              <forename>Sigmund</forename>
-              <surname>Freud</surname>
-            </author>
-            <imprint>
-              <pubPlace>Wiesbaden</pubPlace>
-              <publisher>J. F. Bergmann</publisher>
-              <date>1901</date>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Grenzfragen des Nerven- und Seelenlebens</title>
-            <biblScope unit="volume">8</biblScope>
-          </series>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__J8VUJQGR" corresp="http://zotero.org/groups/4690432/items/J8VUJQGR">
-          <analytic>
-            <title level="a">Über den Gegensinn der Urworte</title>
-            <author>
-              <forename>Sigmund</forename>
-              <surname>Freud</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Jahrbuch für psychoanalytische und psychopathologische Forschungen</title>
-            <imprint>
-              <biblScope unit="volume">2</biblScope>
-              <biblScope unit="page">179-184</biblScope>
-              <date>1910</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__H9GTRDRF" corresp="http://zotero.org/groups/4690432/items/H9GTRDRF">
-          <analytic>
-            <title level="a">Zur Kritik der "Angstneurose"</title>
-            <author>
-              <forename>Sigmund</forename>
-              <surname>Freud</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Wiener klinische Rundschau</title>
-            <imprint>
-              <biblScope unit="volume">9</biblScope>
-              <biblScope unit="issue">27, 28, 29</biblScope>
-              <biblScope unit="page">417-419, 435-437, 451-452</biblScope>
-              <date>1895</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__SPXBCFRG" corresp="http://zotero.org/groups/4690432/items/SPXBCFRG">
-          <monogr>
-            <title level="m">Gesamtausgabe. Band 9, 1903-1905</title>
-            <author>
-              <forename>Sigmund</forename>
-              <surname>Freud</surname>
-            </author>
-            <edition>hg. v. Christfried Tögel u. Mitarb. v. Urban Zerfaß</edition>
-            <imprint>
-              <pubPlace>Gießen</pubPlace>
-              <biblScope unit="volume">9</biblScope>
-              <publisher>Psychosozial-Verlag</publisher>
-              <date>2017</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__T9TAU766" corresp="http://zotero.org/groups/4690432/items/T9TAU766">
-          <analytic>
-            <title level="a">Ein Fall von hypnotischer Heilung nebst Bemerkungen über die Entstehung hysterischer Symptome durch den "Gegenwillen"</title>
-            <author>
-              <forename>Sigmund</forename>
-              <surname>Freud</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Zeitschrift für Hypnotismus, Suggestionstherapie, Suggestionslehre und verwandte psychologische Forschungen</title>
-            <imprint>
-              <biblScope unit="volume">1</biblScope>
-              <biblScope unit="issue">3</biblScope>
-              <biblScope unit="page">102-107</biblScope>
-              <date>1892</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__WP5QCST7" corresp="http://zotero.org/groups/4690432/items/WP5QCST7">
-          <analytic>
-            <title level="a">Über die Berechtigung, von der Neurasthenie einen bestimmten Symptomenkomplex als ‚Angstneurose‘ abzutrennen</title>
-            <author>
-              <forename>Sigmund</forename>
-              <surname>Freud</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Neurologisches Centralblatt</title>
-            <imprint>
-              <biblScope unit="volume">14</biblScope>
-              <biblScope unit="issue">2</biblScope>
-              <biblScope unit="page">50-66</biblScope>
-              <date>1895</date>
             </imprint>
           </monogr>
         </biblStruct>

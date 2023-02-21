@@ -1903,5 +1903,125 @@
     "pmb": "",
     "labels": [],
     "wikidata": ""
+  },
+  "97": {
+    "id": 97,
+    "order": "94.00000000000000000000",
+    "name": "Hampe, Theodor",
+    "frd_id": "frd_person_97",
+    "gnd_id": "https://d-nb.info/gnd/116444797",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 61,
+        "value": "Bibliothekar/Bibliothekarin"
+      },
+      {
+        "id": 358,
+        "value": "Kunsthistoriker/Kunsthistorikerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "98": {
+    "id": 98,
+    "order": "95.00000000000000000000",
+    "name": "Heerwagen, Friedrich",
+    "frd_id": "frd_person_98",
+    "gnd_id": "https://d-nb.info/gnd/12749877X",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 271,
+        "value": "Ingenieur/Ingenieurin"
+      },
+      {
+        "id": 494,
+        "value": "Physiker/Physikerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "99": {
+    "id": 99,
+    "order": "96.00000000000000000000",
+    "name": "Hennings, Justus Christian",
+    "frd_id": "frd_person_99",
+    "gnd_id": "https://d-nb.info/gnd/116717025",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "100": {
+    "id": 100,
+    "order": "97.00000000000000000000",
+    "name": "Henzen, Wilhelm",
+    "frd_id": "frd_person_100",
+    "gnd_id": "https://d-nb.info/gnd/119242559",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 126,
+        "value": "Dramatiker/Dramatikerin"
+      },
+      {
+        "id": 127,
+        "value": "Dramaturg/Dramaturgin"
+      },
+      {
+        "id": 382,
+        "value": "Librettist/Librettistin"
+      },
+      {
+        "id": 586,
+        "value": "Schriftsteller/Schriftstellerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "101": {
+    "id": 101,
+    "order": "98.00000000000000000000",
+    "name": "Hervey de Saint-Denys, Léon d'",
+    "frd_id": "frd_person_101",
+    "gnd_id": "https://d-nb.info/gnd/120315505",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
   }
 }
