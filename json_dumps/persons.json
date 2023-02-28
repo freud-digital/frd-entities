@@ -1099,7 +1099,7 @@
   "57": {
     "id": 57,
     "order": "57.00000000000000000000",
-    "name": "Kingsford, Anna",
+    "name": "Kingsford, Anna Bonus",
     "frd_id": "frd_person_57",
     "gnd_id": "https://d-nb.info/gnd/118562231",
     "birth_year": null,
@@ -2019,6 +2019,294 @@
     "death_year": null,
     "place_of_death": [],
     "bio": "",
+    "profession": [
+      {
+        "id": 586,
+        "value": "Schriftsteller/Schriftstellerin"
+      },
+      {
+        "id": 730,
+        "value": "Sinologe/Sinologin"
+      },
+      {
+        "id": 731,
+        "value": "Traumforscher/Traumforscherin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "102": {
+    "id": 102,
+    "order": "99.00000000000000000000",
+    "name": "Hildebrandt, Friedrich Wilhelm",
+    "frd_id": "frd_person_102",
+    "gnd_id": "https://d-nb.info/gnd/116803967",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 487,
+        "value": "Pfarrer/Pfarrerin"
+      },
+      {
+        "id": 729,
+        "value": "Superintendent"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "103": {
+    "id": 103,
+    "order": "100.00000000000000000000",
+    "name": "Friedrich Hitschmann",
+    "frd_id": "frd_person_103",
+    "gnd_id": "",
+    "birth_year": "1866",
+    "place_of_birth": [],
+    "death_year": "1894",
+    "place_of_death": [],
+    "bio": "Erblindete nach eigenen Angaben im Alter von 3 Jahren. Er besuchte ab 1878 das Israelitische Blinden-Institut zur Hohen Warte in Wien unter der Leitung von Simon Heller. Prägte den Begriff der \"Surrogatvorstellungen\" .(https://www.hitschmann.net/friedrich_hitschmann)",
+    "profession": [
+      {
+        "id": 586,
+        "value": "Schriftsteller/Schriftstellerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "104": {
+    "id": 104,
+    "order": "101.00000000000000000000",
+    "name": "Hippocrates",
+    "frd_id": "frd_person_104",
+    "gnd_id": "https://d-nb.info/gnd/11855140X",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "105": {
+    "id": 105,
+    "order": "102.00000000000000000000",
+    "name": "Jastrow, Joseph",
+    "frd_id": "frd_person_105",
+    "gnd_id": "https://d-nb.info/gnd/1055123873",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 526,
+        "value": "Psychologe/Psychologin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "106": {
+    "id": 106,
+    "order": "103.00000000000000000000",
+    "name": "Ideler, Karl Wilhelm",
+    "frd_id": "frd_person_106",
+    "gnd_id": "https://d-nb.info/gnd/118555316",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      },
+      {
+        "id": 244,
+        "value": "Hochschullehrer/Hochschullehrerin"
+      },
+      {
+        "id": 524,
+        "value": "Psychiater/Psychiaterin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "107": {
+    "id": 107,
+    "order": "104.00000000000000000000",
+    "name": "Jean Paul",
+    "frd_id": "frd_person_107",
+    "gnd_id": "https://d-nb.info/gnd/118557211",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Eig. \tRichter, Jean Paul Friedrich",
+    "profession": [
+      {
+        "id": 382,
+        "value": "Librettist/Librettistin"
+      },
+      {
+        "id": 394,
+        "value": "Lyriker/Lyrikerin"
+      },
+      {
+        "id": 586,
+        "value": "Schriftsteller/Schriftstellerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "108": {
+    "id": 108,
+    "order": "105.00000000000000000000",
+    "name": "Jensen, Julius",
+    "frd_id": "frd_person_108",
+    "gnd_id": "https://d-nb.info/gnd/117104450",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "109": {
+    "id": 109,
+    "order": "106.00000000000000000000",
+    "name": "Jessen, Peter Willers",
+    "frd_id": "frd_person_109",
+    "gnd_id": "https://d-nb.info/gnd/124906737",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 524,
+        "value": "Psychiater/Psychiaterin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "110": {
+    "id": 110,
+    "order": "107.00000000000000000000",
+    "name": "Jodl, Friedrich",
+    "frd_id": "frd_person_110",
+    "gnd_id": "https://d-nb.info/gnd/119305429",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "111": {
+    "id": 111,
+    "order": "108.00000000000000000000",
+    "name": "Kant, Immanuel",
+    "frd_id": "frd_person_111",
+    "gnd_id": "https://d-nb.info/gnd/118559796",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "112": {
+    "id": 112,
+    "order": "109.00000000000000000000",
+    "name": "Kirchmann, Julius H. von",
+    "frd_id": "frd_person_112",
+    "gnd_id": "https://d-nb.info/gnd/118841726",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 283,
+        "value": "Jurist/Juristin"
+      },
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      },
+      {
+        "id": 501,
+        "value": "Politiker/Politikerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "113": {
+    "id": 113,
+    "order": "110.00000000000000000000",
+    "name": "Kloepfel, F.",
+    "frd_id": "frd_person_113",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "nicht identifiziert; schreibt über \"Täumerei und Traum. Allerlei aus unserem Traumleben\" in der Familienzeitschrift \"Universum\" (15. Jg, 1899)",
     "profession": [],
     "pmb": "",
     "labels": [],

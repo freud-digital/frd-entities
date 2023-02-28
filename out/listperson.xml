@@ -802,7 +802,7 @@
                </person>
                <person xml:id="frd_person_57">
                   <persName>
-                     <forename>Anna</forename>
+                     <forename>Anna Bonus</forename>
                      <surname>Kingsford</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118562231</idno>
@@ -1140,6 +1140,106 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/120315505</idno>
                   <note/>
+               </person>
+               <person xml:id="frd_person_102">
+                  <persName>
+                     <forename>Friedrich Wilhelm</forename>
+                     <surname>Hildebrandt</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116803967</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_103">
+                  <persName>
+                     <forename/>
+                     <surname>Friedrich Hitschmann</surname>
+                  </persName>
+                  <birth>
+                     <date when="1866">1866</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1894">1894</date>
+                  </death>
+                  <note>Erblindete nach eigenen Angaben im Alter von 3 Jahren. Er besuchte ab 1878 das Israelitische Blinden-Institut zur Hohen Warte in Wien unter der Leitung von Simon Heller. Prägte den Begriff der "Surrogatvorstellungen" .(https://www.hitschmann.net/friedrich_hitschmann)</note>
+               </person>
+               <person xml:id="frd_person_104">
+                  <persName>
+                     <forename/>
+                     <surname>Hippocrates</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11855140X</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_105">
+                  <persName>
+                     <forename>Joseph</forename>
+                     <surname>Jastrow</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1055123873</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_106">
+                  <persName>
+                     <forename>Karl Wilhelm</forename>
+                     <surname>Ideler</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118555316</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_107">
+                  <persName>
+                     <forename/>
+                     <surname>Jean Paul</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118557211</idno>
+                  <note>Eig. 	Richter, Jean Paul Friedrich</note>
+               </person>
+               <person xml:id="frd_person_108">
+                  <persName>
+                     <forename>Julius</forename>
+                     <surname>Jensen</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117104450</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_109">
+                  <persName>
+                     <forename>Peter Willers</forename>
+                     <surname>Jessen</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/124906737</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_110">
+                  <persName>
+                     <forename>Friedrich</forename>
+                     <surname>Jodl</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119305429</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_111">
+                  <persName>
+                     <forename>Immanuel</forename>
+                     <surname>Kant</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118559796</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_112">
+                  <persName>
+                     <forename>Julius H. von</forename>
+                     <surname>Kirchmann</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118841726</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_113">
+                  <persName>
+                     <forename>F.</forename>
+                     <surname>Kloepfel</surname>
+                  </persName>
+                  <note>nicht identifiziert; schreibt über "Täumerei und Traum. Allerlei aus unserem Traumleben" in der Familienzeitschrift "Universum" (15. Jg, 1899)</note>
                </person>
             </listPerson>
          </div>

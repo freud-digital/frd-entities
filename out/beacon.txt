@@ -56,7 +56,7 @@ https://d-nb.info/gnd/119498170|Burdach, Karl Friedrich|https://freud.acdh-dev.o
 https://d-nb.info/gnd/118651013|Auer von Welsbach, Carl, Freiherr von|https://freud.acdh-dev.oeaw.ac.at/frd_person_54.html
 https://d-nb.info/gnd/118702610|Galton, Francis|https://freud.acdh-dev.oeaw.ac.at/frd_person_55.html
 https://d-nb.info/gnd/126790922|Delboeuf, Joseph-Remi-Léopold|https://freud.acdh-dev.oeaw.ac.at/frd_person_56.html
-https://d-nb.info/gnd/118562231|Kingsford, Anna|https://freud.acdh-dev.oeaw.ac.at/frd_person_57.html
+https://d-nb.info/gnd/118562231|Kingsford, Anna Bonus|https://freud.acdh-dev.oeaw.ac.at/frd_person_57.html
 https://d-nb.info/gnd/116803967|Hildebrandt, Friedrich Wilhelm|https://freud.acdh-dev.oeaw.ac.at/frd_person_58.html
 https://d-nb.info/gnd/11883018X|Freud, Martha|https://freud.acdh-dev.oeaw.ac.at/frd_person_59.html
 https://d-nb.info/gnd/118612271|Schwind, Moritz von|https://freud.acdh-dev.oeaw.ac.at/frd_person_60.html
@@ -88,3 +88,13 @@ https://d-nb.info/gnd/12749877X|Heerwagen, Friedrich|https://freud.acdh-dev.oeaw
 https://d-nb.info/gnd/116717025|Hennings, Justus Christian|https://freud.acdh-dev.oeaw.ac.at/frd_person_99.html
 https://d-nb.info/gnd/119242559|Henzen, Wilhelm|https://freud.acdh-dev.oeaw.ac.at/frd_person_100.html
 https://d-nb.info/gnd/120315505|Hervey de Saint-Denys, Léon d'|https://freud.acdh-dev.oeaw.ac.at/frd_person_101.html
+https://d-nb.info/gnd/116803967|Hildebrandt, Friedrich Wilhelm|https://freud.acdh-dev.oeaw.ac.at/frd_person_102.html
+https://d-nb.info/gnd/11855140X|Hippocrates|https://freud.acdh-dev.oeaw.ac.at/frd_person_104.html
+https://d-nb.info/gnd/1055123873|Jastrow, Joseph|https://freud.acdh-dev.oeaw.ac.at/frd_person_105.html
+https://d-nb.info/gnd/118555316|Ideler, Karl Wilhelm|https://freud.acdh-dev.oeaw.ac.at/frd_person_106.html
+https://d-nb.info/gnd/118557211|Jean Paul|https://freud.acdh-dev.oeaw.ac.at/frd_person_107.html
+https://d-nb.info/gnd/117104450|Jensen, Julius|https://freud.acdh-dev.oeaw.ac.at/frd_person_108.html
+https://d-nb.info/gnd/124906737|Jessen, Peter Willers|https://freud.acdh-dev.oeaw.ac.at/frd_person_109.html
+https://d-nb.info/gnd/119305429|Jodl, Friedrich|https://freud.acdh-dev.oeaw.ac.at/frd_person_110.html
+https://d-nb.info/gnd/118559796|Kant, Immanuel|https://freud.acdh-dev.oeaw.ac.at/frd_person_111.html
+https://d-nb.info/gnd/118841726|Kirchmann, Julius H. von|https://freud.acdh-dev.oeaw.ac.at/frd_person_112.html
