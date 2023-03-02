@@ -98,3 +98,4 @@ https://d-nb.info/gnd/124906737|Jessen, Peter Willers|https://freud.acdh-dev.oea
 https://d-nb.info/gnd/119305429|Jodl, Friedrich|https://freud.acdh-dev.oeaw.ac.at/frd_person_110.html
 https://d-nb.info/gnd/118559796|Kant, Immanuel|https://freud.acdh-dev.oeaw.ac.at/frd_person_111.html
 https://d-nb.info/gnd/118841726|Kirchmann, Julius H. von|https://freud.acdh-dev.oeaw.ac.at/frd_person_112.html
+https://d-nb.info/gnd/1037862201|Kramář, Oldřich|https://freud.acdh-dev.oeaw.ac.at/frd_person_114.html

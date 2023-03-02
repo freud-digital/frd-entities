@@ -542,7 +542,12 @@
     "order": "68.00000000000000000000",
     "name": "Biologe/Biologin",
     "frd_id": "frd_prof_68",
-    "persons": []
+    "persons": [
+      {
+        "id": 114,
+        "value": "Kramář, Oldřich"
+      }
+    ]
   },
   "69": {
     "id": 69,

@@ -1241,6 +1241,21 @@
                   </persName>
                   <note>nicht identifiziert; schreibt über "Täumerei und Traum. Allerlei aus unserem Traumleben" in der Familienzeitschrift "Universum" (15. Jg, 1899)</note>
                </person>
+               <person xml:id="frd_person_114">
+                  <persName>
+                     <forename>Oldřich</forename>
+                     <surname>Kramář</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1037862201</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_115">
+                  <persName>
+                     <forename>Emil von</forename>
+                     <surname>Krasnicki</surname>
+                  </persName>
+                  <note>nicht identifiziert; berichtet von Wahrtraum Karls IV. (Psychische Studien, 24. Jg. 1897, Heft 12, Dezember, S. 697-701)</note>
+               </person>
             </listPerson>
          </div>
       </body>
