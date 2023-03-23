@@ -930,6 +930,75 @@
             </imprint>
           </monogr>
         </biblStruct>
+        <biblStruct type="book" xml:id="zotero__2GH4U4RW" corresp="http://zotero.org/groups/4690432/items/2GH4U4RW">
+          <monogr>
+            <title level="m">Ernste Spiele: Vortraege, theils neu theils längst vergessen / J. E. Erdmann.</title>
+            <title type="short">Ernste Spiele</title>
+            <author>
+              <forename>Johann Eduard</forename>
+              <surname>Erdmann</surname>
+            </author>
+            <edition>3.Aufl.</edition>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Hertz</publisher>
+              <date>1875</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__6ABJE33D" corresp="http://zotero.org/groups/4690432/items/6ABJE33D">
+          <monogr>
+            <title level="m">Psychologische Briefe</title>
+            <idno type="callNumber">279724-B</idno>
+            <author>
+              <forename>Johann Eduard</forename>
+              <surname>Erdmann</surname>
+            </author>
+            <edition>6. Aufl..</edition>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Geibel</publisher>
+              <date>1882</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__BWTBE7KM" corresp="http://zotero.org/groups/4690432/items/BWTBE7KM">
+          <monogr>
+            <title level="m">Aus dem Traumleben</title>
+            <idno type="callNumber">390247-B-C.1895</idno>
+            <author>
+              <forename>Eduard</forename>
+              <surname>Kucera</surname>
+            </author>
+            <imprint>
+              <pubPlace>M. Weisskirchen</pubPlace>
+              <date>1895</date>
+              <note type="accessed">2023-03-23T11:45:22Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00541169</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Jahresbericht des k.k. Realgymnasiums zu Mähr.-Weißkirchen. 1895</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__SVVZ6F3P" corresp="http://zotero.org/groups/4690432/items/SVVZ6F3P">
+          <analytic>
+            <title level="a">Der Sinn im Wahnsinn. Eine psychiatrische Untersuchung</title>
+            <author>
+              <forename>A.</forename>
+              <surname>Krauss</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Allgemeine Zeitschrift für Psychiatrie und psychisch-gerichtliche Medizin</title>
+            <imprint>
+              <biblScope unit="volume">XV. und XVI. Jg.</biblScope>
+              <biblScope unit="issue">XV. Jg., Heft 6 (S. 617-671) und XVI. Jg., Heft 1 (S. 10-35)</biblScope>
+              <biblScope unit="page">XV. Jg., Heft 6 (S. 617-671) und XVI. Jg., Heft 1 (S. 10-35)</biblScope>
+              <date>1858</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="zotero__2SM24DPA" corresp="http://zotero.org/groups/4690432/items/2SM24DPA">
           <analytic>
             <title level="a">Karl's IV. Wahrtraum</title>
@@ -1701,38 +1770,6 @@ Die Pathologie und Therapie der psychischen Krankheiten für Aerzte und Studiren
               <publisher>Tempsky</publisher>
               <date>1974</date>
               <note type="url">https://search.onb.ac.at/primo-explore/fulldisplay?docid=ONB_alma21290216580003338&amp;context=L&amp;vid=ONB&amp;lang=de_DE&amp;search_scope=ONB_gesamtbestand&amp;adaptor=Local%20Search%20Engine&amp;tab=default_tab&amp;query=any,contains,vincenz%20van%20erk&amp;offset=0</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__2GH4U4RW" corresp="http://zotero.org/groups/4690432/items/2GH4U4RW">
-          <monogr>
-            <title level="m">Ernste Spiele: Vortraege, theils neu theils längst vergessen / J. E. Erdmann.</title>
-            <title type="short">Ernste Spiele</title>
-            <author>
-              <forename>Johann Eduard</forename>
-              <surname>Erdmann</surname>
-            </author>
-            <edition>3.Aufl.</edition>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Hertz</publisher>
-              <date>1875</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__6ABJE33D" corresp="http://zotero.org/groups/4690432/items/6ABJE33D">
-          <monogr>
-            <title level="m">Psychologische Briefe</title>
-            <idno type="callNumber">279724-B</idno>
-            <author>
-              <forename>Johann Eduard</forename>
-              <surname>Erdmann</surname>
-            </author>
-            <edition>6. Aufl..</edition>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <publisher>Geibel</publisher>
-              <date>1882</date>
             </imprint>
           </monogr>
         </biblStruct>

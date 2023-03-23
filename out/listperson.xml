@@ -1256,6 +1256,21 @@
                   </persName>
                   <note>nicht identifiziert; berichtet von Wahrtraum Karls IV. (Psychische Studien, 24. Jg. 1897, Heft 12, Dezember, S. 697-701)</note>
                </person>
+               <person xml:id="frd_person_116">
+                  <persName>
+                     <forename>August</forename>
+                     <surname>Krauss</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/128452730</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_117">
+                  <persName>
+                     <forename>Eduard</forename>
+                     <surname>Kucera</surname>
+                  </persName>
+                  <note>nicht identifiziert; Werke in onb</note>
+               </person>
             </listPerson>
          </div>
       </body>
