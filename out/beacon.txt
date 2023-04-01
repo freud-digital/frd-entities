@@ -100,3 +100,12 @@ https://d-nb.info/gnd/118559796|Kant, Immanuel|https://freud.acdh-dev.oeaw.ac.at
 https://d-nb.info/gnd/118841726|Kirchmann, Julius H. von|https://freud.acdh-dev.oeaw.ac.at/frd_person_112.html
 https://d-nb.info/gnd/1037862201|Kramář, Oldřich|https://freud.acdh-dev.oeaw.ac.at/frd_person_114.html
 https://d-nb.info/gnd/128452730|Krauss, August|https://freud.acdh-dev.oeaw.ac.at/frd_person_116.html
+https://d-nb.info/gnd/116643641|Ladd, George Trumbull|https://freud.acdh-dev.oeaw.ac.at/frd_person_118.html
+https://d-nb.info/gnd/116648163|Laistner, Ludwig|https://freud.acdh-dev.oeaw.ac.at/frd_person_119.html
+https://d-nb.info/gnd/1055370560|Saint-Paul, Georges|https://freud.acdh-dev.oeaw.ac.at/frd_person_122.html
+https://d-nb.info/gnd/117626546|Leidesdorf, Maximilian|https://freud.acdh-dev.oeaw.ac.at/frd_person_123.html
+https://d-nb.info/gnd/117635189|Lélut,  Louis-François|https://freud.acdh-dev.oeaw.ac.at/frd_person_125.html
+https://d-nb.info/gnd/173243142|Lemoine, Albert|https://freud.acdh-dev.oeaw.ac.at/frd_person_126.html
+https://d-nb.info/gnd/1157549411|Lerch, Matthäus Franz|https://freud.acdh-dev.oeaw.ac.at/frd_person_127.html
+https://d-nb.info/gnd/117671673|Liébeault, Ambroise-Auguste|https://freud.acdh-dev.oeaw.ac.at/frd_person_128.html
+https://d-nb.info/gnd/117057436|Lipps, Theodor|https://freud.acdh-dev.oeaw.ac.at/frd_person_129.html

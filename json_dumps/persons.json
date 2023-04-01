@@ -2373,7 +2373,7 @@
   "117": {
     "id": 117,
     "order": "114.00000000000000000000",
-    "name": "Kucera, Eduard",
+    "name": "Kučera, Eduard",
     "frd_id": "frd_person_117",
     "gnd_id": "",
     "birth_year": null,
@@ -2381,6 +2381,284 @@
     "death_year": null,
     "place_of_death": [],
     "bio": "nicht identifiziert; Werke in onb",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "118": {
+    "id": 118,
+    "order": "115.00000000000000000000",
+    "name": "Ladd, George Trumbull",
+    "frd_id": "frd_person_118",
+    "gnd_id": "https://d-nb.info/gnd/116643641",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "119": {
+    "id": 119,
+    "order": "116.00000000000000000000",
+    "name": "Laistner, Ludwig",
+    "frd_id": "frd_person_119",
+    "gnd_id": "https://d-nb.info/gnd/116648163",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 386,
+        "value": "Literarhistoriker/Literarhistorikerin"
+      },
+      {
+        "id": 586,
+        "value": "Schriftsteller/Schriftstellerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "120": {
+    "id": 120,
+    "order": "117.00000000000000000000",
+    "name": "Landau, M.",
+    "frd_id": "frd_person_120",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Dr. M. Landau. Nicht identifiziert.",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "121": {
+    "id": 121,
+    "order": "118.00000000000000000000",
+    "name": "Lasègue, Charles",
+    "frd_id": "frd_person_121",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Auch Ernest-Charles Lasègue; nicht auf lobid-gnd",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "122": {
+    "id": 122,
+    "order": "119.00000000000000000000",
+    "name": "Saint-Paul, Georges",
+    "frd_id": "frd_person_122",
+    "gnd_id": "https://d-nb.info/gnd/1055370560",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Veröffentlichte unter dem Pseudonym Dr. Laupts (sowie Espé de Metz, G.)",
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "123": {
+    "id": 123,
+    "order": "120.00000000000000000000",
+    "name": "Leidesdorf, Maximilian",
+    "frd_id": "frd_person_123",
+    "gnd_id": "https://d-nb.info/gnd/117626546",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 524,
+        "value": "Psychiater/Psychiaterin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "124": {
+    "id": 124,
+    "order": "121.00000000000000000000",
+    "name": "Le Lorrain, Jacques",
+    "frd_id": "frd_person_124",
+    "gnd_id": "",
+    "birth_year": "1856",
+    "place_of_birth": [],
+    "death_year": "1904",
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 38,
+        "value": "Autor/Autorin"
+      },
+      {
+        "id": 590,
+        "value": "Schuster/Schusterin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "125": {
+    "id": 125,
+    "order": "122.00000000000000000000",
+    "name": "Lélut,  Louis-François",
+    "frd_id": "frd_person_125",
+    "gnd_id": "https://d-nb.info/gnd/117635189",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      },
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "126": {
+    "id": 126,
+    "order": "123.00000000000000000000",
+    "name": "Lemoine, Albert",
+    "frd_id": "frd_person_126",
+    "gnd_id": "https://d-nb.info/gnd/173243142",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "127": {
+    "id": 127,
+    "order": "124.00000000000000000000",
+    "name": "Lerch, Matthäus Franz",
+    "frd_id": "frd_person_127",
+    "gnd_id": "https://d-nb.info/gnd/1157549411",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 221,
+        "value": "Gymnasiallehrer/Gymnasiallehrerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "128": {
+    "id": 128,
+    "order": "125.00000000000000000000",
+    "name": "Liébeault, Ambroise-Auguste",
+    "frd_id": "frd_person_128",
+    "gnd_id": "https://d-nb.info/gnd/117671673",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "129": {
+    "id": 129,
+    "order": "126.00000000000000000000",
+    "name": "Lipps, Theodor",
+    "frd_id": "frd_person_129",
+    "gnd_id": "https://d-nb.info/gnd/117057436",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 244,
+        "value": "Hochschullehrer/Hochschullehrerin"
+      },
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      },
+      {
+        "id": 526,
+        "value": "Psychologe/Psychologin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "130": {
+    "id": 130,
+    "order": "127.00000000000000000000",
+    "name": "Luksch, Leopoldine",
+    "frd_id": "frd_person_130",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Keine näheren Angaben gefunden. Zu Leopoldine Luksch, eine Österreicherin vgl. Psychische Studien 1917: http://dl.ub.uni-freiburg.de/diglit/psychische_studien1917/0093?sid=6720834936d3f2f837475f2536cdd3d1",
     "profession": [],
     "pmb": "",
     "labels": [],

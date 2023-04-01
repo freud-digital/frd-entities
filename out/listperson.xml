@@ -1267,9 +1267,115 @@
                <person xml:id="frd_person_117">
                   <persName>
                      <forename>Eduard</forename>
-                     <surname>Kucera</surname>
+                     <surname>Kučera</surname>
                   </persName>
                   <note>nicht identifiziert; Werke in onb</note>
+               </person>
+               <person xml:id="frd_person_118">
+                  <persName>
+                     <forename>George Trumbull</forename>
+                     <surname>Ladd</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116643641</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_119">
+                  <persName>
+                     <forename>Ludwig</forename>
+                     <surname>Laistner</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116648163</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_120">
+                  <persName>
+                     <forename>M.</forename>
+                     <surname>Landau</surname>
+                  </persName>
+                  <note>Dr. M. Landau. Nicht identifiziert.</note>
+               </person>
+               <person xml:id="frd_person_121">
+                  <persName>
+                     <forename>Charles</forename>
+                     <surname>Lasègue</surname>
+                  </persName>
+                  <note>Auch Ernest-Charles Lasègue; nicht auf lobid-gnd</note>
+               </person>
+               <person xml:id="frd_person_122">
+                  <persName>
+                     <forename>Georges</forename>
+                     <surname>Saint-Paul</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1055370560</idno>
+                  <note>Veröffentlichte unter dem Pseudonym Dr. Laupts (sowie Espé de Metz, G.)</note>
+               </person>
+               <person xml:id="frd_person_123">
+                  <persName>
+                     <forename>Maximilian</forename>
+                     <surname>Leidesdorf</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117626546</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_124">
+                  <persName>
+                     <forename>Jacques</forename>
+                     <surname>Le Lorrain</surname>
+                  </persName>
+                  <birth>
+                     <date when="1856">1856</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1904">1904</date>
+                  </death>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_125">
+                  <persName>
+                     <forename> Louis-François</forename>
+                     <surname>Lélut</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117635189</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_126">
+                  <persName>
+                     <forename>Albert</forename>
+                     <surname>Lemoine</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/173243142</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_127">
+                  <persName>
+                     <forename>Matthäus Franz</forename>
+                     <surname>Lerch</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1157549411</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_128">
+                  <persName>
+                     <forename>Ambroise-Auguste</forename>
+                     <surname>Liébeault</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117671673</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_129">
+                  <persName>
+                     <forename>Theodor</forename>
+                     <surname>Lipps</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117057436</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_130">
+                  <persName>
+                     <forename>Leopoldine</forename>
+                     <surname>Luksch</surname>
+                  </persName>
+                  <note>Keine näheren Angaben gefunden. Zu Leopoldine Luksch, eine Österreicherin vgl. Psychische Studien 1917: http://dl.ub.uni-freiburg.de/diglit/psychische_studien1917/0093?sid=6720834936d3f2f837475f2536cdd3d1</note>
                </person>
             </listPerson>
          </div>

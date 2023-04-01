@@ -962,13 +962,516 @@
             </imprint>
           </monogr>
         </biblStruct>
+        <biblStruct type="book" xml:id="zotero__N7PSQ3JN" corresp="http://zotero.org/groups/4690432/items/N7PSQ3JN">
+          <monogr>
+            <title level="m">Die physiologischen Beziehungen der Traumvorgänge</title>
+            <author>
+              <forename>Carl Max</forename>
+              <surname>Gießler</surname>
+            </author>
+            <imprint>
+              <pubPlace>Halle</pubPlace>
+              <publisher>M. Niemeyer</publisher>
+              <date>1896</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__K2WR675A" corresp="http://zotero.org/groups/4690432/items/K2WR675A">
+          <monogr>
+            <title level="m">Aus den Tiefen des Traumlebens (etc.)</title>
+            <idno type="callNumber">86287-B</idno>
+            <author>
+              <forename>Max</forename>
+              <surname>Giessler</surname>
+            </author>
+            <imprint>
+              <pubPlace>Halle/Saale</pubPlace>
+              <publisher>L. E. W. Pfeffer</publisher>
+              <date>1890</date>
+              <note type="accessed">2023-01-12T11:35:27Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00354812SZ01196768</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__JATAN7RV" corresp="http://zotero.org/groups/4690432/items/JATAN7RV">
+          <monogr>
+            <title level="m">Beiträge zur Phaenomenologie des Traumlebens</title>
+            <author>
+              <forename>Carl Max</forename>
+              <surname>Gießler</surname>
+            </author>
+            <imprint>
+              <pubPlace>Halle</pubPlace>
+              <date>1888</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__K4VTR99A" corresp="http://zotero.org/groups/4690432/items/K4VTR99A">
+          <monogr>
+            <title level="m">Der Mensch. Traum, Herz, Verstand</title>
+            <author>
+              <forename>Johann Heinrich</forename>
+              <surname>Frerichs</surname>
+            </author>
+            <imprint>
+              <date>1878</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__BUVJIBII" corresp="http://zotero.org/groups/4690432/items/BUVJIBII">
+          <monogr>
+            <title level="m">Schlaf und Traum</title>
+            <author>
+              <forename>Adolf</forename>
+              <surname>Frensberg</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope unit="volume">466</biblScope>
+              <date>1885</date>
+              <note type="url">https://archive.org/details/bub_gb_6lUEAAAAYAAJ/page/n371/mode/2up</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Sammlung gemeinverständlicher wissenschaftlicher Vorträge</title>
+            <biblScope unit="volume">20</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__IH9EHWW4" corresp="http://zotero.org/groups/4690432/items/IH9EHWW4">
+          <analytic>
+            <title level="a">Geschichte eines Traumes als Beitrag der transcendentalen Psychologie</title>
+            <author>
+              <forename>Hermann</forename>
+              <surname>Fornaschon</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Psychische Studien</title>
+            <imprint>
+              <biblScope unit="volume">24</biblScope>
+              <biblScope unit="issue">6</biblScope>
+              <biblScope unit="page">274-281</biblScope>
+              <date>1897</date>
+              <note type="url">http://dl.ub.uni-freiburg.de/diglit/psychische_studien1897/0001?page_query=274&amp;navmode=struct&amp;action=pagesearch&amp;sid=25d9dafe1e3bd1395460376eaf1dc9ff</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__S8IX964Q" corresp="http://zotero.org/groups/4690432/items/S8IX964Q">
+          <analytic>
+            <title level="a">Das Traumleben. Plauderei</title>
+            <author>
+              <forename>V.</forename>
+              <surname>Florentin</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Die alte und die neue Welt. Illustriertes Katholisches Familienblatt zur Unterhaltung und Belehrung</title>
+            <imprint>
+              <biblScope unit="volume">33</biblScope>
+              <biblScope unit="page">725</biblScope>
+              <date>1899</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__QBBF7B2S" corresp="http://zotero.org/groups/4690432/items/QBBF7B2S">
+          <monogr>
+            <title level="m">Ad artis veterum onirocriticae historiam symbola. Dissertatio Philologica</title>
+            <author>
+              <forename>Johann</forename>
+              <surname>Fischer</surname>
+            </author>
+            <imprint>
+              <pubPlace>Jena</pubPlace>
+              <date>1899</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__DJM87JIG" corresp="http://zotero.org/groups/4690432/items/DJM87JIG">
+          <analytic>
+            <title level="a">Les rêves d'accès chez les épileptiques</title>
+            <author>
+              <forename>Charles</forename>
+              <surname>Féré</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">La Med. mod.</title>
+            <imprint>
+              <date>1897</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__25UGUZCP" corresp="http://zotero.org/groups/4690432/items/25UGUZCP">
+          <analytic>
+            <title level="a">A contribution to the pathology of dreams and of hysterical Paralysis</title>
+            <author>
+              <forename>Charles</forename>
+              <surname>Féré</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Brain. A Journal of Neurology</title>
+            <imprint>
+              <biblScope unit="volume">9</biblScope>
+              <biblScope unit="page">488-493</biblScope>
+              <date>1887</date>
+              <note type="url">https://archive.org/details/brainjournalofne09londuoft/page/488/mode/2up</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__XS8DAG2C" corresp="http://zotero.org/groups/4690432/items/XS8DAG2C">
+          <analytic>
+            <title level="a">L'azione suggestiva delle cause esterne nei sogni</title>
+            <author>
+              <forename>Carlo</forename>
+              <surname>Fenizia</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Archivio per l’Antropologia e la Etnologia</title>
+            <imprint>
+              <biblScope unit="volume">26</biblScope>
+              <biblScope unit="page">287-294</biblScope>
+              <date>1896</date>
+              <note type="url">https://babel.hathitrust.org/cgi/pt?id=hvd.32044041880899&amp;view=1up&amp;seq=300</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__FXMU6NAP" corresp="http://zotero.org/groups/4690432/items/FXMU6NAP">
+          <monogr>
+            <title level="m">Elemente der Psychophysik. Theil 2</title>
+            <author>
+              <forename>Gustav Theodor</forename>
+              <surname>Fechner</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Breitkopf &amp; Härtel</publisher>
+              <date>1889</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__2CU6PG2T" corresp="http://zotero.org/groups/4690432/items/2CU6PG2T">
+          <monogr>
+            <title level="m">Elemente der Psychophysik. Theil 1</title>
+            <author>
+              <forename>Gustav Theodor</forename>
+              <surname>Fechner</surname>
+            </author>
+            <edition>2</edition>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Breitkopf &amp; Härtel</publisher>
+              <date>1889</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__BSN82F9X" corresp="http://zotero.org/groups/4690432/items/BSN82F9X">
+          <analytic>
+            <title level="a">Étude sur les rêves morbides. Rêves persistants</title>
+            <author>
+              <name>Faure</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Archives générales de Médecine</title>
+            <imprint>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="issue">27</biblScope>
+              <biblScope unit="page">550-570</biblScope>
+              <date>1876</date>
+              <note type="url">https://www.histoiredelafolie.fr/psychiatrie-neurologie/faure-etude-sur-les-reves-morbides-reves-persistants-in-archives-generales-de-medecine-paris-vie-serie-tome-27-vol-i-1876-pp-550-570</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__RKAU6WH5" corresp="http://zotero.org/groups/4690432/items/RKAU6WH5">
+          <monogr>
+            <title level="m">Les rêves chez les hystériques. Thèse pour le doctorat en médicine</title>
+            <author>
+              <forename>Maurice-Emile</forename>
+              <surname>Escande de Messières</surname>
+            </author>
+            <imprint>
+              <pubPlace>Bordeaux</pubPlace>
+              <date>1895</date>
+              <note type="url">http://www.babordnum.fr/viewer/show/2631#page/n0/mode/1up</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__7TUGZI2U" corresp="http://zotero.org/groups/4690432/items/7TUGZI2U">
+          <monogr>
+            <title level="m">Ueber den Unterschied von Traum und Wachen. Eine erkenntnistheoretische Studie</title>
+            <author>
+              <forename>Vincenz van</forename>
+              <surname>Erk</surname>
+            </author>
+            <imprint>
+              <pubPlace>Prag</pubPlace>
+              <publisher>Tempsky</publisher>
+              <date>1974</date>
+              <note type="url">https://search.onb.ac.at/primo-explore/fulldisplay?docid=ONB_alma21290216580003338&amp;context=L&amp;vid=ONB&amp;lang=de_DE&amp;search_scope=ONB_gesamtbestand&amp;adaptor=Local%20Search%20Engine&amp;tab=default_tab&amp;query=any,contains,vincenz%20van%20erk&amp;offset=0</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__RR4R8U6A" corresp="http://zotero.org/groups/4690432/items/RR4R8U6A">
+          <monogr>
+            <title level="m">Wunderbare Traumerfüllung als Inhalt des wirklichen Lebens!</title>
+            <author>
+              <forename>Leopoldine</forename>
+              <surname>Luksch</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Oswald Mutze</publisher>
+              <date>1894</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__UT48TFAR" corresp="http://zotero.org/groups/4690432/items/UT48TFAR">
+          <monogr>
+            <title level="m">Grundtatsachen des Seelenlebens</title>
+            <author>
+              <forename>Theodor</forename>
+              <surname>Lipps</surname>
+            </author>
+            <imprint>
+              <pubPlace>Bonn</pubPlace>
+              <publisher>Cohen</publisher>
+              <date>1883</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__9RXMPG9Q" corresp="http://zotero.org/groups/4690432/items/9RXMPG9Q">
+          <analytic>
+            <title level="a">A travers les états passifs, le sommeil et les rêves</title>
+            <author>
+              <forename>Ambroise-Auguste</forename>
+              <surname>Liébeault</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Rev. de l'hypoth. etc.</title>
+            <imprint>
+              <biblScope unit="volume">4, VII, 41, 65, 106.</biblScope>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__8S533PNZ" corresp="http://zotero.org/groups/4690432/items/8S533PNZ">
+          <monogr>
+            <title level="m">Le sommeil provoqué et les états analogues</title>
+            <author>
+              <forename>Ambroise-Auguste</forename>
+              <surname>Liébeault</surname>
+            </author>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>O. Doin</publisher>
+              <date>1889</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__S8WJBD6V" corresp="http://zotero.org/groups/4690432/items/S8WJBD6V">
+          <monogr>
+            <title level="m">Dei Sogni. Dissertazione</title>
+            <author>
+              <forename>Francesco</forename>
+              <surname>Liberali</surname>
+            </author>
+            <imprint>
+              <pubPlace>Padova</pubPlace>
+              <date>1834</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__8KW79GJB" corresp="http://zotero.org/groups/4690432/items/8KW79GJB">
+          <monogr>
+            <title level="m">Das Traumleben und seine Bedeutung</title>
+            <author>
+              <forename>Matthäus</forename>
+              <surname>Lerch</surname>
+            </author>
+            <edition>Programm des Communal-Gymnasium zu Komotau</edition>
+            <imprint>
+              <publisher>Selbst-Verlag</publisher>
+              <date>1883</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__DPPG76VU" corresp="http://zotero.org/groups/4690432/items/DPPG76VU">
+          <monogr>
+            <title level="m">Du sommeil au point de vue physiologique et psychologique</title>
+            <author>
+              <forename>Albert</forename>
+              <surname>Lemoine</surname>
+            </author>
+            <edition>Baillière</edition>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <date>1855</date>
+              <note type="url">https://books.google.at/books?id=0NIRAAAAYAAJ&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__36TQJ5UD" corresp="http://zotero.org/groups/4690432/items/36TQJ5UD">
+          <analytic>
+            <title level="a">Mémoire sur le sommeil, les songes et le somnambulisme</title>
+            <author>
+              <forename>François</forename>
+              <surname>Lélut</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Annales médico-psychologiques</title>
+            <imprint>
+              <biblScope unit="volume">2e série, tome IV, 1852</biblScope>
+              <biblScope unit="page">331-363</biblScope>
+              <date>27 mars et 17 avril</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__QH9MF9FI" corresp="http://zotero.org/groups/4690432/items/QH9MF9FI">
+          <analytic>
+            <title level="a">Le rêve</title>
+            <author>
+              <forename>Jacques</forename>
+              <surname>Le Lorrain</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Revue Philosophique de la France et de l’Etranger</title>
+            <imprint>
+              <biblScope unit="volume">40</biblScope>
+              <biblScope unit="page">59-69</biblScope>
+              <date>1895</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__6FIQ6JSJ" corresp="http://zotero.org/groups/4690432/items/6FIQ6JSJ">
+          <analytic>
+            <title level="a">De la durée du temps dans le rêve.</title>
+            <author>
+              <forename>Jacques</forename>
+              <surname>Le Lorrain</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Revue Philosophique de la France et de l’Etranger</title>
+            <imprint>
+              <biblScope unit="volume">38</biblScope>
+              <biblScope unit="page">275-279</biblScope>
+              <date>1894</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__IUHGXSFS" corresp="http://zotero.org/groups/4690432/items/IUHGXSFS">
+          <monogr>
+            <title level="m">Das Traumleben. Vortrag.</title>
+            <idno type="callNumber">40465-B</idno>
+            <author>
+              <forename>Max</forename>
+              <surname>Leidesdorf</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <publisher>Perles</publisher>
+              <date>1880</date>
+              <note type="accessed">2023-04-01T11:07:21Z</note>
+              <note type="url">http://data.onb.ac.at/ABO/%2BZ279032807</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__6AE47S47" corresp="http://zotero.org/groups/4690432/items/6AE47S47">
+          <analytic>
+            <title level="a">Le fonctionnement cérébral pendant le rêve et pendant le sommeil hypnotique</title>
+            <author>
+              <name>Dr. Laupts</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Annales médico-psychologique</title>
+            <imprint>
+              <date>1895</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__A6325RA3" corresp="http://zotero.org/groups/4690432/items/A6325RA3">
+          <analytic>
+            <title level="a">Le délire alcoolique n’est pas un délire mais un rêve</title>
+            <author>
+              <forename>Charles</forename>
+              <surname>Lasègue</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Archives Générales de Médecine (Paris)</title>
+            <imprint>
+              <biblScope unit="volume">VIIe série, tome 6, 148e volume de la collection, volme II, 1881</biblScope>
+              <biblScope unit="page">513-536</biblScope>
+              <date>1881</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__U9UFTC4F" corresp="http://zotero.org/groups/4690432/items/U9UFTC4F">
+          <analytic>
+            <title level="a">Aus dem Traumleben</title>
+            <author>
+              <forename>M.</forename>
+              <surname>Landau</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Münchner Neueste Nachrichten</title>
+            <imprint>
+              <biblScope unit="volume">Jg. 45</biblScope>
+              <biblScope unit="issue">Nr. 12 Morgenblatt</biblScope>
+              <biblScope unit="page">1-2</biblScope>
+              <date>1892</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__7PHAZACN" corresp="http://zotero.org/groups/4690432/items/7PHAZACN">
+          <monogr>
+            <title level="m">Das Rätsel der Sphinx. Grundzüge einer Mythengeschichte</title>
+            <extent>2 Bände</extent>
+            <author>
+              <forename>Ludwig</forename>
+              <surname>Laistner</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Wilhelm Hertz</publisher>
+              <date>1892</date>
+              <note type="url">https://d-nb.info/gnd/1149415320</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__JCJFKMMB" corresp="http://zotero.org/groups/4690432/items/JCJFKMMB">
+          <analytic>
+            <title level="a">Contribution to the Psychology of Visual Dreams</title>
+            <author>
+              <forename>George Trumbull</forename>
+              <surname>Ladd</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Mind</title>
+            <imprint>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">299-304</biblScope>
+              <date>1892</date>
+              <note type="url">https://academic.oup.com/mind/article-abstract/1/2/299/1300089</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="zotero__BWTBE7KM" corresp="http://zotero.org/groups/4690432/items/BWTBE7KM">
           <monogr>
             <title level="m">Aus dem Traumleben</title>
             <idno type="callNumber">390247-B-C.1895</idno>
             <author>
               <forename>Eduard</forename>
-              <surname>Kucera</surname>
+              <surname>Kučera</surname>
             </author>
             <imprint>
               <pubPlace>M. Weisskirchen</pubPlace>
@@ -1519,257 +2022,6 @@ Die Pathologie und Therapie der psychischen Krankheiten für Aerzte und Studiren
               <biblScope unit="page">288-290</biblScope>
               <date>1896</date>
               <note type="url">https://gallica.bnf.fr/ark:/12148/bpt6k17181z/f292.item</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__N7PSQ3JN" corresp="http://zotero.org/groups/4690432/items/N7PSQ3JN">
-          <monogr>
-            <title level="m">Die physiologischen Beziehungen der Traumvorgänge</title>
-            <author>
-              <forename>Carl Max</forename>
-              <surname>Gießler</surname>
-            </author>
-            <imprint>
-              <pubPlace>Halle</pubPlace>
-              <publisher>M. Niemeyer</publisher>
-              <date>1896</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__K2WR675A" corresp="http://zotero.org/groups/4690432/items/K2WR675A">
-          <monogr>
-            <title level="m">Aus den Tiefen des Traumlebens (etc.)</title>
-            <idno type="callNumber">86287-B</idno>
-            <author>
-              <forename>Max</forename>
-              <surname>Giessler</surname>
-            </author>
-            <imprint>
-              <pubPlace>Halle/Saale</pubPlace>
-              <publisher>L. E. W. Pfeffer</publisher>
-              <date>1890</date>
-              <note type="accessed">2023-01-12T11:35:27Z</note>
-              <note type="url">http://data.onb.ac.at/imgk/AZ00354812SZ01196768</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__JATAN7RV" corresp="http://zotero.org/groups/4690432/items/JATAN7RV">
-          <monogr>
-            <title level="m">Beiträge zur Phaenomenologie des Traumlebens</title>
-            <author>
-              <forename>Carl Max</forename>
-              <surname>Gießler</surname>
-            </author>
-            <imprint>
-              <pubPlace>Halle</pubPlace>
-              <date>1888</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__K4VTR99A" corresp="http://zotero.org/groups/4690432/items/K4VTR99A">
-          <monogr>
-            <title level="m">Der Mensch. Traum, Herz, Verstand</title>
-            <author>
-              <forename>Johann Heinrich</forename>
-              <surname>Frerichs</surname>
-            </author>
-            <imprint>
-              <date>1878</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__BUVJIBII" corresp="http://zotero.org/groups/4690432/items/BUVJIBII">
-          <monogr>
-            <title level="m">Schlaf und Traum</title>
-            <author>
-              <forename>Adolf</forename>
-              <surname>Frensberg</surname>
-            </author>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <biblScope unit="volume">466</biblScope>
-              <date>1885</date>
-              <note type="url">https://archive.org/details/bub_gb_6lUEAAAAYAAJ/page/n371/mode/2up</note>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Sammlung gemeinverständlicher wissenschaftlicher Vorträge</title>
-            <biblScope unit="volume">20</biblScope>
-          </series>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__IH9EHWW4" corresp="http://zotero.org/groups/4690432/items/IH9EHWW4">
-          <analytic>
-            <title level="a">Geschichte eines Traumes als Beitrag der transcendentalen Psychologie</title>
-            <author>
-              <forename>Hermann</forename>
-              <surname>Fornaschon</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Psychische Studien</title>
-            <imprint>
-              <biblScope unit="volume">24</biblScope>
-              <biblScope unit="issue">6</biblScope>
-              <biblScope unit="page">274-281</biblScope>
-              <date>1897</date>
-              <note type="url">http://dl.ub.uni-freiburg.de/diglit/psychische_studien1897/0001?page_query=274&amp;navmode=struct&amp;action=pagesearch&amp;sid=25d9dafe1e3bd1395460376eaf1dc9ff</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__S8IX964Q" corresp="http://zotero.org/groups/4690432/items/S8IX964Q">
-          <analytic>
-            <title level="a">Das Traumleben. Plauderei</title>
-            <author>
-              <forename>V.</forename>
-              <surname>Florentin</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Die alte und die neue Welt. Illustriertes Katholisches Familienblatt zur Unterhaltung und Belehrung</title>
-            <imprint>
-              <biblScope unit="volume">33</biblScope>
-              <biblScope unit="page">725</biblScope>
-              <date>1899</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__QBBF7B2S" corresp="http://zotero.org/groups/4690432/items/QBBF7B2S">
-          <monogr>
-            <title level="m">Ad artis veterum onirocriticae historiam symbola. Dissertatio Philologica</title>
-            <author>
-              <forename>Johann</forename>
-              <surname>Fischer</surname>
-            </author>
-            <imprint>
-              <pubPlace>Jena</pubPlace>
-              <date>1899</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__DJM87JIG" corresp="http://zotero.org/groups/4690432/items/DJM87JIG">
-          <analytic>
-            <title level="a">Les rêves d'accès chez les épileptiques</title>
-            <author>
-              <forename>Charles</forename>
-              <surname>Féré</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">La Med. mod.</title>
-            <imprint>
-              <date>1897</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__25UGUZCP" corresp="http://zotero.org/groups/4690432/items/25UGUZCP">
-          <analytic>
-            <title level="a">A contribution to the pathology of dreams and of hysterical Paralysis</title>
-            <author>
-              <forename>Charles</forename>
-              <surname>Féré</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Brain. A Journal of Neurology</title>
-            <imprint>
-              <biblScope unit="volume">9</biblScope>
-              <biblScope unit="page">488-493</biblScope>
-              <date>1887</date>
-              <note type="url">https://archive.org/details/brainjournalofne09londuoft/page/488/mode/2up</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__XS8DAG2C" corresp="http://zotero.org/groups/4690432/items/XS8DAG2C">
-          <analytic>
-            <title level="a">L'azione suggestiva delle cause esterne nei sogni</title>
-            <author>
-              <forename>Carlo</forename>
-              <surname>Fenizia</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Archivio per l’Antropologia e la Etnologia</title>
-            <imprint>
-              <biblScope unit="volume">26</biblScope>
-              <biblScope unit="page">287-294</biblScope>
-              <date>1896</date>
-              <note type="url">https://babel.hathitrust.org/cgi/pt?id=hvd.32044041880899&amp;view=1up&amp;seq=300</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__FXMU6NAP" corresp="http://zotero.org/groups/4690432/items/FXMU6NAP">
-          <monogr>
-            <title level="m">Elemente der Psychophysik. Theil 2</title>
-            <author>
-              <forename>Gustav Theodor</forename>
-              <surname>Fechner</surname>
-            </author>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <publisher>Breitkopf &amp; Härtel</publisher>
-              <date>1889</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__2CU6PG2T" corresp="http://zotero.org/groups/4690432/items/2CU6PG2T">
-          <monogr>
-            <title level="m">Elemente der Psychophysik. Theil 1</title>
-            <author>
-              <forename>Gustav Theodor</forename>
-              <surname>Fechner</surname>
-            </author>
-            <edition>2</edition>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <publisher>Breitkopf &amp; Härtel</publisher>
-              <date>1889</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__BSN82F9X" corresp="http://zotero.org/groups/4690432/items/BSN82F9X">
-          <analytic>
-            <title level="a">Étude sur les rêves morbides. Rêves persistants</title>
-            <author>
-              <name>Faure</name>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Archives générales de Médecine</title>
-            <imprint>
-              <biblScope unit="volume">1</biblScope>
-              <biblScope unit="issue">27</biblScope>
-              <biblScope unit="page">550-570</biblScope>
-              <date>1876</date>
-              <note type="url">https://www.histoiredelafolie.fr/psychiatrie-neurologie/faure-etude-sur-les-reves-morbides-reves-persistants-in-archives-generales-de-medecine-paris-vie-serie-tome-27-vol-i-1876-pp-550-570</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__RKAU6WH5" corresp="http://zotero.org/groups/4690432/items/RKAU6WH5">
-          <monogr>
-            <title level="m">Les rêves chez les hystériques. Thèse pour le doctorat en médicine</title>
-            <author>
-              <forename>Maurice-Emile</forename>
-              <surname>Escande de Messières</surname>
-            </author>
-            <imprint>
-              <pubPlace>Bordeaux</pubPlace>
-              <date>1895</date>
-              <note type="url">http://www.babordnum.fr/viewer/show/2631#page/n0/mode/1up</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__7TUGZI2U" corresp="http://zotero.org/groups/4690432/items/7TUGZI2U">
-          <monogr>
-            <title level="m">Ueber den Unterschied von Traum und Wachen. Eine erkenntnistheoretische Studie</title>
-            <author>
-              <forename>Vincenz van</forename>
-              <surname>Erk</surname>
-            </author>
-            <imprint>
-              <pubPlace>Prag</pubPlace>
-              <publisher>Tempsky</publisher>
-              <date>1974</date>
-              <note type="url">https://search.onb.ac.at/primo-explore/fulldisplay?docid=ONB_alma21290216580003338&amp;context=L&amp;vid=ONB&amp;lang=de_DE&amp;search_scope=ONB_gesamtbestand&amp;adaptor=Local%20Search%20Engine&amp;tab=default_tab&amp;query=any,contains,vincenz%20van%20erk&amp;offset=0</note>
             </imprint>
           </monogr>
         </biblStruct>
