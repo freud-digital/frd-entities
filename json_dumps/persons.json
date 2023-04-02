@@ -2663,5 +2663,26 @@
     "pmb": "",
     "labels": [],
     "wikidata": ""
+  },
+  "131": {
+    "id": 131,
+    "order": "128.00000000000000000000",
+    "name": "Macario, Maurice-Martin-Antonin",
+    "frd_id": "frd_person_131",
+    "gnd_id": "",
+    "birth_year": "1811",
+    "place_of_birth": [],
+    "death_year": "1898",
+    "place_of_death": [],
+    "bio": "Nicht auf lobid-gnd, wohl aber hier \n\nhttps://data.bnf.fr/en/10697717/maurice_macario/\n\nhttps://www.histoiredelafolie.fr/psychiatrie-neurologie/maurice-macario-des-reves-consideres-sous-le-rapport-physiologique-et-pathologique-partie-2-reves-pathologiques-extrait-des-annales-medico-psychologiques-paris-tome-i",
+    "profession": [
+      {
+        "id": 410,
+        "value": "Mediziner/Medizinerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
   }
 }

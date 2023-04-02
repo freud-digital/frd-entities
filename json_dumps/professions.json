@@ -3108,7 +3108,12 @@
     "order": "410.00000000000000000000",
     "name": "Mediziner/Medizinerin",
     "frd_id": "frd_prof_410",
-    "persons": []
+    "persons": [
+      {
+        "id": 131,
+        "value": "Macario, Maurice-Martin-Antonin"
+      }
+    ]
   },
   "411": {
     "id": 411,

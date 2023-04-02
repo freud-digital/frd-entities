@@ -1377,6 +1377,21 @@
                   </persName>
                   <note>Keine näheren Angaben gefunden. Zu Leopoldine Luksch, eine Österreicherin vgl. Psychische Studien 1917: http://dl.ub.uni-freiburg.de/diglit/psychische_studien1917/0093?sid=6720834936d3f2f837475f2536cdd3d1</note>
                </person>
+               <person xml:id="frd_person_131">
+                  <persName>
+                     <forename>Maurice-Martin-Antonin</forename>
+                     <surname>Macario</surname>
+                  </persName>
+                  <birth>
+                     <date when="1811">1811</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1898">1898</date>
+                  </death>
+                  <note>Nicht auf lobid-gnd, wohl aber hier
+https://data.bnf.fr/en/10697717/maurice_macario/
+https://www.histoiredelafolie.fr/psychiatrie-neurologie/maurice-macario-des-reves-consideres-sous-le-rapport-physiologique-et-pathologique-partie-2-reves-pathologiques-extrait-des-annales-medico-psychologiques-paris-tome-i</note>
+               </person>
             </listPerson>
          </div>
       </body>

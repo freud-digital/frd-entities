@@ -1213,6 +1213,108 @@
             </imprint>
           </monogr>
         </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__D7FSZFSS" corresp="http://zotero.org/groups/4690432/items/D7FSZFSS">
+          <analytic>
+            <title level="a">Dreams, Sleep, and Consciousness</title>
+            <author>
+              <forename>George Milbry</forename>
+              <surname>Gould</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">The American Journal of Psychology</title>
+            <imprint>
+              <biblScope unit="volume">2</biblScope>
+              <biblScope unit="page">509</biblScope>
+              <date>1889</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__AEVAZIEH" corresp="http://zotero.org/groups/4690432/items/AEVAZIEH">
+          <monogr>
+            <title level="m">Traumdeutung und Zauberei: ein Blick auf das Wesen des Aberglaubens ; ein Vortrag zum Besten der Deutschen Schiller-Stiftung gehalten zu Brünn am 9. April 1866</title>
+            <title type="short">Traumdeutung und Zauberei</title>
+            <idno type="callNumber">70651-A</idno>
+            <author>
+              <forename>Theodor</forename>
+              <surname>Gomperz</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <publisher>Gerold</publisher>
+              <date>1866</date>
+              <note type="accessed">2023-01-12T12:29:48Z</note>
+              <note type="url">http://data.onb.ac.at/ABO/%2BZ228617103</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__VG3QP4B4" corresp="http://zotero.org/groups/4690432/items/VG3QP4B4">
+          <analytic>
+            <title level="a">Sur le souvenir du rêves</title>
+            <author>
+              <forename>Edmond</forename>
+              <surname>Goblot</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Revue philosophique de la France et de l'étranger</title>
+            <imprint>
+              <biblScope unit="volume">XLII</biblScope>
+              <biblScope unit="page">288-290</biblScope>
+              <date>1896</date>
+              <note type="url">https://gallica.bnf.fr/ark:/12148/bpt6k17181z/f292.item</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__3WXK2BZN" corresp="http://zotero.org/groups/4690432/items/3WXK2BZN">
+          <analytic>
+            <title level="a">De rêves morbides</title>
+            <author>
+              <forename>Maurice Martin Antonin</forename>
+              <surname>Macario</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Gaz. méd. de Paris</title>
+            <imprint>
+              <biblScope unit="issue">Nr. 8</biblScope>
+              <date>1889</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__QJTTK2CZ" corresp="http://zotero.org/groups/4690432/items/QJTTK2CZ">
+          <analytic>
+            <title level="a">Des rêves considérés sous le rapport physiologique et pathologique</title>
+            <author>
+              <forename>Maurice Martin Antonin</forename>
+              <surname>Macario</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Annales médico psychologiques</title>
+            <imprint>
+              <biblScope unit="volume">tome VIII</biblScope>
+              <biblScope unit="page">170-218</biblScope>
+              <date>1846</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__W4C4HA5V" corresp="http://zotero.org/groups/4690432/items/W4C4HA5V">
+          <analytic>
+            <title level="a">Du sommeil, des rêves et du somnambulisme dans l'état de santé et de maladie</title>
+            <author>
+              <forename>Maurice Martin Antonin</forename>
+              <surname>Macario</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Annales médico-psychologiques: revue psychiatrique</title>
+            <imprint>
+              <biblScope unit="volume">t. IV, V</biblScope>
+              <date>1858</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="zotero__RR4R8U6A" corresp="http://zotero.org/groups/4690432/items/RR4R8U6A">
           <monogr>
             <title level="m">Wunderbare Traumerfüllung als Inhalt des wirklichen Lebens!</title>
@@ -1969,59 +2071,6 @@ Die Pathologie und Therapie der psychischen Krankheiten für Aerzte und Studiren
             <imprint>
               <pubPlace>London</pubPlace>
               <date>1899</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__D7FSZFSS" corresp="http://zotero.org/groups/4690432/items/D7FSZFSS">
-          <analytic>
-            <title level="a">Dreams, Sleep, and Consciousness</title>
-            <author>
-              <forename>George Milbry</forename>
-              <surname>Gould</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">The American Journal of Psychology</title>
-            <imprint>
-              <biblScope unit="volume">2</biblScope>
-              <biblScope unit="page">509</biblScope>
-              <date>1889</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__AEVAZIEH" corresp="http://zotero.org/groups/4690432/items/AEVAZIEH">
-          <monogr>
-            <title level="m">Traumdeutung und Zauberei: ein Blick auf das Wesen des Aberglaubens ; ein Vortrag zum Besten der Deutschen Schiller-Stiftung gehalten zu Brünn am 9. April 1866</title>
-            <title type="short">Traumdeutung und Zauberei</title>
-            <idno type="callNumber">70651-A</idno>
-            <author>
-              <forename>Theodor</forename>
-              <surname>Gomperz</surname>
-            </author>
-            <imprint>
-              <pubPlace>Wien</pubPlace>
-              <publisher>Gerold</publisher>
-              <date>1866</date>
-              <note type="accessed">2023-01-12T12:29:48Z</note>
-              <note type="url">http://data.onb.ac.at/ABO/%2BZ228617103</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__VG3QP4B4" corresp="http://zotero.org/groups/4690432/items/VG3QP4B4">
-          <analytic>
-            <title level="a">Sur le souvenir du rêves</title>
-            <author>
-              <forename>Edmond</forename>
-              <surname>Goblot</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Revue philosophique de la France et de l'étranger</title>
-            <imprint>
-              <biblScope unit="volume">XLII</biblScope>
-              <biblScope unit="page">288-290</biblScope>
-              <date>1896</date>
-              <note type="url">https://gallica.bnf.fr/ark:/12148/bpt6k17181z/f292.item</note>
             </imprint>
           </monogr>
         </biblStruct>
