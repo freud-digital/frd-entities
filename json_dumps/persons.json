@@ -2684,5 +2684,200 @@
     "pmb": "",
     "labels": [],
     "wikidata": ""
+  },
+  "132": {
+    "id": 132,
+    "order": "129.00000000000000000000",
+    "name": "Macfarlane, Alexander",
+    "frd_id": "frd_person_132",
+    "gnd_id": "https://d-nb.info/gnd/117517038",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 406,
+        "value": "Mathematiker/Mathematikerin"
+      },
+      {
+        "id": 494,
+        "value": "Physiker/Physikerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "133": {
+    "id": 133,
+    "order": "130.00000000000000000000",
+    "name": "Maine de Biran, Pierre",
+    "frd_id": "frd_person_133",
+    "gnd_id": "https://d-nb.info/gnd/11857650X",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "134": {
+    "id": 134,
+    "order": "131.00000000000000000000",
+    "name": "Cousin, Victor",
+    "frd_id": "frd_person_134",
+    "gnd_id": "https://d-nb.info/gnd/118522477",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 243,
+        "value": "Historiker/Historikerin"
+      },
+      {
+        "id": 419,
+        "value": "Minister/Ministerin"
+      },
+      {
+        "id": 501,
+        "value": "Politiker/Politikerin"
+      },
+      {
+        "id": 586,
+        "value": "Schriftsteller/Schriftstellerin"
+      },
+      {
+        "id": 664,
+        "value": "Übersetzer/Übersetzerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "135": {
+    "id": 135,
+    "order": "132.00000000000000000000",
+    "name": "Manasseina, Marija M.",
+    "frd_id": "frd_person_135",
+    "gnd_id": "https://d-nb.info/gnd/121596575",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Veröffentlichte unter den Pseudonymen Marie de Manacéïne, Maria Manàsseina und Marie von Manassein",
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "136": {
+    "id": 136,
+    "order": "133.00000000000000000000",
+    "name": "Maudsley, Henry",
+    "frd_id": "frd_person_136",
+    "gnd_id": "https://d-nb.info/gnd/118946390",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 524,
+        "value": "Psychiater/Psychiaterin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "137": {
+    "id": 137,
+    "order": "134.00000000000000000000",
+    "name": "Maury, Alfred",
+    "frd_id": "frd_person_137",
+    "gnd_id": "https://d-nb.info/gnd/115851704",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 25,
+        "value": "Archäologe/Archäologin"
+      },
+      {
+        "id": 187,
+        "value": "Gelehrter/Gelehrte"
+      },
+      {
+        "id": 243,
+        "value": "Historiker/Historikerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "138": {
+    "id": 138,
+    "order": "135.00000000000000000000",
+    "name": "Eybel, Joseph Valentin",
+    "frd_id": "frd_person_138",
+    "gnd_id": "https://d-nb.info/gnd/118531514",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 283,
+        "value": "Jurist/Juristin"
+      },
+      {
+        "id": 655,
+        "value": "Theologe/Theologin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "139": {
+    "id": 139,
+    "order": "136.00000000000000000000",
+    "name": "Metzentin, Carl",
+    "frd_id": "frd_person_139",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Konnte nicht identifiziert werden",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
   }
 }

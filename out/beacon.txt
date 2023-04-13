@@ -109,3 +109,10 @@ https://d-nb.info/gnd/173243142|Lemoine, Albert|https://freud.acdh-dev.oeaw.ac.a
 https://d-nb.info/gnd/1157549411|Lerch, Matthäus Franz|https://freud.acdh-dev.oeaw.ac.at/frd_person_127.html
 https://d-nb.info/gnd/117671673|Liébeault, Ambroise-Auguste|https://freud.acdh-dev.oeaw.ac.at/frd_person_128.html
 https://d-nb.info/gnd/117057436|Lipps, Theodor|https://freud.acdh-dev.oeaw.ac.at/frd_person_129.html
+https://d-nb.info/gnd/117517038|Macfarlane, Alexander|https://freud.acdh-dev.oeaw.ac.at/frd_person_132.html
+https://d-nb.info/gnd/11857650X|Maine de Biran, Pierre|https://freud.acdh-dev.oeaw.ac.at/frd_person_133.html
+https://d-nb.info/gnd/118522477|Cousin, Victor|https://freud.acdh-dev.oeaw.ac.at/frd_person_134.html
+https://d-nb.info/gnd/121596575|Manasseina, Marija M.|https://freud.acdh-dev.oeaw.ac.at/frd_person_135.html
+https://d-nb.info/gnd/118946390|Maudsley, Henry|https://freud.acdh-dev.oeaw.ac.at/frd_person_136.html
+https://d-nb.info/gnd/115851704|Maury, Alfred|https://freud.acdh-dev.oeaw.ac.at/frd_person_137.html
+https://d-nb.info/gnd/118531514|Eybel, Joseph Valentin|https://freud.acdh-dev.oeaw.ac.at/frd_person_138.html

@@ -172,7 +172,12 @@
     "order": "25.00000000000000000000",
     "name": "Archäologe/Archäologin",
     "frd_id": "frd_prof_25",
-    "persons": []
+    "persons": [
+      {
+        "id": 137,
+        "value": "Maury, Alfred"
+      }
+    ]
   },
   "26": {
     "id": 26,
@@ -279,6 +284,10 @@
       {
         "id": 128,
         "value": "Liébeault, Ambroise-Auguste"
+      },
+      {
+        "id": 135,
+        "value": "Manasseina, Marija M."
       }
     ]
   },
@@ -1435,7 +1444,12 @@
     "order": "187.00000000000000000000",
     "name": "Gelehrter/Gelehrte",
     "frd_id": "frd_prof_187",
-    "persons": []
+    "persons": [
+      {
+        "id": 137,
+        "value": "Maury, Alfred"
+      }
+    ]
   },
   "188": {
     "id": 188,
@@ -1837,7 +1851,16 @@
     "order": "243.00000000000000000000",
     "name": "Historiker/Historikerin",
     "frd_id": "frd_prof_243",
-    "persons": []
+    "persons": [
+      {
+        "id": 134,
+        "value": "Cousin, Victor"
+      },
+      {
+        "id": 137,
+        "value": "Maury, Alfred"
+      }
+    ]
   },
   "244": {
     "id": 244,
@@ -2170,6 +2193,10 @@
       {
         "id": 112,
         "value": "Kirchmann, Julius H. von"
+      },
+      {
+        "id": 138,
+        "value": "Eybel, Joseph Valentin"
       }
     ]
   },
@@ -3080,7 +3107,12 @@
     "order": "406.00000000000000000000",
     "name": "Mathematiker/Mathematikerin",
     "frd_id": "frd_prof_406",
-    "persons": []
+    "persons": [
+      {
+        "id": 132,
+        "value": "Macfarlane, Alexander"
+      }
+    ]
   },
   "407": {
     "id": 407,
@@ -3176,7 +3208,12 @@
     "order": "419.00000000000000000000",
     "name": "Minister/Ministerin",
     "frd_id": "frd_prof_419",
-    "persons": []
+    "persons": [
+      {
+        "id": 134,
+        "value": "Cousin, Victor"
+      }
+    ]
   },
   "420": {
     "id": 420,
@@ -3808,6 +3845,10 @@
       {
         "id": 129,
         "value": "Lipps, Theodor"
+      },
+      {
+        "id": 133,
+        "value": "Maine de Biran, Pierre"
       }
     ]
   },
@@ -3836,6 +3877,10 @@
       {
         "id": 98,
         "value": "Heerwagen, Friedrich"
+      },
+      {
+        "id": 132,
+        "value": "Macfarlane, Alexander"
       }
     ]
   },
@@ -3907,6 +3952,10 @@
       {
         "id": 112,
         "value": "Kirchmann, Julius H. von"
+      },
+      {
+        "id": 134,
+        "value": "Cousin, Victor"
       }
     ]
   },
@@ -4114,6 +4163,10 @@
       {
         "id": 123,
         "value": "Leidesdorf, Maximilian"
+      },
+      {
+        "id": 136,
+        "value": "Maudsley, Henry"
       }
     ]
   },
@@ -4621,6 +4674,10 @@
       {
         "id": 119,
         "value": "Laistner, Ludwig"
+      },
+      {
+        "id": 134,
+        "value": "Cousin, Victor"
       }
     ]
   },
@@ -5124,6 +5181,10 @@
       {
         "id": 69,
         "value": "Knauer, Vinzenz"
+      },
+      {
+        "id": 138,
+        "value": "Eybel, Joseph Valentin"
       }
     ]
   },
@@ -5188,7 +5249,12 @@
     "order": "664.00000000000000000000",
     "name": "Übersetzer/Übersetzerin",
     "frd_id": "frd_prof_664",
-    "persons": []
+    "persons": [
+      {
+        "id": 134,
+        "value": "Cousin, Victor"
+      }
+    ]
   },
   "665": {
     "id": 665,

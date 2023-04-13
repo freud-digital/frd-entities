@@ -1392,6 +1392,69 @@
 https://data.bnf.fr/en/10697717/maurice_macario/
 https://www.histoiredelafolie.fr/psychiatrie-neurologie/maurice-macario-des-reves-consideres-sous-le-rapport-physiologique-et-pathologique-partie-2-reves-pathologiques-extrait-des-annales-medico-psychologiques-paris-tome-i</note>
                </person>
+               <person xml:id="frd_person_132">
+                  <persName>
+                     <forename>Alexander</forename>
+                     <surname>Macfarlane</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117517038</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_133">
+                  <persName>
+                     <forename>Pierre</forename>
+                     <surname>Maine de Biran</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/11857650X</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_134">
+                  <persName>
+                     <forename>Victor</forename>
+                     <surname>Cousin</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118522477</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_135">
+                  <persName>
+                     <forename>Marija M.</forename>
+                     <surname>Manasseina</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/121596575</idno>
+                  <note>Veröffentlichte unter den Pseudonymen Marie de Manacéïne, Maria Manàsseina und Marie von Manassein</note>
+               </person>
+               <person xml:id="frd_person_136">
+                  <persName>
+                     <forename>Henry</forename>
+                     <surname>Maudsley</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118946390</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_137">
+                  <persName>
+                     <forename>Alfred</forename>
+                     <surname>Maury</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/115851704</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_138">
+                  <persName>
+                     <forename>Joseph Valentin</forename>
+                     <surname>Eybel</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118531514</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_139">
+                  <persName>
+                     <forename>Carl</forename>
+                     <surname>Metzentin</surname>
+                  </persName>
+                  <note>Konnte nicht identifiziert werden</note>
+               </person>
             </listPerson>
          </div>
       </body>
