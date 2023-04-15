@@ -3508,7 +3508,12 @@
     "order": "458.00000000000000000000",
     "name": "Oberlehrer/Oberlehrerin",
     "frd_id": "frd_prof_458",
-    "persons": []
+    "persons": [
+      {
+        "id": 140,
+        "value": "Mentz, Richard"
+      }
+    ]
   },
   "459": {
     "id": 459,
@@ -4101,6 +4106,10 @@
       {
         "id": 73,
         "value": "Fechner, Gustav Theodor"
+      },
+      {
+        "id": 141,
+        "value": "Monroe, Will S."
       }
     ]
   },

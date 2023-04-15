@@ -2849,7 +2849,7 @@
     "place_of_birth": [],
     "death_year": null,
     "place_of_death": [],
-    "bio": "",
+    "bio": "Veröffentlichte unter dem Pseudonym Reiner Meisel",
     "profession": [
       {
         "id": 283,
@@ -2875,6 +2875,64 @@
     "death_year": null,
     "place_of_death": [],
     "bio": "Konnte nicht identifiziert werden",
+    "profession": [],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "140": {
+    "id": 140,
+    "order": "137.00000000000000000000",
+    "name": "Mentz, Richard",
+    "frd_id": "frd_person_140",
+    "gnd_id": "https://d-nb.info/gnd/101891921X",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 458,
+        "value": "Oberlehrer/Oberlehrerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "141": {
+    "id": 141,
+    "order": "138.00000000000000000000",
+    "name": "Monroe, Will S.",
+    "frd_id": "frd_person_141",
+    "gnd_id": "https://d-nb.info/gnd/121860574",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 521,
+        "value": "Professor/Professorin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "142": {
+    "id": 142,
+    "order": "139.00000000000000000000",
+    "name": "",
+    "frd_id": "frd_person_142",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
     "profession": [],
     "pmb": "",
     "labels": [],

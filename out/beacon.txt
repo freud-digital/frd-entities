@@ -116,3 +116,5 @@ https://d-nb.info/gnd/121596575|Manasseina, Marija M.|https://freud.acdh-dev.oea
 https://d-nb.info/gnd/118946390|Maudsley, Henry|https://freud.acdh-dev.oeaw.ac.at/frd_person_136.html
 https://d-nb.info/gnd/115851704|Maury, Alfred|https://freud.acdh-dev.oeaw.ac.at/frd_person_137.html
 https://d-nb.info/gnd/118531514|Eybel, Joseph Valentin|https://freud.acdh-dev.oeaw.ac.at/frd_person_138.html
+https://d-nb.info/gnd/101891921X|Mentz, Richard|https://freud.acdh-dev.oeaw.ac.at/frd_person_140.html
+https://d-nb.info/gnd/121860574|Monroe, Will S.|https://freud.acdh-dev.oeaw.ac.at/frd_person_141.html

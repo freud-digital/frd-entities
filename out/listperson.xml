@@ -1446,7 +1446,7 @@ https://www.histoiredelafolie.fr/psychiatrie-neurologie/maurice-macario-des-reve
                      <surname>Eybel</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118531514</idno>
-                  <note/>
+                  <note>Veröffentlichte unter dem Pseudonym Reiner Meisel</note>
                </person>
                <person xml:id="frd_person_139">
                   <persName>
@@ -1454,6 +1454,29 @@ https://www.histoiredelafolie.fr/psychiatrie-neurologie/maurice-macario-des-reve
                      <surname>Metzentin</surname>
                   </persName>
                   <note>Konnte nicht identifiziert werden</note>
+               </person>
+               <person xml:id="frd_person_140">
+                  <persName>
+                     <forename>Richard</forename>
+                     <surname>Mentz</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/101891921X</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_141">
+                  <persName>
+                     <forename>Will S.</forename>
+                     <surname>Monroe</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/121860574</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_142">
+                  <persName>
+                     <forename/>
+                     <surname/>
+                  </persName>
+                  <note/>
                </person>
             </listPerson>
          </div>
