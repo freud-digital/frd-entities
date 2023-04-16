@@ -1455,6 +1455,431 @@ Die Pathologie und Therapie der psychischen Krankheiten für Aerzte und Studiren
             </imprint>
           </monogr>
         </biblStruct>
+        <biblStruct type="book" xml:id="zotero__4CKXE5CA" corresp="http://zotero.org/groups/4690432/items/4CKXE5CA">
+          <monogr>
+            <title level="m">Immanuel Kant's Anthropologie in pragmatischer Hinsicht. Herausgegeben und erläutert von J. H. von Kirchmann</title>
+            <author>
+              <forename>Immanuel</forename>
+              <surname>Kant</surname>
+            </author>
+            <edition>3. Aufl.</edition>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Erich Koschny</publisher>
+              <date>1880</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__TFFVQQZR" corresp="http://zotero.org/groups/4690432/items/TFFVQQZR">
+          <monogr>
+            <title level="m">Lehrbuch der Psychologie</title>
+            <title type="short">Lehrbuch der Psychologie</title>
+            <idno type="callNumber">461416-B.1</idno>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Jodl</surname>
+            </author>
+            <edition>3. Aufl.</edition>
+            <imprint>
+              <pubPlace>Stuttgart [u.a.]</pubPlace>
+              <publisher>Cotta</publisher>
+              <date>1908</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__CVXZGC5H" corresp="http://zotero.org/groups/4690432/items/CVXZGC5H">
+          <monogr>
+            <title level="m">Lehrbuch der Psychologie</title>
+            <idno type="callNumber">390775-B</idno>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Jodl</surname>
+            </author>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <publisher>J. G. Cotta</publisher>
+              <date>1896</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__EJUPGXPT" corresp="http://zotero.org/groups/4690432/items/EJUPGXPT">
+          <monogr>
+            <title level="m">Versuch einer wissenschaftlichen Begründung der Psychologie.</title>
+            <idno type="callNumber">10286-B</idno>
+            <author>
+              <forename>Peter II</forename>
+              <surname>Jessen</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Veit</publisher>
+              <date>1855</date>
+              <note type="accessed">2023-02-27T15:55:02Z</note>
+              <note type="url">http://data.onb.ac.at/ABO/%2BZ221382404</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__FHGVFIZB" corresp="http://zotero.org/groups/4690432/items/FHGVFIZB">
+          <monogr>
+            <title level="m">Träumen und Denken : Vortrag, gehalten in Wehlau, 12. November 1869 (1871)</title>
+            <author>
+              <forename>Julius</forename>
+              <surname>Jensen</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Lüderitz</publisher>
+              <date>1871</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Sammlung gemeinverständlicher wissenschaftlicher Vorträge Ser. 6, Heft134</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__K7HIGUC4" corresp="http://zotero.org/groups/4690432/items/K7HIGUC4">
+          <analytic>
+            <title level="a">Über Wahl- und Halbträume. Museum (1813) II</title>
+            <author>
+              <name>Jean Paul</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Jean Paul's Werke (hg. v. Hempel)</title>
+            <imprint>
+              <biblScope unit="volume">44</biblScope>
+              <biblScope unit="page">142f.</biblScope>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__AURP5236" corresp="http://zotero.org/groups/4690432/items/AURP5236">
+          <monogr>
+            <title level="m">Jean Paul's Werke</title>
+            <extent>60 Theile</extent>
+            <author>
+              <name>Jean Paul</name>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Hempel</publisher>
+              <date>1868</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zotero__F8V5TH67" corresp="http://zotero.org/groups/4690432/items/F8V5TH67">
+          <analytic>
+            <title level="a">Blicke in die Traumwelt. Museum (1813) II</title>
+            <author>
+              <name>Jean Paul</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Jean Paul’s Werke (hg. v. Hempel)</title>
+            <imprint>
+              <biblScope unit="volume">44</biblScope>
+              <biblScope unit="page">128-152</biblScope>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__Q8H7RXMH" corresp="http://zotero.org/groups/4690432/items/Q8H7RXMH">
+          <analytic>
+            <title level="a">Die Entstehung des Wahnsinns aus den Träumen</title>
+            <author>
+              <forename>Karl Wilhelm</forename>
+              <surname>Ideler</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Charité-Annalen</title>
+            <imprint>
+              <biblScope unit="volume">3</biblScope>
+              <date>1862</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__WKDQDGW6" corresp="http://zotero.org/groups/4690432/items/WKDQDGW6">
+          <analytic>
+            <title level="a">The dreams of the blind</title>
+            <author>
+              <forename>Joseph</forename>
+              <surname>Jastrow</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">New Princeton Review</title>
+            <imprint>
+              <biblScope unit="volume">5</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">18-34</biblScope>
+              <date>1888</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__IBAH5VQQ" corresp="http://zotero.org/groups/4690432/items/IBAH5VQQ">
+          <analytic>
+            <title level="a">Über das Traumleben der Blinden</title>
+            <author>
+              <forename>Friedrich</forename>
+              <surname>Hitschmann</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Zeitschrift für Psychologie</title>
+            <imprint>
+              <biblScope unit="volume">7</biblScope>
+              <biblScope unit="issue">5-6</biblScope>
+              <biblScope unit="page">387-394</biblScope>
+              <date>1894</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__XJGMC3NJ" corresp="http://zotero.org/groups/4690432/items/XJGMC3NJ">
+          <monogr>
+            <title level="m">Buch über Träume. (Sämtliche Werke übersetzt und kommentiert von Dr. Robert Fuchs, 1895, Bd. 1)</title>
+            <author>
+              <name>Hippocrates</name>
+            </author>
+            <imprint>
+              <pubPlace>München</pubPlace>
+              <biblScope unit="volume">Bd. 1</biblScope>
+              <publisher>Lüneburg</publisher>
+              <date>1895</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__DMACM8X4" corresp="http://zotero.org/groups/4690432/items/DMACM8X4">
+          <monogr>
+            <title level="m">Der Traum und seine Verwerthung für's Leben: eine psychologische Studie</title>
+            <author>
+              <forename>Friedrich Wilhelm</forename>
+              <surname>Hildebrandt</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Schloemp</publisher>
+              <date>1875</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__KKQXM4D5" corresp="http://zotero.org/groups/4690432/items/KKQXM4D5">
+          <monogr>
+            <title level="m">Das Traumleben und seine Bedeutung nach den Prinzipien der Araber, Perser, Griecher, Inder und Aegyptier</title>
+            <author>
+              <forename>Emil Richard</forename>
+              <surname>Pfaff</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <date>1868</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__VFHTTKRM" corresp="http://zotero.org/groups/4690432/items/VFHTTKRM">
+          <analytic>
+            <title level="a">A Propos De L'activité De L'esprit Dans Le Rêve</title>
+            <author>
+              <forename>Frédéric</forename>
+              <surname>Paulhan</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Revue Philosophique de la France Et de l'Etranger</title>
+            <imprint>
+              <biblScope unit="volume">38</biblScope>
+              <biblScope unit="page">546-548</biblScope>
+              <date>1894</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__47JFXN49" corresp="http://zotero.org/groups/4690432/items/47JFXN49">
+          <monogr>
+            <title level="m">L'activité mentale et les éléments de l'esprit</title>
+            <author>
+              <forename>Frédéric</forename>
+              <surname>Paulhan</surname>
+            </author>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <date>1889</date>
+              <note type="url">http://catalogue.bnf.fr/ark:/12148/cb310682216</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__6E6AFJ2V" corresp="http://zotero.org/groups/4690432/items/6E6AFJ2V">
+          <monogr>
+            <title level="m">Il libro dei sogni: l'omelia d'origine e le concioni di Tito Livio</title>
+            <author>
+              <forename>Jacopo</forename>
+              <surname>Passavanti</surname>
+            </author>
+            <imprint>
+              <publisher>Edoardo Perino</publisher>
+              <date>1891</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Bibliotheca diamante</title>
+            <biblScope unit="volume">Bd. 20</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__GKDZXPTB" corresp="http://zotero.org/groups/4690432/items/GKDZXPTB">
+          <analytic>
+            <title level="a">Über Traumleistungen / Cases of Dream Reasoning</title>
+            <author>
+              <forename>William Romaine</forename>
+              <surname>Newbold</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Psychological Review</title>
+            <imprint>
+              <biblScope unit="volume">III</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">132-133</biblScope>
+              <date>1896</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__NDW3A7FH" corresp="http://zotero.org/groups/4690432/items/NDW3A7FH">
+          <analytic>
+            <title level="a">Sub-Conscious Reasoning</title>
+            <author>
+              <forename>William Romaine</forename>
+              <surname>Newbold</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Proceedings of the Society for Psychical Research</title>
+            <imprint>
+              <biblScope unit="volume">XII</biblScope>
+              <biblScope unit="page">11-20</biblScope>
+              <date>1896</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__XGUQ9TR4" corresp="http://zotero.org/groups/4690432/items/XGUQ9TR4">
+          <analytic>
+            <title level="a">A Study of Dreams</title>
+            <author>
+              <forename>Julius</forename>
+              <surname>Nelson</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">The American Journal of Psychology</title>
+            <imprint>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">367-401 (35 pages)</biblScope>
+              <date>1888</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__F4MHZIGU" corresp="http://zotero.org/groups/4690432/items/F4MHZIGU">
+          <monogr>
+            <title level="m">Der Traum in der epischen Dichtung.</title>
+            <idno type="callNumber">390249-B.19.1889</idno>
+            <author>
+              <forename>Anton</forename>
+              <surname>Nagele</surname>
+            </author>
+            <imprint>
+              <pubPlace>Marburg</pubPlace>
+              <date>1889</date>
+              <note type="accessed">2023-04-15T13:30:46Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00688970SZ00279689SZ01196860</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Jahresbericht der k.k.Staats-Oberrealschule in Marburg. 19</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__Z79ARUE3" corresp="http://zotero.org/groups/4690432/items/Z79ARUE3">
+          <analytic>
+            <title level="a">Do we ever dream of tasting?</title>
+            <author>
+              <forename>J. C.</forename>
+              <surname>Murry</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Proceedings of the American Psychological Association</title>
+            <imprint>
+              <biblScope unit="page">20-21</biblScope>
+              <date>1894</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__F7H9SSSD" corresp="http://zotero.org/groups/4690432/items/F7H9SSSD">
+          <analytic>
+            <title level="a">Taste dreams</title>
+            <author>
+              <forename>Edward B.</forename>
+              <surname>Titchener</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">The American Journal of Psychology</title>
+            <imprint>
+              <biblScope unit="volume">VI</biblScope>
+              <biblScope unit="issue">4</biblScope>
+              <biblScope unit="page">505-509 (5 pages)</biblScope>
+              <date>1895</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="dictionaryEntry" xml:id="zotero__JZJGZZ9C" corresp="http://zotero.org/groups/4690432/items/JZJGZZ9C">
+          <analytic>
+            <title level="a">Cauchemar</title>
+            <author>
+              <forename>Auguste</forename>
+              <surname>Motet</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Nouveau Dictionnaire de Médecine et de Chirurgie pratiques</title>
+            <imprint>
+              <biblScope unit="volume">tome VI</biblScope>
+              <biblScope unit="page">550-567</biblScope>
+              <date>1867</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="dictionaryEntry" xml:id="zotero__UHBMMKBK" corresp="http://zotero.org/groups/4690432/items/UHBMMKBK">
+          <analytic>
+            <title level="a">Rêve</title>
+            <author>
+              <forename>Jacques-Louis</forename>
+              <surname>Moreau de la Sarthe</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Dictionnaire des sciences médicales Panckoucke</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <biblScope unit="volume">tom 48</biblScope>
+              <biblScope unit="page">245-300</biblScope>
+              <date>1820</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__5AEGCCNK" corresp="http://zotero.org/groups/4690432/items/5AEGCCNK">
+          <analytic>
+            <title level="a">De l'Identite de l'etat de reve et de folie</title>
+            <author>
+              <forename>Jaques</forename>
+              <surname>Moreau</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Annales médico-psychologiques</title>
+            <imprint>
+              <biblScope unit="page">361-408</biblScope>
+              <date>1855</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="zotero__KQ92QQ7Z" corresp="http://zotero.org/groups/4690432/items/KQ92QQ7Z">
           <analytic>
             <title level="a">A study of taste-dreams</title>
@@ -2055,213 +2480,6 @@ Die Pathologie und Therapie der psychischen Krankheiten für Aerzte und Studiren
               <pubPlace>G. Redway</pubPlace>
               <publisher>London, Edinburgh [printed]</publisher>
               <date>1888</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__4CKXE5CA" corresp="http://zotero.org/groups/4690432/items/4CKXE5CA">
-          <monogr>
-            <title level="m">Immanuel Kant's Anthropologie in pragmatischer Hinsicht. Herausgegeben und erläutert von J. H. von Kirchmann</title>
-            <author>
-              <forename>Immanuel</forename>
-              <surname>Kant</surname>
-            </author>
-            <edition>3. Aufl.</edition>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <publisher>Erich Koschny</publisher>
-              <date>1880</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__TFFVQQZR" corresp="http://zotero.org/groups/4690432/items/TFFVQQZR">
-          <monogr>
-            <title level="m">Lehrbuch der Psychologie</title>
-            <title type="short">Lehrbuch der Psychologie</title>
-            <idno type="callNumber">461416-B.1</idno>
-            <author>
-              <forename>Friedrich</forename>
-              <surname>Jodl</surname>
-            </author>
-            <edition>3. Aufl.</edition>
-            <imprint>
-              <pubPlace>Stuttgart [u.a.]</pubPlace>
-              <publisher>Cotta</publisher>
-              <date>1908</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__CVXZGC5H" corresp="http://zotero.org/groups/4690432/items/CVXZGC5H">
-          <monogr>
-            <title level="m">Lehrbuch der Psychologie</title>
-            <idno type="callNumber">390775-B</idno>
-            <author>
-              <forename>Friedrich</forename>
-              <surname>Jodl</surname>
-            </author>
-            <imprint>
-              <pubPlace>Stuttgart</pubPlace>
-              <publisher>J. G. Cotta</publisher>
-              <date>1896</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__EJUPGXPT" corresp="http://zotero.org/groups/4690432/items/EJUPGXPT">
-          <monogr>
-            <title level="m">Versuch einer wissenschaftlichen Begründung der Psychologie.</title>
-            <idno type="callNumber">10286-B</idno>
-            <author>
-              <forename>Peter II</forename>
-              <surname>Jessen</surname>
-            </author>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Veit</publisher>
-              <date>1855</date>
-              <note type="accessed">2023-02-27T15:55:02Z</note>
-              <note type="url">http://data.onb.ac.at/ABO/%2BZ221382404</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__FHGVFIZB" corresp="http://zotero.org/groups/4690432/items/FHGVFIZB">
-          <monogr>
-            <title level="m">Träumen und Denken : Vortrag, gehalten in Wehlau, 12. November 1869 (1871)</title>
-            <author>
-              <forename>Julius</forename>
-              <surname>Jensen</surname>
-            </author>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Lüderitz</publisher>
-              <date>1871</date>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Sammlung gemeinverständlicher wissenschaftlicher Vorträge Ser. 6, Heft134</title>
-          </series>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="zotero__K7HIGUC4" corresp="http://zotero.org/groups/4690432/items/K7HIGUC4">
-          <analytic>
-            <title level="a">Über Wahl- und Halbträume. Museum (1813) II</title>
-            <author>
-              <name>Jean Paul</name>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="m">Jean Paul's Werke (hg. v. Hempel)</title>
-            <imprint>
-              <biblScope unit="volume">44</biblScope>
-              <biblScope unit="page">142f.</biblScope>
-              <date/>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__AURP5236" corresp="http://zotero.org/groups/4690432/items/AURP5236">
-          <monogr>
-            <title level="m">Jean Paul's Werke</title>
-            <extent>60 Theile</extent>
-            <author>
-              <name>Jean Paul</name>
-            </author>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Hempel</publisher>
-              <date>1868</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="zotero__F8V5TH67" corresp="http://zotero.org/groups/4690432/items/F8V5TH67">
-          <analytic>
-            <title level="a">Blicke in die Traumwelt. Museum (1813) II</title>
-            <author>
-              <name>Jean Paul</name>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="m">Jean Paul’s Werke (hg. v. Hempel)</title>
-            <imprint>
-              <biblScope unit="volume">44</biblScope>
-              <biblScope unit="page">128-152</biblScope>
-              <date/>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__Q8H7RXMH" corresp="http://zotero.org/groups/4690432/items/Q8H7RXMH">
-          <analytic>
-            <title level="a">Die Entstehung des Wahnsinns aus den Träumen</title>
-            <author>
-              <forename>Karl Wilhelm</forename>
-              <surname>Ideler</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Charité-Annalen</title>
-            <imprint>
-              <biblScope unit="volume">3</biblScope>
-              <date>1862</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__WKDQDGW6" corresp="http://zotero.org/groups/4690432/items/WKDQDGW6">
-          <analytic>
-            <title level="a">The dreams of the blind</title>
-            <author>
-              <forename>Joseph</forename>
-              <surname>Jastrow</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">New Princeton Review</title>
-            <imprint>
-              <biblScope unit="volume">5</biblScope>
-              <biblScope unit="issue">1</biblScope>
-              <biblScope unit="page">18-34</biblScope>
-              <date>1888</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__IBAH5VQQ" corresp="http://zotero.org/groups/4690432/items/IBAH5VQQ">
-          <analytic>
-            <title level="a">Über das Traumleben der Blinden</title>
-            <author>
-              <forename>Friedrich</forename>
-              <surname>Hitschmann</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Zeitschrift für Psychologie</title>
-            <imprint>
-              <biblScope unit="volume">7</biblScope>
-              <biblScope unit="issue">5-6</biblScope>
-              <biblScope unit="page">387-394</biblScope>
-              <date>1894</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__XJGMC3NJ" corresp="http://zotero.org/groups/4690432/items/XJGMC3NJ">
-          <monogr>
-            <title level="m">Buch über Träume. (Sämtliche Werke übersetzt und kommentiert von Dr. Robert Fuchs, 1895, Bd. 1)</title>
-            <author>
-              <name>Hippocrates</name>
-            </author>
-            <imprint>
-              <pubPlace>München</pubPlace>
-              <biblScope unit="volume">Bd. 1</biblScope>
-              <publisher>Lüneburg</publisher>
-              <date>1895</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__DMACM8X4" corresp="http://zotero.org/groups/4690432/items/DMACM8X4">
-          <monogr>
-            <title level="m">Der Traum und seine Verwerthung für's Leben: eine psychologische Studie</title>
-            <author>
-              <forename>Friedrich Wilhelm</forename>
-              <surname>Hildebrandt</surname>
-            </author>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <publisher>Schloemp</publisher>
-              <date>1875</date>
             </imprint>
           </monogr>
         </biblStruct>

@@ -2925,15 +2925,242 @@
   "142": {
     "id": 142,
     "order": "139.00000000000000000000",
-    "name": "",
+    "name": "Moreau, Jacques L.",
     "frd_id": "frd_person_142",
-    "gnd_id": "",
+    "gnd_id": "https://d-nb.info/gnd/100312020",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Genannt Moreau de La Sarthe",
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "143": {
+    "id": 143,
+    "order": "140.00000000000000000000",
+    "name": "Moreau de Tours, Jacques Joseph",
+    "frd_id": "frd_person_143",
+    "gnd_id": "https://d-nb.info/gnd/117601438",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Genannt  Moreau de Tours",
+    "profession": [
+      {
+        "id": 524,
+        "value": "Psychiater/Psychiaterin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "144": {
+    "id": 144,
+    "order": "141.00000000000000000000",
+    "name": "Motet, Auguste",
+    "frd_id": "frd_person_144",
+    "gnd_id": "https://d-nb.info/gnd/1217297219",
     "birth_year": null,
     "place_of_birth": [],
     "death_year": null,
     "place_of_death": [],
     "bio": "",
-    "profession": [],
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "145": {
+    "id": 145,
+    "order": "142.00000000000000000000",
+    "name": "Titchener, Edward B.",
+    "frd_id": "frd_person_145",
+    "gnd_id": "https://d-nb.info/gnd/119001411",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 526,
+        "value": "Psychologe/Psychologin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "146": {
+    "id": 146,
+    "order": "143.00000000000000000000",
+    "name": "Murry, J. C.",
+    "frd_id": "frd_person_146",
+    "gnd_id": "",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Konnte nicht identifiziert werden.",
+    "profession": [
+      {
+        "id": 521,
+        "value": "Professor/Professorin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "147": {
+    "id": 147,
+    "order": "144.00000000000000000000",
+    "name": "Nagele, Anton",
+    "frd_id": "frd_person_147",
+    "gnd_id": "https://d-nb.info/gnd/116880325",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 38,
+        "value": "Autor/Autorin"
+      },
+      {
+        "id": 374,
+        "value": "Lehrer/Lehrerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "148": {
+    "id": 148,
+    "order": "145.00000000000000000000",
+    "name": "Nelson, Julius",
+    "frd_id": "frd_person_148",
+    "gnd_id": "https://d-nb.info/gnd/116910062",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 473,
+        "value": "Pädagoge/Pädagogin"
+      },
+      {
+        "id": 589,
+        "value": "Schulleiter/Schulleiterin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "149": {
+    "id": 149,
+    "order": "146.00000000000000000000",
+    "name": "Newbold, William Romaine",
+    "frd_id": "frd_person_149",
+    "gnd_id": "https://d-nb.info/gnd/116991232",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "150": {
+    "id": 150,
+    "order": "147.00000000000000000000",
+    "name": "Passavanti, Jacobus",
+    "frd_id": "frd_person_150",
+    "gnd_id": "https://d-nb.info/gnd/100541909",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 492,
+        "value": "Philosoph/Philosophin"
+      },
+      {
+        "id": 655,
+        "value": "Theologe/Theologin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "151": {
+    "id": 151,
+    "order": "148.00000000000000000000",
+    "name": "Paulhan, Frédéric",
+    "frd_id": "frd_person_151",
+    "gnd_id": "https://d-nb.info/gnd/138967490",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "",
+    "profession": [
+      {
+        "id": 184,
+        "value": "Geisteswissenschaftler/Geisteswissenschaftlerin"
+      }
+    ],
+    "pmb": "",
+    "labels": [],
+    "wikidata": ""
+  },
+  "152": {
+    "id": 152,
+    "order": "149.00000000000000000000",
+    "name": "Pfaff, Emil Richard",
+    "frd_id": "frd_person_152",
+    "gnd_id": "https://d-nb.info/gnd/1055363424",
+    "birth_year": null,
+    "place_of_birth": [],
+    "death_year": null,
+    "place_of_death": [],
+    "bio": "Königlich sächsischer Bezirksarzt zu Dresden",
+    "profession": [
+      {
+        "id": 31,
+        "value": "Arzt/Ärztin"
+      }
+    ],
     "pmb": "",
     "labels": [],
     "wikidata": ""

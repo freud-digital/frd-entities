@@ -118,3 +118,13 @@ https://d-nb.info/gnd/115851704|Maury, Alfred|https://freud.acdh-dev.oeaw.ac.at/
 https://d-nb.info/gnd/118531514|Eybel, Joseph Valentin|https://freud.acdh-dev.oeaw.ac.at/frd_person_138.html
 https://d-nb.info/gnd/101891921X|Mentz, Richard|https://freud.acdh-dev.oeaw.ac.at/frd_person_140.html
 https://d-nb.info/gnd/121860574|Monroe, Will S.|https://freud.acdh-dev.oeaw.ac.at/frd_person_141.html
+https://d-nb.info/gnd/100312020|Moreau, Jacques L.|https://freud.acdh-dev.oeaw.ac.at/frd_person_142.html
+https://d-nb.info/gnd/117601438|Moreau de Tours, Jacques Joseph|https://freud.acdh-dev.oeaw.ac.at/frd_person_143.html
+https://d-nb.info/gnd/1217297219|Motet, Auguste|https://freud.acdh-dev.oeaw.ac.at/frd_person_144.html
+https://d-nb.info/gnd/119001411|Titchener, Edward B.|https://freud.acdh-dev.oeaw.ac.at/frd_person_145.html
+https://d-nb.info/gnd/116880325|Nagele, Anton|https://freud.acdh-dev.oeaw.ac.at/frd_person_147.html
+https://d-nb.info/gnd/116910062|Nelson, Julius|https://freud.acdh-dev.oeaw.ac.at/frd_person_148.html
+https://d-nb.info/gnd/116991232|Newbold, William Romaine|https://freud.acdh-dev.oeaw.ac.at/frd_person_149.html
+https://d-nb.info/gnd/100541909|Passavanti, Jacobus|https://freud.acdh-dev.oeaw.ac.at/frd_person_150.html
+https://d-nb.info/gnd/138967490|Paulhan, Frédéric|https://freud.acdh-dev.oeaw.ac.at/frd_person_151.html
+https://d-nb.info/gnd/1055363424|Pfaff, Emil Richard|https://freud.acdh-dev.oeaw.ac.at/frd_person_152.html

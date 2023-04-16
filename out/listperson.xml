@@ -1473,10 +1473,90 @@ https://www.histoiredelafolie.fr/psychiatrie-neurologie/maurice-macario-des-reve
                </person>
                <person xml:id="frd_person_142">
                   <persName>
-                     <forename/>
-                     <surname/>
+                     <forename>Jacques L.</forename>
+                     <surname>Moreau</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/100312020</idno>
+                  <note>Genannt Moreau de La Sarthe</note>
+               </person>
+               <person xml:id="frd_person_143">
+                  <persName>
+                     <forename>Jacques Joseph</forename>
+                     <surname>Moreau de Tours</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117601438</idno>
+                  <note>Genannt  Moreau de Tours</note>
+               </person>
+               <person xml:id="frd_person_144">
+                  <persName>
+                     <forename>Auguste</forename>
+                     <surname>Motet</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1217297219</idno>
                   <note/>
+               </person>
+               <person xml:id="frd_person_145">
+                  <persName>
+                     <forename>Edward B.</forename>
+                     <surname>Titchener</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/119001411</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_146">
+                  <persName>
+                     <forename>J. C.</forename>
+                     <surname>Murry</surname>
+                  </persName>
+                  <note>Konnte nicht identifiziert werden.</note>
+               </person>
+               <person xml:id="frd_person_147">
+                  <persName>
+                     <forename>Anton</forename>
+                     <surname>Nagele</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116880325</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_148">
+                  <persName>
+                     <forename>Julius</forename>
+                     <surname>Nelson</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116910062</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_149">
+                  <persName>
+                     <forename>William Romaine</forename>
+                     <surname>Newbold</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116991232</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_150">
+                  <persName>
+                     <forename>Jacobus</forename>
+                     <surname>Passavanti</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/100541909</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_151">
+                  <persName>
+                     <forename>Frédéric</forename>
+                     <surname>Paulhan</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/138967490</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_152">
+                  <persName>
+                     <forename>Emil Richard</forename>
+                     <surname>Pfaff</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1055363424</idno>
+                  <note>Königlich sächsischer Bezirksarzt zu Dresden</note>
                </person>
             </listPerson>
          </div>
