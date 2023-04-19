@@ -1662,6 +1662,35 @@ Die Pathologie und Therapie der psychischen Krankheiten für Aerzte und Studiren
             </imprint>
           </monogr>
         </biblStruct>
+        <biblStruct type="book" xml:id="zotero__87PM3N5A" corresp="http://zotero.org/groups/4690432/items/87PM3N5A">
+          <monogr>
+            <title level="m">Dreams and Dream-Stories. Edited by E. Maitland</title>
+            <author>
+              <forename>Anna Bonus</forename>
+              <surname>Kingsford</surname>
+            </author>
+            <editor>
+              <forename>Edward</forename>
+              <surname>Maitland</surname>
+            </editor>
+            <edition>2. ed.</edition>
+            <imprint>
+              <pubPlace>G. Redway</pubPlace>
+              <publisher>London, Edinburgh [printed]</publisher>
+              <date>1888</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__CSETVU7M" corresp="http://zotero.org/groups/4690432/items/CSETVU7M">
+          <analytic>
+            <title level="a">Ueber pathologische Träumerei und ihre Beziehungen zur Hysterie</title>
+          </analytic>
+          <monogr>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="zotero__KKQXM4D5" corresp="http://zotero.org/groups/4690432/items/KKQXM4D5">
           <monogr>
             <title level="m">Das Traumleben und seine Bedeutung nach den Prinzipien der Araber, Perser, Griecher, Inder und Aegyptier</title>
@@ -2461,25 +2490,6 @@ Die Pathologie und Therapie der psychischen Krankheiten für Aerzte und Studiren
               <biblScope unit="volume">15. Jg.</biblScope>
               <biblScope unit="page">Sp. 2469-2484, 2607-2622</biblScope>
               <date>1899</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__87PM3N5A" corresp="http://zotero.org/groups/4690432/items/87PM3N5A">
-          <monogr>
-            <title level="m">Dreams and Dream-Stories. Edited by E. Maitland</title>
-            <author>
-              <forename>Anna Bonus</forename>
-              <surname>Kingsford</surname>
-            </author>
-            <editor>
-              <forename>Edward</forename>
-              <surname>Maitland</surname>
-            </editor>
-            <edition>2. ed.</edition>
-            <imprint>
-              <pubPlace>G. Redway</pubPlace>
-              <publisher>London, Edinburgh [printed]</publisher>
-              <date>1888</date>
             </imprint>
           </monogr>
         </biblStruct>
