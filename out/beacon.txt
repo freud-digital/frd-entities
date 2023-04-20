@@ -128,3 +128,8 @@ https://d-nb.info/gnd/116991232|Newbold, William Romaine|https://freud.acdh-dev.
 https://d-nb.info/gnd/100541909|Passavanti, Jacobus|https://freud.acdh-dev.oeaw.ac.at/frd_person_150.html
 https://d-nb.info/gnd/138967490|Paulhan, Frédéric|https://freud.acdh-dev.oeaw.ac.at/frd_person_151.html
 https://d-nb.info/gnd/1055363424|Pfaff, Emil Richard|https://freud.acdh-dev.oeaw.ac.at/frd_person_152.html
+https://d-nb.info/gnd/116178213|Pick, Arnold|https://freud.acdh-dev.oeaw.ac.at/frd_person_153.html
+https://d-nb.info/gnd/1055366873|Pilcz, Alexander|https://freud.acdh-dev.oeaw.ac.at/frd_person_154.html
+https://d-nb.info/gnd/118855093|Prévost, Pierre|https://freud.acdh-dev.oeaw.ac.at/frd_person_155.html
+https://d-nb.info/gnd/118597159|Purkyně, Jan Evangelista|https://freud.acdh-dev.oeaw.ac.at/frd_person_156.html
+https://d-nb.info/gnd/116322659|Radestock, Paul|https://freud.acdh-dev.oeaw.ac.at/frd_person_157.html

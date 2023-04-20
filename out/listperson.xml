@@ -1558,6 +1558,53 @@ https://www.histoiredelafolie.fr/psychiatrie-neurologie/maurice-macario-des-reve
                   <idno type="GND">https://d-nb.info/gnd/1055363424</idno>
                   <note>Königlich sächsischer Bezirksarzt zu Dresden</note>
                </person>
+               <person xml:id="frd_person_153">
+                  <persName>
+                     <forename>Arnold</forename>
+                     <surname>Pick</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116178213</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_154">
+                  <persName>
+                     <forename>Alexander</forename>
+                     <surname>Pilcz</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1055366873</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_155">
+                  <persName>
+                     <forename>Pierre</forename>
+                     <surname>Prévost</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118855093</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_156">
+                  <persName>
+                     <forename>Jan Evangelista</forename>
+                     <surname>Purkyně</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118597159</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_157">
+                  <persName>
+                     <forename>Paul</forename>
+                     <surname>Radestock</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116322659</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_158">
+                  <persName>
+                     <forename/>
+                     <surname/>
+                  </persName>
+                  <note/>
+               </person>
             </listPerson>
          </div>
       </body>

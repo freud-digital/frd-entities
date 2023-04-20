@@ -300,6 +300,10 @@
       {
         "id": 152,
         "value": "Pfaff, Emil Richard"
+      },
+      {
+        "id": 156,
+        "value": "Purkyně, Jan Evangelista"
       }
     ]
   },
@@ -1900,6 +1904,10 @@
       {
         "id": 129,
         "value": "Lipps, Theodor"
+      },
+      {
+        "id": 155,
+        "value": "Prévost, Pierre"
       }
     ]
   },
@@ -3464,7 +3472,12 @@
     "order": "450.00000000000000000000",
     "name": "Naturwissenschaftler/Naturwissenschaftlerin",
     "frd_id": "frd_prof_450",
-    "persons": []
+    "persons": [
+      {
+        "id": 156,
+        "value": "Purkyně, Jan Evangelista"
+      }
+    ]
   },
   "451": {
     "id": 451,
@@ -3490,6 +3503,14 @@
       {
         "id": 48,
         "value": "Moebius, Paul Julius"
+      },
+      {
+        "id": 153,
+        "value": "Pick, Arnold"
+      },
+      {
+        "id": 154,
+        "value": "Pilcz, Alexander"
       }
     ]
   },
@@ -3891,6 +3912,10 @@
       {
         "id": 150,
         "value": "Passavanti, Jacobus"
+      },
+      {
+        "id": 155,
+        "value": "Prévost, Pierre"
       }
     ]
   },
@@ -3923,6 +3948,10 @@
       {
         "id": 132,
         "value": "Macfarlane, Alexander"
+      },
+      {
+        "id": 155,
+        "value": "Prévost, Pierre"
       }
     ]
   },
@@ -3943,6 +3972,10 @@
       {
         "id": 86,
         "value": "Gley, Eugène"
+      },
+      {
+        "id": 156,
+        "value": "Purkyně, Jan Evangelista"
       }
     ]
   },
@@ -4221,6 +4254,14 @@
       {
         "id": 143,
         "value": "Moreau de Tours, Jacques Joseph"
+      },
+      {
+        "id": 153,
+        "value": "Pick, Arnold"
+      },
+      {
+        "id": 154,
+        "value": "Pilcz, Alexander"
       }
     ]
   },
@@ -4265,6 +4306,10 @@
       {
         "id": 145,
         "value": "Titchener, Edward B."
+      },
+      {
+        "id": 157,
+        "value": "Radestock, Paul"
       }
     ]
   },
@@ -4736,6 +4781,10 @@
       {
         "id": 134,
         "value": "Cousin, Victor"
+      },
+      {
+        "id": 156,
+        "value": "Purkyně, Jan Evangelista"
       }
     ]
   },
