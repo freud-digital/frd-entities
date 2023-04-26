@@ -1600,6 +1600,35 @@ https://www.histoiredelafolie.fr/psychiatrie-neurologie/maurice-macario-des-reve
                </person>
                <person xml:id="frd_person_158">
                   <persName>
+                     <forename>Konrad</forename>
+                     <surname>Ramm</surname>
+                  </persName>
+                  <note>Konnte nicht identifiziert werden.</note>
+               </person>
+               <person xml:id="frd_person_159">
+                  <persName>
+                     <forename>Emmanuel</forename>
+                     <surname>Régis</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/1116549026</idno>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_160">
+                  <persName>
+                     <forename/>
+                     <surname/>
+                  </persName>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_161">
+                  <persName>
+                     <forename/>
+                     <surname/>
+                  </persName>
+                  <note/>
+               </person>
+               <person xml:id="frd_person_162">
+                  <persName>
                      <forename/>
                      <surname/>
                   </persName>

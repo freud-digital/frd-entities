@@ -133,3 +133,4 @@ https://d-nb.info/gnd/1055366873|Pilcz, Alexander|https://freud.acdh-dev.oeaw.ac
 https://d-nb.info/gnd/118855093|Prévost, Pierre|https://freud.acdh-dev.oeaw.ac.at/frd_person_155.html
 https://d-nb.info/gnd/118597159|Purkyně, Jan Evangelista|https://freud.acdh-dev.oeaw.ac.at/frd_person_156.html
 https://d-nb.info/gnd/116322659|Radestock, Paul|https://freud.acdh-dev.oeaw.ac.at/frd_person_157.html
+https://d-nb.info/gnd/1116549026|Régis, Emmanuel|https://freud.acdh-dev.oeaw.ac.at/frd_person_159.html

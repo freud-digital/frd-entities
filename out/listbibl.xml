@@ -1754,6 +1754,71 @@ Die Pathologie und Therapie der psychischen Krankheiten für Aerzte und Studiren
             </imprint>
           </monogr>
         </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__JCJFKMMB" corresp="http://zotero.org/groups/4690432/items/JCJFKMMB">
+          <analytic>
+            <title level="a">Contribution to the Psychology of Visual Dreams</title>
+            <author>
+              <forename>George Trumbull</forename>
+              <surname>Ladd</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Mind</title>
+            <imprint>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">299-304</biblScope>
+              <date>1892</date>
+              <note type="url">https://academic.oup.com/mind/article-abstract/1/2/299/1300089</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__BWTBE7KM" corresp="http://zotero.org/groups/4690432/items/BWTBE7KM">
+          <monogr>
+            <title level="m">Aus dem Traumleben</title>
+            <idno type="callNumber">390247-B-C.1895</idno>
+            <author>
+              <forename>Eduard</forename>
+              <surname>Kučera</surname>
+            </author>
+            <imprint>
+              <pubPlace>M. Weisskirchen</pubPlace>
+              <date>1895</date>
+              <note type="accessed">2023-03-23T11:45:22Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00541169</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Jahresbericht des k.k. Realgymnasiums zu Mähr.-Weißkirchen. 1895</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__MDTV34PD" corresp="http://zotero.org/groups/4690432/items/MDTV34PD">
+          <analytic>
+            <title level="a"/>
+            <author>
+              <forename>Emmanuel</forename>
+              <surname>Régis</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__UJG6GUDV" corresp="http://zotero.org/groups/4690432/items/UJG6GUDV">
+          <monogr>
+            <title level="m">pertractans somnia</title>
+            <author>
+              <forename>Konrad</forename>
+              <surname>Ramm</surname>
+            </author>
+            <imprint>
+              <pubPlace>Viennae</pubPlace>
+              <date>1889</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="zotero__4IVXNHBU" corresp="http://zotero.org/groups/4690432/items/4IVXNHBU">
           <monogr>
             <title level="m">Schlaf und Traum: eine physiologisch-psychologische Untersuchung</title>
@@ -2533,44 +2598,6 @@ Die Pathologie und Therapie der psychischen Krankheiten für Aerzte und Studiren
               <note type="url">https://d-nb.info/gnd/1149415320</note>
             </imprint>
           </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__JCJFKMMB" corresp="http://zotero.org/groups/4690432/items/JCJFKMMB">
-          <analytic>
-            <title level="a">Contribution to the Psychology of Visual Dreams</title>
-            <author>
-              <forename>George Trumbull</forename>
-              <surname>Ladd</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Mind</title>
-            <imprint>
-              <biblScope unit="volume">1</biblScope>
-              <biblScope unit="issue">2</biblScope>
-              <biblScope unit="page">299-304</biblScope>
-              <date>1892</date>
-              <note type="url">https://academic.oup.com/mind/article-abstract/1/2/299/1300089</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__BWTBE7KM" corresp="http://zotero.org/groups/4690432/items/BWTBE7KM">
-          <monogr>
-            <title level="m">Aus dem Traumleben</title>
-            <idno type="callNumber">390247-B-C.1895</idno>
-            <author>
-              <forename>Eduard</forename>
-              <surname>Kučera</surname>
-            </author>
-            <imprint>
-              <pubPlace>M. Weisskirchen</pubPlace>
-              <date>1895</date>
-              <note type="accessed">2023-03-23T11:45:22Z</note>
-              <note type="url">http://data.onb.ac.at/imgk/AZ00541169</note>
-            </imprint>
-          </monogr>
-          <series>
-            <title level="s">Jahresbericht des k.k. Realgymnasiums zu Mähr.-Weißkirchen. 1895</title>
-          </series>
         </biblStruct>
       </listBibl>
     </body>
