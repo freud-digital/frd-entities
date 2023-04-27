@@ -1792,9 +1792,90 @@ Die Pathologie und Therapie der psychischen Krankheiten für Aerzte und Studiren
             <title level="s">Jahresbericht des k.k. Realgymnasiums zu Mähr.-Weißkirchen. 1895</title>
           </series>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__MDTV34PD" corresp="http://zotero.org/groups/4690432/items/MDTV34PD">
+        <biblStruct type="journalArticle" xml:id="zotero__A6325RA3" corresp="http://zotero.org/groups/4690432/items/A6325RA3">
           <analytic>
-            <title level="a"/>
+            <title level="a">Le délire alcoolique n’est pas un délire mais un rêve</title>
+            <author>
+              <forename>Charles</forename>
+              <surname>Lasègue</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Archives Générales de Médecine (Paris)</title>
+            <imprint>
+              <biblScope unit="volume">VIIe série, tome 6, 148e volume de la collection, volme II, 1881</biblScope>
+              <biblScope unit="page">513-536</biblScope>
+              <date>1881</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__U9UFTC4F" corresp="http://zotero.org/groups/4690432/items/U9UFTC4F">
+          <analytic>
+            <title level="a">Aus dem Traumleben</title>
+            <author>
+              <forename>M.</forename>
+              <surname>Landau</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Münchner Neueste Nachrichten</title>
+            <imprint>
+              <biblScope unit="volume">Jg. 45</biblScope>
+              <biblScope unit="issue">Nr. 12 Morgenblatt</biblScope>
+              <biblScope unit="page">1-2</biblScope>
+              <date>1892</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__7PHAZACN" corresp="http://zotero.org/groups/4690432/items/7PHAZACN">
+          <monogr>
+            <title level="m">Das Rätsel der Sphinx. Grundzüge einer Mythengeschichte</title>
+            <extent>2 Bände</extent>
+            <author>
+              <forename>Ludwig</forename>
+              <surname>Laistner</surname>
+            </author>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Wilhelm Hertz</publisher>
+              <date>1892</date>
+              <note type="url">https://d-nb.info/gnd/1149415320</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__TXHWVU8Z" corresp="http://zotero.org/groups/4690432/items/TXHWVU8Z">
+          <monogr>
+            <title level="m">La théorie des songes</title>
+            <author>
+              <forename>Jérôme</forename>
+              <surname>Richard</surname>
+            </author>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Estienne</publisher>
+              <date>1766</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__279GZ68B" corresp="http://zotero.org/groups/4690432/items/279GZ68B">
+          <analytic>
+            <title level="a">Les rêves et l’hypnotisme</title>
+            <author>
+              <forename>Emmanuel</forename>
+              <surname>Régis</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Le Monde</title>
+            <imprint>
+              <biblScope unit="page">1</biblScope>
+              <date>1890</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__BBF4P5VX" corresp="http://zotero.org/groups/4690432/items/BBF4P5VX">
+          <analytic>
+            <title level="a">Des Hallucinations oniriques des Dégénérés mystiques. Extrait du "Congrès des Médecins Aliénistes et Neurologistes de France et des pays de langue française – Cinquième session, tenue à Clermont-Ferrand du 6 au 11août 1894 – Procès-verbaux, mémoires et discussions"</title>
             <author>
               <forename>Emmanuel</forename>
               <surname>Régis</surname>
@@ -1802,7 +1883,23 @@ Die Pathologie und Therapie der psychischen Krankheiten für Aerzte und Studiren
           </analytic>
           <monogr>
             <imprint>
-              <date/>
+              <biblScope unit="page">269-276</biblScope>
+              <date>1894</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="zotero__MDTV34PD" corresp="http://zotero.org/groups/4690432/items/MDTV34PD">
+          <analytic>
+            <title level="a">Les reves</title>
+            <author>
+              <forename>Emmanuel</forename>
+              <surname>Régis</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">La Gironde (Variétés). Bordeaux</title>
+            <imprint>
+              <date>1890</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -2545,57 +2642,6 @@ Die Pathologie und Therapie der psychischen Krankheiten für Aerzte und Studiren
             <title level="j">Annales médico-psychologique</title>
             <imprint>
               <date>1895</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__A6325RA3" corresp="http://zotero.org/groups/4690432/items/A6325RA3">
-          <analytic>
-            <title level="a">Le délire alcoolique n’est pas un délire mais un rêve</title>
-            <author>
-              <forename>Charles</forename>
-              <surname>Lasègue</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Archives Générales de Médecine (Paris)</title>
-            <imprint>
-              <biblScope unit="volume">VIIe série, tome 6, 148e volume de la collection, volme II, 1881</biblScope>
-              <biblScope unit="page">513-536</biblScope>
-              <date>1881</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="zotero__U9UFTC4F" corresp="http://zotero.org/groups/4690432/items/U9UFTC4F">
-          <analytic>
-            <title level="a">Aus dem Traumleben</title>
-            <author>
-              <forename>M.</forename>
-              <surname>Landau</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Münchner Neueste Nachrichten</title>
-            <imprint>
-              <biblScope unit="volume">Jg. 45</biblScope>
-              <biblScope unit="issue">Nr. 12 Morgenblatt</biblScope>
-              <biblScope unit="page">1-2</biblScope>
-              <date>1892</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="zotero__7PHAZACN" corresp="http://zotero.org/groups/4690432/items/7PHAZACN">
-          <monogr>
-            <title level="m">Das Rätsel der Sphinx. Grundzüge einer Mythengeschichte</title>
-            <extent>2 Bände</extent>
-            <author>
-              <forename>Ludwig</forename>
-              <surname>Laistner</surname>
-            </author>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Wilhelm Hertz</publisher>
-              <date>1892</date>
-              <note type="url">https://d-nb.info/gnd/1149415320</note>
             </imprint>
           </monogr>
         </biblStruct>

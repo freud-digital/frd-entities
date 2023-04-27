@@ -1473,6 +1473,10 @@
       {
         "id": 137,
         "value": "Maury, Alfred"
+      },
+      {
+        "id": 160,
+        "value": "Richard, Jérôme"
       }
     ]
   },
@@ -4116,7 +4120,12 @@
     "order": "513.00000000000000000000",
     "name": "Priester/Priesterin",
     "frd_id": "frd_prof_513",
-    "persons": []
+    "persons": [
+      {
+        "id": 160,
+        "value": "Richard, Jérôme"
+      }
+    ]
   },
   "514": {
     "id": 514,
@@ -5373,6 +5382,10 @@
       {
         "id": 134,
         "value": "Cousin, Victor"
+      },
+      {
+        "id": 160,
+        "value": "Richard, Jérôme"
       }
     ]
   },

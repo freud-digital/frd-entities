@@ -3338,15 +3338,28 @@
   "160": {
     "id": 160,
     "order": "160.00000000000000000000",
-    "name": "",
+    "name": "Richard, Jérôme",
     "frd_id": "frd_person_160",
-    "gnd_id": "",
+    "gnd_id": "https://d-nb.info/gnd/13410191X",
     "birth_year": null,
     "place_of_birth": [],
     "death_year": null,
     "place_of_death": [],
     "bio": "",
-    "profession": [],
+    "profession": [
+      {
+        "id": 187,
+        "value": "Gelehrter/Gelehrte"
+      },
+      {
+        "id": 513,
+        "value": "Priester/Priesterin"
+      },
+      {
+        "id": 664,
+        "value": "Übersetzer/Übersetzerin"
+      }
+    ],
     "pmb": "",
     "labels": [],
     "wikidata": ""
